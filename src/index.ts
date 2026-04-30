@@ -1,4 +1,4 @@
-import { Season, monthToSeason } from "./query";
+import { Season, monthToSeason, getNextSeasonAndYear } from "./query";
 import { Stremio } from "./stremio";
 import { TitleType } from 'name-to-imdb';
 import { Patches } from "./patch";
@@ -35,6 +35,14 @@ async function main() {
             }
         }
     }
+    // Next season catalog (series only)
+    const currentSeason = monthToSeason(today.getMonth());
+    const [nextSeason, nextSeasonYear] = getNextSeasonAndYear(currentSeason, currentYear);
+    console.log(`Generating next season catalog: ${nextSeason} ${nextSeasonYear}`);
+    const nextSeasonCatalog = await Stremio.createCatalogIfNotExists(`series/next_anime_season.json`);
+    await nextSeasonCatalog.populate(nextSeasonYear, nextSeason, "series");
+    patchCtl.applyPatches(nextSeasonCatalog, "series", nextSeason);
+    promises.push(nextSeasonCatalog.writeToFile());
     if (currentYear > manifest.getLastUpdate().getFullYear() || manifest.getSeasons()[0] != monthToSeason(today.getMonth())) {
         console.log(`Updating manifest`);
         await manifest.update(today);
