@@ -1,9 +1,9 @@
 {
   "id": "animes-season-addon",
   "version": "1.18.1",
-  "name": "Animes' season",
-  "description": "A catalog addon for the latest anime seasons",
-  "logo": "https://styles.redditmedia.com/t5_yo4xr/styles/communityIcon_rv2fpnvbmfra1.png",
+  "name": "Animes' Seasons",
+  "description": "Anime catalogs by season with priority metadata from Kitsu",
+  "logo": "https://media.craiyon.com/2023-06-27/6664b575d60846fe878fc9d1e1f09d09.webp",
   "resources": [
     "catalog"
   ],
@@ -12,6 +12,13 @@
     "series"
   ],
   "catalogs": [
+    {
+      "type": "series",
+      "id": "next_anime_season",
+      "name": "Upcoming Anime Season",
+      "extra": [],
+      "extraSupported": []
+    },
     {
       "type": "series",
       "id": "latest_anime_seasons",
