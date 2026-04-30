@@ -46,7 +46,7 @@ export class Catalog {
         const results = response?.data?.Page?.media;
         if (!results) return;
         for (const anime of results) {
-            const originalName = anime.title.english ?? anime.title.romaji;
+            const originalName = anime.title.romaji ?? anime.title.english;
             let description = this.describe(anime);
             let fromAnilist = new IdResolver(IdSource.ANILIST, anime.id, originalName, anime.seasonYear, type, Stremio.removeSeasonDetails);
             let id = await fromAnilist.resolveKitsu();
