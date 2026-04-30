@@ -49,10 +49,10 @@ export class Catalog {
             const originalName = anime.title.english ?? anime.title.romaji;
             let description = this.describe(anime);
             let fromAnilist = new IdResolver(IdSource.ANILIST, anime.id, originalName, anime.seasonYear, type, Stremio.removeSeasonDetails);
-            let imdbId = await fromAnilist.resolveImdb();
-            let id = imdbId;
-            if (!imdbId) {
-                id = await fromAnilist.resolveKitsu();
+            let id = await fromAnilist.resolveKitsu();
+            if (!id) {
+                const imdbId = await fromAnilist.resolveImdb();
+                id = imdbId;
             }
             const poster = anime.coverImage.extraLarge ?? anime.coverImage.large ?? anime.coverImage.medium ?? anime.bannerImage;
             switch (type) {
