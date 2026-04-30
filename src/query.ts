@@ -115,3 +115,16 @@ export function query(year: number, season: Season, sorting: Sorting, format: Ti
         }
       }`
 }
+
+/**
+ * Get the next season and its corresponding year
+ */
+export function getNextSeasonAndYear(currentSeason: Season, currentYear: number): [Season, number] {
+    switch (currentSeason) {
+        case Season.WINTER: return [Season.SPRING, currentYear];
+        case Season.SPRING: return [Season.SUMMER, currentYear];
+        case Season.SUMMER: return [Season.FALL,   currentYear];
+        case Season.FALL:   return [Season.WINTER, currentYear + 1];
+        default: throw new Error("Invalid season");
+    }
+}
