@@ -127,6 +127,10 @@ export class IdResolver {
     }
     async resolveKitsu() {
         const id = await this.urlResolver.handle(this.source, IdSource.KITSU, this.id);
-        return id ? `kitsu:${id}` : undefined;
+        // Only prefix kitsu if id is a valid kitsu ID
+        if (id && !String(id).startsWith('tt')) {
+            return `kitsu:${id}`;
+        }
+        return undefined;
     }
 }

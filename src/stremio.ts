@@ -11,6 +11,8 @@ export type Meta = {
     behaviorHints?: {
         defaultVideoId: string;
     }
+    description?: string;
+    popularity?: number;
 }
 export class Catalog {
     private metas: Meta[] = [];
@@ -24,18 +26,21 @@ export class Catalog {
         return this.metas;
     }
 
-    /**
-     * Create a file at path with the contents of metas
-     */
+    sortByPopularity() {
+        this.metas.sort((a, b) => (b.popularity ?? 0) - (a.popularity ?? 0));
+    }
+
+    // Write metas to file
     async writeToFile() {
-        await fs.writeFile(this.pathFile, JSON.stringify({metas: this.metas.filter((m) => m?.id?.startsWith("tt") || m?.id?.startsWith("kitsu"))}, null, 2));
+        const cleanedMetas = this.metas.map(({ popularity, ...rest }) => rest);
+        await fs.writeFile(this.pathFile, JSON.stringify({metas: cleanedMetas.filter((m) => m?.id?.startsWith("tt") || m?.id?.startsWith("kitsu"))}, null, 2));
     }
 
     describe({genres, tags, description}: {genres: string[], tags: string[], description: string}) {
         let result = "Genres: " + genres.join(", ");
         const isSpoilerFree = (tag:any) => !tag.isMediaSpoiler && !tag.isGeneralSpoiler;
         result += "\nTags:" + tags.filter(isSpoilerFree).map(({name}:any) => name).join("/");
-        result += `\n${description}` ?? "";
+        result += description ? `\n${description}` : "";
         return result;
     }
 
@@ -57,10 +62,10 @@ export class Catalog {
             const poster = anime.coverImage.extraLarge ?? anime.coverImage.large ?? anime.coverImage.medium ?? anime.bannerImage;
             switch (type) {
                 case "movie":
-                    this.addMeta({id,type,name:originalName,poster, behaviorHints:{defaultVideoId:id}, description} as Meta);
+                    this.addMeta({id,type,name:originalName,poster, behaviorHints:{defaultVideoId:id}, description, popularity: anime.popularity} as Meta);
                     break;
                 default:
-                    this.addMeta({id,type,name:originalName,poster, description} as Meta);
+                    this.addMeta({id,type,name:originalName,poster, description, popularity: anime.popularity} as Meta);
             }
         }
     }
@@ -96,24 +101,27 @@ type AbstractManifest = {
 export class Manifest implements AbstractManifest {
     async update(today: Date) {
         this.lastUpdatedAt = today;
-        let [major, minor, patch] = this.version.split(".");
-        this.version = `${major}.${Number.parseInt(minor)+1}.${patch}`;
+        const yy = today.getFullYear() % 100;
+        const currentSeason = monthToSeason(today.getMonth());
+        let sIdx = 1;
+        if (currentSeason === Season.SPRING) sIdx = 2;
+        else if (currentSeason === Season.SUMMER) sIdx = 3;
+        else if (currentSeason === Season.FALL) sIdx = 4;
+        this.version = `${yy}.${sIdx}.0`;
         this.years = Manifest.dateToYears(today);
         this.seasons = Manifest.dateToSeasons(today);
         for (const catalog of this.catalogs) {
-            if (catalog.name == "Anime Years") {
+            if (catalog.id == "archive_anime_seasons") {
                 catalog.extra[0].options = this.years;
             }
-            else if (catalog.name == "Anime Seasons") {
+            else if (catalog.id == "latest_anime_seasons") {
                 catalog.extra[0].options = this.seasons;
             }
         }
         await this.writeToFile();
     }
 
-    /**
-     * Create a file at path with the contents of metas
-     */
+    // Write manifest to file
     async writeToFile() {
         await fs.writeFile(this.pathFile, JSON.stringify({
             id: this.id,
@@ -132,7 +140,7 @@ export class Manifest implements AbstractManifest {
     getLastUpdate() : Date {
         return this.lastUpdatedAt;
     }
-    private seasons: Season[];
+    private seasons: string[];
     private years: string[];
     constructor(
         private pathFile: string,
@@ -151,15 +159,14 @@ export class Manifest implements AbstractManifest {
             this.catalogs = [];
             this.seasons = Manifest.dateToSeasons(lastUpdatedAt);
             this.years = Manifest.dateToYears(lastUpdatedAt);
-            this.addCatalog("series", CatalogType.LATEST);
-            this.addCatalog("movie", CatalogType.LATEST);
-            this.addCatalog("series", CatalogType.ARCHIVE);
-            this.addCatalog("movie", CatalogType.ARCHIVE);
+            // Default catalogs are now handled in Manifest.default
         }
         else {
             this.catalogs = catalogs;
-            this.seasons = catalogs.find(catalog => catalog.id == "latest_anime_seasons")?.extra[0].options as Season[];
-            this.years = catalogs.find(catalog => catalog.id == "archive_anime_seasons")?.extra[0].options as string[];
+            const latestCatalog = catalogs.find(catalog => catalog.id == "latest_anime_seasons");
+            this.seasons = latestCatalog ? latestCatalog.extra[0].options as string[] : Manifest.dateToSeasons(lastUpdatedAt);
+            const archiveCatalog = catalogs.find(catalog => catalog.id == "archive_anime_seasons");
+            this.years = archiveCatalog ? archiveCatalog.extra[0].options as string[] : Manifest.dateToYears(lastUpdatedAt);
         }
     }
     static fromObject(pathFile: string, obj: AbstractManifest) : Manifest {
@@ -178,15 +185,36 @@ export class Manifest implements AbstractManifest {
         );
     }
     static default(pathFile: string) : Manifest {
+        const today = new Date();
+        const seasons = Manifest.dateToSeasons(today);
         return Manifest.fromObject(pathFile, {
             id: "animes-season-addon",
-            version: "1.2.0",
-            name: "Animes' season",
-            description: "A catalog addon for the latest anime seasons",
-            logo: "https://styles.redditmedia.com/t5_yo4xr/styles/communityIcon_rv2fpnvbmfra1.png",
+            version: "1.0.0",
+            name: "Animes' Seasons",
+            description: "Anime catalogs by season with priority metadata from Kitsu",
+            logo: "https://media.craiyon.com/2023-06-27/6664b575d60846fe878fc9d1e1f09d09.webp",
             resources: ["catalog"],
-            types: ["movie","series"],
-            catalogs: [],
+            types: ["series"],
+            catalogs: [
+                {
+                    type: "series",
+                    id: "latest_anime_seasons",
+                    name: "This Season",
+                    extra: [{
+                        name: "genre",
+                        options: seasons,
+                        isRequired: false
+                    }],
+                    extraSupported: ["genre"]
+                },
+                {
+                    type: "series",
+                    id: "next_anime_season",
+                    name: "Upcoming Season",
+                    extra: [],
+                    extraSupported: []
+                }
+            ],
             idPrefixes: ["tt","kitsu"]
           } as AbstractManifest);
     }
@@ -196,7 +224,7 @@ export class Manifest implements AbstractManifest {
         obj.lastUpdatedAt = new Date(obj.lastUpdatedAt);
         return Manifest.fromObject(filePath, obj);
     }
-    getSeasons() : Season[] {
+    getSeasons() : string[] {
         return this.seasons;
     }
     getYears() : string[] {
@@ -204,15 +232,25 @@ export class Manifest implements AbstractManifest {
     }
     private static dateToYears(today: Date) : string[] {
         const years = []
-        for (let y = today.getFullYear() - 1; y >= 2001; y--) {
+        for (let y = today.getFullYear(); y >= 2001; y--) {
             years.push(y.toString());
         }
         return years
     }
-    private static dateToSeasons(today: Date) : Season[] {
+    private static dateToSeasons(today: Date) : string[] {
         const currentMonth = today.getMonth();
         const currentSeason = monthToSeason(currentMonth);
-        return createSortedSeasonList(currentSeason);
+        const sortedSeasons = createSortedSeasonList(currentSeason);
+        const currentYear = today.getFullYear();
+        
+        const seasonOrder = [Season.WINTER, Season.SPRING, Season.SUMMER, Season.FALL];
+        const currentSeasonIndex = seasonOrder.indexOf(currentSeason);
+        
+        return sortedSeasons.map(season => {
+            const seasonIndex = seasonOrder.indexOf(season);
+            const year = seasonIndex < currentSeasonIndex ? currentYear + 1 : currentYear;
+            return `${season} ${year}`;
+        });
     }
     private addCatalog(contentType: TitleType, catalogType: CatalogType) {
         this.catalogs.push({

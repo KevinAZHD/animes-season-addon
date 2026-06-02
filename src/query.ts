@@ -1,10 +1,10 @@
 import { TitleType } from "name-to-imdb";
 
 export enum Season {
-    WINTER = "WINTER", // December to February
-    SPRING = "SPRING", // March to May
-    SUMMER = "SUMMER", // June to August
-    FALL = "FALL" // September to November
+    WINTER = "WINTER", // Dec to Feb
+    SPRING = "SPRING", // Mar to May
+    SUMMER = "SUMMER", // Jun to Aug
+    FALL = "FALL" // Sep to Nov
 }
 export enum Sorting {
     ID = "ID",
@@ -46,23 +46,16 @@ export enum Sorting {
     FAVOURITES_DESC = ""
 }
 
-/**
- * Convert month to season
- * @param month Month must be between 0 and 11
- */
+// Convert month to season matching MAL
 export function monthToSeason(month: number): Season {
-    if (new Set<number>([11,0,1]).has(month)) return Season.WINTER;
-    if (month >= 2 && month <= 4) return Season.SPRING;
-    if (month >= 5 && month <= 7) return Season.SUMMER;
-    if (month >= 8 && month <= 10) return Season.FALL;
+    if (month >= 0 && month <= 2) return Season.WINTER;  // Jan-Mar
+    if (month >= 3 && month <= 5) return Season.SPRING;  // Apr-Jun
+    if (month >= 6 && month <= 8) return Season.SUMMER;  // Jul-Sep
+    if (month >= 9 && month <= 11) return Season.FALL;   // Oct-Dec
     throw new Error("Month must be between 0 and 11");
 }
 
-/**
- * Create a sorted list of seasons based on the first season provided
- * @param firstSeason current season of the year that should be first in the list of seasons
- * @returns Sorted list of seasons with the first season being the one passed as argument
- */
+// Sort seasons list starting from firstSeason
 export function createSortedSeasonList(firstSeason: Season): Season[] {
   switch (firstSeason) {
     case Season.WINTER:
@@ -78,21 +71,16 @@ export function createSortedSeasonList(firstSeason: Season): Season[] {
   }
 }
 
-/**
- * Generate query string for GraphQL based on template and arguments
- * @param year Queried year
- * @param season Queried season
- * @param sorting Sorting algorithm
- * @returns The query string
- */
+// Generate GraphQL query string
 export function query(year: number, season: Season, sorting: Sorting, format: TitleType = "movie"): string{
-    if (year < 2000 || year > (new Date()).getFullYear()) throw new Error("Year must be between 2000 and now");
+    if (year < 2000 || year > (new Date()).getFullYear() + 1) throw new Error("Year must be between 2000 and next year");
     const formatFilter = format === "movie" ? "format:MOVIE" : "format_in:[TV,TV_SHORT,OVA,SPECIAL,ONA]";
     return `query {
         Page(perPage: 50, page: 1) {
           media(seasonYear:${year}, season:${season}, sort:${sorting}, type:ANIME, ${formatFilter}) {
             id
             idMal
+            popularity
             genres
             title {
               romaji
@@ -116,9 +104,7 @@ export function query(year: number, season: Season, sorting: Sorting, format: Ti
       }`
 }
 
-/**
- * Get the next season and its corresponding year
- */
+// Get next season and year
 export function getNextSeasonAndYear(currentSeason: Season, currentYear: number): [Season, number] {
     switch (currentSeason) {
         case Season.WINTER: return [Season.SPRING, currentYear];

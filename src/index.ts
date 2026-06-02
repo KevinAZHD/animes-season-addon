@@ -1,6 +1,5 @@
 import { Season, monthToSeason, getNextSeasonAndYear } from "./query";
 import { Stremio } from "./stremio";
-import { TitleType } from 'name-to-imdb';
 import { Patches } from "./patch";
 
 async function main() {
@@ -10,43 +9,40 @@ async function main() {
     const promises = [];
     const patchCtl = new Patches();
     patchCtl.loadCatalogManualFixPatches();
-    for (const titleType of ["series", "movie"] as TitleType[]) {
-        const defaultCatalog = await Stremio.createCatalogIfNotExists(`${titleType}/latest_anime_seasons.json`);
-        for (const season of manifest.getSeasons()) {
-            console.log(`Generating catalog for season ${season} ${titleType}`);
-            const catalog = await Stremio.createCatalogIfNotExists(`${titleType}/latest_anime_seasons/genre=${season}.json`);
-            await catalog.populate(currentYear, season, titleType);
-            patchCtl.applyPatches(catalog, titleType, season);
-            promises.push(catalog.writeToFile());
-            if (season === monthToSeason(today.getMonth())) {
-                catalog.getMetas().forEach(meta => defaultCatalog.addMeta(meta));
-                promises.push(defaultCatalog.writeToFile());
-            }
-        }
-        if (currentYear > manifest.getLastUpdate().getFullYear()) {
-            for (let year = Math.max(2001, manifest.getLastUpdate().getFullYear()); year < currentYear; year++) {
-                console.log(`Generating catalog for year ${year} ${titleType}`);
-                const catalog = await Stremio.createCatalogIfNotExists(`${titleType}/archive_anime_seasons/genre=${year}.json`);
-                for (const season of manifest.getSeasons()) {
-                    await catalog.populate(year, season, titleType);
-                    patchCtl.applyPatches(catalog, titleType, year.toString());
-                }
-                promises.push(catalog.writeToFile());
-            }
+    
+    const titleType = "series";
+    const defaultCatalog = await Stremio.createCatalogIfNotExists(`${titleType}/latest_anime_seasons.json`);
+    for (const season of manifest.getSeasons()) {
+        const [seasonName, seasonYearStr] = season.split(" ");
+        const seasonYear = parseInt(seasonYearStr);
+        
+        console.log(`Generating catalog for season ${season} ${titleType}`);
+        const catalog = await Stremio.createCatalogIfNotExists(`${titleType}/latest_anime_seasons/genre=${season}.json`);
+        await catalog.populate(seasonYear, seasonName as Season, "series");
+        await catalog.populate(seasonYear, seasonName as Season, "movie");
+        patchCtl.applyPatches(catalog, seasonName);
+        catalog.sortByPopularity();
+        promises.push(catalog.writeToFile());
+        if (season === `${monthToSeason(today.getMonth())} ${currentYear}`) {
+            catalog.getMetas().forEach(meta => defaultCatalog.addMeta(meta));
+            defaultCatalog.sortByPopularity();
+            promises.push(defaultCatalog.writeToFile());
         }
     }
-    // Next season catalog (series only)
+    
+    // Next season catalog
     const currentSeason = monthToSeason(today.getMonth());
     const [nextSeason, nextSeasonYear] = getNextSeasonAndYear(currentSeason, currentYear);
     console.log(`Generating next season catalog: ${nextSeason} ${nextSeasonYear}`);
     const nextSeasonCatalog = await Stremio.createCatalogIfNotExists(`series/next_anime_season.json`);
     await nextSeasonCatalog.populate(nextSeasonYear, nextSeason, "series");
-    patchCtl.applyPatches(nextSeasonCatalog, "series", nextSeason);
+    await nextSeasonCatalog.populate(nextSeasonYear, nextSeason, "movie");
+    patchCtl.applyPatches(nextSeasonCatalog, nextSeason);
+    nextSeasonCatalog.sortByPopularity();
     promises.push(nextSeasonCatalog.writeToFile());
-    if (currentYear > manifest.getLastUpdate().getFullYear() || manifest.getSeasons()[0] != monthToSeason(today.getMonth())) {
-        console.log(`Updating manifest`);
-        await manifest.update(today);
-    }
+    
+    console.log(`Updating manifest`);
+    await manifest.update(today);
     await Promise.all(promises);
 }
 

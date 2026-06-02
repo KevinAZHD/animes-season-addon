@@ -1,270 +1,437 @@
 {
   "metas": [
     {
-      "id": "kitsu:50021",
+      "id": "kitsu:49002",
       "type": "series",
-      "name": "Kusuriya no Hitorigoto 3rd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195516-FWHIFQMvCjVj.jpg",
-      "description": "Genres: Drama, Mystery\nTags:Medicine/Female Protagonist/Politics/Ancient China/Detective/Historical/Seinen/Heterosexual/Class Struggle/Femboy\nThe third season of <i>Kusuriya no Hitorigoto</i>."
+      "name": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-Gam1EpzXlrUv.png",
+      "description": "Genres: Adventure, Drama, Ecchi, Fantasy\nTags:Male Protagonist/Coming of Age/Isekai/Family Life/Magic/Heterosexual/Polyamorous/Swordplay/Medieval/Female Harem/Gods/Demons/Primarily Adult Cast/Elf/Disability/Politics/Love Triangle/Maids/Amnesia/Kemonomimi/College/Delinquents\nThe third season of <i>Mushoku Tensei: Isekai Ittara Honki Dasu</i>."
     },
     {
-      "id": "kitsu:46917",
+      "id": "kitsu:44778",
       "type": "series",
-      "name": "Tensei Shitara Ken Deshita 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159042-jgPJHpMfrSv5.jpg",
-      "description": "Genres: Action, Adventure, Fantasy\nTags:Female Protagonist/Swordplay/Nekomimi/Kemonomimi/Gore/Isekai/Urban Fantasy/Cute Girls Doing Cute Things/Medieval/Food\nThe second season of <i>Tensei Shitara Ken Deshita</i>."
+      "name": "Youjo Senki II",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135865-9b3Nn8nmGZIG.jpg",
+      "description": "Genres: Action, Fantasy\nTags:Military/War/Age Regression/Female Protagonist/Isekai/Anti-Hero/Guns/Magic/Religion/Politics/Foreign/Revenge/Gods/Gender Bending/Historical/Primarily Adult Cast/Primarily Male Cast/Tanks/Femboy/Assassins\nThe second season of <i>Youjo Senki</i>."
     },
     {
-      "id": "kitsu:49752",
-      "type": "series",
-      "name": "Ao no Hako Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189123-0secXELIhkIW.jpg",
-      "description": "Genres: Romance, Slice of Life, Sports\nTags:Primarily Teen Cast/Heterosexual/Iyashikei/School/Male Protagonist/Coming of Age/Badminton/Acrobatics/Shounen/Female Protagonist/Basketball\nThe second season of <i>Ao no Hako</i>.\n"
+      "id": "kitsu:44451",
+      "type": "movie",
+      "name": "Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133007-5gOUXDvzxy9S.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:44451"
+      },
+      "description": "Genres: Mahou Shoujo\nTags:Magic/Female Protagonist/Primarily Female Cast/Philosophy/Witch/Super Power/Urban Fantasy/Kuudere/Guns/Curses\nThe 10th anniversary online event for the <i>Mahou Shoujo Madoka☆Magica</i> anime revealed that the franchise is getting a new anime film titled <i>Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten</i>. The film will be an official sequel to the <i>Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari</i> film that opened in October 2013. The tagline on the new film's visual reads, <i>\"Now, let's continue the story.\"</i><br><br>\n(Source: Anime News Network, edited)"
     },
     {
-      "id": "kitsu:48960",
+      "id": "kitsu:49444",
       "type": "series",
-      "name": "Tokyo Revengers: Santen Sensou-hen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178083-ORQ5BtwQsTbY.jpg",
-      "description": "Genres: Action, Drama, Romance, Supernatural\nTags:Delinquents/Gangs/Shounen/Urban\nSequel to <i>Tokyo Revengers: Tenjiku-hen</i>."
+      "name": "BLEACH: Sennen Kessen-hen - Kashin-tan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185874-Oxopn5t9hZj1.jpg",
+      "description": "Genres: Action, Adventure, Supernatural\nTags:Shounen/Male Protagonist/Swordplay/Gods/War/Urban Fantasy/Super Power/Gore\nThe fourth and final part of <i>BLEACH: Sennen Kessen-hen</i>. "
     },
     {
-      "id": "kitsu:46275",
+      "id": "kitsu:50040",
       "type": "series",
-      "name": "Tantei wa mou, Shindeiru. Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152677-EnZkUV9MTvfy.jpg",
-      "description": "Genres: Comedy, Drama, Mystery, Romance, Supernatural\nTags:Detective/Heterosexual/Aliens\nThe second season of <i>Tantei wa mou, Shindeiru.</i>"
+      "name": "Super no Ura de Yani Suu Futari",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196187-cXhET893v3Ag.png",
+      "description": "Genres: Comedy, Romance, Slice of Life\nTags:Seinen/Iyashikei/Konbini/Heterosexual/Work/Primarily Adult Cast/Urban\nAt age forty-five, office worker Sasaki has had enough of the corporate grind. His only solace is smoking-and the friendly smile of supermarket cashier Yamada. When Sasaki can't find Yamada after a particularly trying day, a striking woman invites him to smoke with her. The despondent man thinks he's made a new smoking buddy in the cool, teasing Tayama, but Sasaki doesn't realize he already knows her!\n<br><br>\n(Source: Square Enix)"
     },
     {
-      "id": "kitsu:tt38268282",
+      "id": "kitsu:49607",
       "type": "series",
-      "name": "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd STAGE",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210482-FiOIHVT3QR3F.jpg",
-      "description": "Genres: Action, Adventure, Drama, Mystery, Supernatural\nTags:Cowboys/Foreign/Male Protagonist/Disability/Primarily Adult Cast\nThe second race stage of <i>JoJo no Kimyou na Bouken: Steel Ball Run</i>.<br><br>\n\nIn the 2nd STAGE, a desert crossing spanning roughly 750 miles- the land that Johnny Joestar and Gyro Zeppeli must challenge, is home to the area that is feared as the \"Devil's Palm.\" In 1875, a threat lurking in said desert wiped out a cavalry of 26 people, eliciting fear from the local native people. As ominous incidents begin to unfold, they are forced to realize that this race is far more than a mere competition. The two press forward, where countless hidden motives collide. <br><br>\n\n(Source: Warner Bros. Japan Anime, Netflix Anime, edited)"
+      "name": "Kimi ga Shinu made Koi wo Shitai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187260-ZGbR8hF953lj.jpg",
+      "description": "Genres: Drama, Fantasy, Romance\nTags:War/Yuri/Primarily Female Cast/Magic/Primarily Teen Cast/Female Protagonist/School/LGBTQ+ Themes/Gore/Orphan\nAt the mysterious orphanage where Sheena lives, death is nothing new to its residents—girls who no longer have families of their own, who are raised as weapons of war, taught to kill and take the lives of others without batting an eye. Everyone, that is, except Sheena, who wishes for nothing more than the growing conflict around her to end. On the night of her roommate's death, Sheena meets a strange girl covered in blood, who smiles despite the turmoil surrounding them. The next day, the girl appears as a new student in Sheena's class and introduces herself as Mimi. Initially thought to be a school myth, there are now whispers in the orphanage's halls that Mimi is their secret weapon—an immortal who cannot die. When Mimi is later assigned as Sheena's new roommate, Sheena's world grows even more complicated when she begins living with someone who loves and welcomes death, when all Sheena wants to do is stop it…\n<br><br>\n(Source: Kodansha USA)"
     },
     {
-      "id": "kitsu:49883",
+      "id": "kitsu:46925",
       "type": "series",
-      "name": "Aoashi 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191788-y38vt4uRRHWK.jpg",
-      "description": "Genres: Sports\nTags:Football/Seinen/Male Protagonist\nThe second season of <i>Aoashi</i>."
+      "name": "Otomege Sekai wa Mob ni Kibishii Sekai desu 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159309-RRmu7sh7bE5o.jpg",
+      "description": "Genres: Action, Fantasy, Mecha, Romance\nTags:Isekai/Female Harem/Parody/Male Protagonist/Anti-Hero/Primarily Teen Cast/School/Magic/Robots\nThe second season of <i>Otomege Sekai wa Mob ni Kibishii Sekai desu</i>."
     },
     {
-      "id": "kitsu:49437",
+      "id": "kitsu:41923",
       "type": "series",
-      "name": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185756-6xlOTE0zL2nV.jpg",
-      "description": "Genres: Adventure, Fantasy\nTags:Isekai\nThe third season of <i>Tensei Kizoku, Kantei Skill de Nariagaru</i>."
+      "name": "Nijuuseiki Denki Mokuroku: Eureka・Evrika",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-qWzNx2EaWT78.jpg",
+      "description": "Genres: Adventure, Romance\nTags:Historical/Steampunk/Heterosexual/Female Protagonist\nThe novel takes place in the summer of 1907, the 40th year of the Meiji era. 15-year-old Inako Momokawa lives in the Fushimi area of Kyoto, and is the second daughter of a sake brewer. Nothing she does ever comes out right, and she receives a scolding from her father every day. Her only relief is the trust she places in her prayers to the gods. One day while at Fushimi Inari shrine, she meets a freewheeling young man named Kihachi Sakamoto. He rejects the gods, and boasts of the incoming age of electricity. <br><br>\n\nThe topic of marriage suddenly comes up in Inako's household. Her father is one-sidedly making all the decisions for her, and Inako is about to give up hope. It is then that Kihachi draws out Inako's true feelings of wanting to run away from her family. The only way to stop her marriage is to find an unusual book called the \"Electricity Catalog.\" The book is a prediction book about electricity that Kihachi wrote when he was a child, but his older brother Seiroku took the book, and its current whereabouts are unknown. Inako and Kihachi together go in search of the book across Kyoto and Shiga prefectures.<br><br>\n\n(Source: Anime News Network)"
     },
     {
-      "id": "kitsu:50471",
+      "id": "kitsu:50181",
       "type": "series",
-      "name": "Hotaru no Yomeiri",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg",
-      "description": "Genres: Drama, Romance\nTags:Yandere/Josei/Assassins/Heterosexual/Historical/Prostitution/Disability\nOn the surface, Satoko has it all—she’s beautiful, the daughter of a nobleman, and at a prime age for marriage. Unfortunately, she is also quite ill and only has a short time left to live. Before she can secure a marriage that will redeem her worth in her family’s eyes, she finds herself the target of the mysterious assassin Shinpei, and her plans are put in jeopardy. In order to save herself, she makes a desperate proposal—of marriage! When it comes to love, however, Shinpei takes “until death do we part” seriously.<br>\n<br>\n(Source: VIZ Media)"
+      "name": "Grand Blue Season 3",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199111-gBSuBG61ElcW.jpg",
+      "description": "Genres: Comedy, Slice of Life, Sports\nTags:Foreign/Surreal Comedy\nThe third season of <i>Grand Blue</i>."
     },
     {
-      "id": "kitsu:tt0096686",
+      "id": "kitsu:50634",
       "type": "series",
-      "name": "Ranma 1/2 (2024) 3rd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209872-IXkyoz271bPv.jpg",
-      "description": "Genres: Action, Comedy, Romance\nTags:Gender Bending/Martial Arts/Shapeshifting/Arranged Marriage/Love Triangle/School\nThe third season of <i>Ranma 1/2 (2024)</i>."
+      "name": "Seihantai na Kimi to Boku 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-KX5ojmxY7XtY.png",
+      "description": "Genres: Comedy, Drama, Romance, Slice of Life\nTags:Heterosexual/Iyashikei/Ensemble Cast/School/Primarily Teen Cast/Male Protagonist/Female Protagonist/Shounen\nThe second season of <i>Seihantai na Kimi to Boku</i>."
     },
     {
-      "id": "kitsu:tt32344704",
+      "id": "kitsu:49410",
       "type": "series",
-      "name": "Tougen Anki: Nikko・Kegon no Taki-hen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204650-5qXlU69CHwKA.jpg",
-      "description": "Genres: Action, Mystery, Supernatural\nTags:Shounen/Demons/Guns\nSequel to <i>Tougen Anki</i>."
+      "name": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185542-utMlUqavmtZU.jpg",
+      "description": "Genres: Action, Adventure, Comedy, Fantasy\nTags:Skeleton/Medieval/Isekai/Male Protagonist/Magic/Swordplay\nThe second season of <i>Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu</i>."
     },
     {
-      "id": "kitsu:50497",
+      "id": "kitsu:50154",
       "type": "series",
-      "name": "Dragon Ball Super: Beerus",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-1NJiXCcdPatd.jpg",
-      "description": "Genres: Action, Adventure\nTags:Super Power/Martial Arts/Shounen/Gods/Henshin/Male Protagonist/Aliens\nDragon Ball Super: Beerus, a project that was started a few years ago, is the newly ENHANCED edition of the anime Dragon Ball Super. ENHANCED by the latest visual expression, every scene, especially the battle scenes, is even more immersive, providing a more faithful and detailed reproduction of the original work by Akira Toriyama, and it will deliver a quality that is sure to fully satisfy audiences.\n<br><br>\n(Source: Dragon Ball Official Site)"
+      "name": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198946-h4A2P7LYvotz.jpg",
+      "description": "Genres: Action, Drama, Fantasy\nTags:Medieval/Magic/Female Protagonist\nThe second season of <i>Clevatess: Majuu no Ou to Akago to Kabane no Yuusha</i>."
     },
     {
-      "id": "kitsu:49008",
+      "id": "kitsu:48899",
       "type": "series",
-      "name": "Magic Knight Rayearth (2026)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178868-74PoVpFE9oaO.jpg",
-      "description": "Genres: Adventure, Fantasy, Mahou Shoujo, Mecha\nTags:Female Protagonist/Shoujo/Isekai/Tomboy/Magic/Super Power/Super Robot/Henshin/Medieval/Primarily Female Cast/Ojou-sama/Primarily Child Cast/Robots/Archery/Swordplay\nIn celebration of <i>\"Magic Knight Rayearth”</i> animes' 30th anniversary, a new animation project has been launched!<br><br>\n\n<i>Note: Title and relations are provisional and subject to change.</i>"
+      "name": "Koukaku Kidoutai: THE GHOST IN THE SHELL",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177699-hnzc1CS5ZSM2.png",
+      "description": "Genres: Action, Psychological, Sci-Fi\nTags:Philosophy/Cyberpunk/Female Protagonist/Cyborg/Artificial Intelligence/Seinen/Robots/Primarily Adult Cast/Guns/Urban\n<i>Ghost in the Shell</i> is a landmark work of cyberpunk science fiction set in a near-future when information networks envelop the world and highly advanced cyborg augmentation technology has enabled the creation of the cyberbrain. It follows the story of the full-body cyborg Motoko Kusanagi and the combat force she leads in the fight against cybercrime. <br><br>\n(Source:攻殻機動隊 THE GHOST IN THE SHELL Site)"
     },
     {
-      "id": "kitsu:tt38939893",
+      "id": "kitsu:49995",
       "type": "series",
-      "name": "Tenshou shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187402-qPbg4OZlQXxL.jpg",
-      "description": "Genres: Action, Adventure, Fantasy\nTags:Female Protagonist/Dragons\nFia always dreamed of becoming a knight. Born into a family of knights, she’s the least talented among them, but she still clutches to her hope and trains with everything she has. When the day comes for her to slay a small demon and prove her worth, she ends up face to face with a dragon instead! A deadly injury makes her life flash before her eyes…and she suddenly remembers her former life, when she was a powerful Saint in a bygone era who defeated the Demon King. That life ended in pain because of who she was, making her fear ever becoming a Saint again. Now that the magic from her previous life has been rekindled, she may become a more powerful knight than she ever dreamed–if only she can survive long enough!\n<Br><br>\n(Source: Seven Seas Entertainment)"
+      "name": "Katainaka no Ossan, Kensei ni Naru II",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-aBGjk68756e4.jpg",
+      "description": "Genres: Action, Adventure, Comedy, Fantasy\nTags:Male Protagonist/Teacher/Swordplay\nThe second season of <i>Katainaka no Ossan, Kensei ni Naru</i>."
     },
     {
-      "id": "kitsu:tt36593026",
+      "id": "tt38670023",
       "type": "series",
-      "name": "Hyouken no Majutsushi ga Sekai wo Suberu II",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212503-LEd6BaGLBq63.jpg",
-      "description": "Genres: Action, Adventure, Fantasy\nTags:Magic/School/Swordplay/Class Struggle\nThe second season of Hyouken no Majutsushi ga Sekai wo Suberu."
+      "name": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200637-eWk93doU70he.png",
+      "description": "Genres: Comedy, Ecchi, Romance\nTags:Female Harem/Polyamorous/Primarily Female Cast/Primarily Teen Cast/Slapstick/School/Male Protagonist/Heterosexual\nThe third season of <i>Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo.</i>"
     },
     {
-      "id": "kitsu:50392",
+      "id": "kitsu:49265",
       "type": "series",
-      "name": "PSYЯEN",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204011-BV7R1PKHAY3M.png",
-      "description": "Genres: Action, Adventure, Sci-Fi\nTags:Shounen/Death Game/Dystopian/Super Power/Male Protagonist\nOne day, high schooler Ageha Yoshina picks up a mysterious “red phone card” left behind in a public telephone booth.\nA few days later, his childhood friend and classmate, Sakurako Amamiya—who possessed the same card—suddenly vanishes without a trace. In search of her, Ageha finds himself drawn into the rumors surrounding a nationwide string of mysterious disappearances, said to be the work of a secret organization known only as “Psyren.”<br><br>\nWhen he accesses the group, a deadly game begins—one that will change his fate forever.\n<br><br>\n(Source: PSYЯEN Official Site)"
+      "name": "Nige Jouzu no Wakagimi 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182616-ZOCgArw9cgqI.jpg",
+      "description": "Genres: Action, Adventure\nTags:Samurai/War/Historical/Male Protagonist/Gore/Shounen/Primarily Male Cast\nThe second season of <i>Nige Jouzu no Wakagimi</i>."
     },
     {
-      "id": "kitsu:50338",
+      "id": "kitsu:49656",
       "type": "series",
-      "name": "Mahou Shoujo Ikusei Keikaku: restart",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160803-aBWg5M8qdOMX.jpg",
-      "description": "Genres: Action, Fantasy, Mahou Shoujo, Thriller\nTags:Female Protagonist/Magic/Kuudere/Primarily Female Cast\nA stage reading in the Magical Girl Raising Project franchise announced that an anime adaptation of Asari Endou's Magical Girl Raising Project Restart light novel volumes has been green-lit. Hiroyuki Hashimoto reported on Twitter that he will return from the first Magical Girl Raising Project anime as the director. The franchise's Twitter account also teased that various initiatives are in the works for \"Project restart.\"<br><br>\n(Source: Anime News Network)"
+      "name": "BLACK TORCH",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187538-rPuvj09LMjdC.jpg",
+      "description": "Genres: Action, Adventure, Fantasy, Sci-Fi, Supernatural\nTags:Urban Fantasy/Youkai/Shounen/Ninja/Male Protagonist/Demons\nAlthough he may appear rough-and-tumble, Jiro Azuma’s compassionate side emerges when it comes to the furry critters he can communicate with. But Jiro's soft spot for animals gets him in major trouble when a suspicious stray cat fuses with him, granting him exceptional power but also dragging him into humanity's hidden battle against powerful Japanese spirits, mononoke.\n<br><br>\n(Source: VIZ Media)"
     },
     {
-      "id": "kitsu:49564",
+      "id": "kitsu:49851",
       "type": "series",
-      "name": "Toaru Anbu no ITEM",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186742-Q9IOgWxAxfSR.jpg",
-      "description": "Genres: Action, Sci-Fi\nTags:\nThis is a story of four girls living in the \"Dark Side\" of Academy City.<br>\n<br>\nIn Academy City where \"ESP\" has been recognized as a general science. Behind the peace, there is a Dark Side organization that undertakes missions that cannot be made public.<br>\n<br>\n\"ITEM\" is an elite unit consisting of four girls. Takitsubo Rikou is able to read and track the AIM fields emitted by those with abilities. Frenda Seivelun, who excels in combat using explosives and traps.<br>\n<br>\nKinuhata Saiai, who can manipulate nitrogen at will and plays a defensive role. And one of the 7 Espers that Academy City is proud of: Mugino Shizuri. They live freely in the darkness of the Academy City, and quietly set their sights on their target...!<br>\n<br>\nThis is a story of encounter, friendship, and darkness that eventually leads to a terrible incident!<br>\n<br>\n(Source: Kadokawa, translated)"
+      "name": "Tenmaku no Jaadugar",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190569-xkFjq9u9IeSr.jpg",
+      "description": "Genres: Drama\nTags:Female Protagonist/Royal Affairs/Historical/Biographical/Indigenous Cultures/Politics/Kingdom Management/Foreign/Josei/Slavery/Religion\nEight centuries ago, in the latter days of the Islamic golden age, a young girl arrived in the Khwarazmian city of Tus. She was a slave. But she learned. \n<BR><BR>\nEight centuries ago, the Mongols blazed across the map, swept Khwarazm into the ash heap of history, and took all they desired from the ruins. They took the girl who learned. \n<BR><BR>\nSo begins the true story of how a “witch,” wielding knowledge as her only weapon, came to hold the greatest empire the world has ever known in the palm of her hand…\n<BR><BR>\n(Source: Yen Press)"
     },
     {
-      "id": "kitsu:tt41298100",
+      "id": "kitsu:49183",
       "type": "series",
-      "name": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-IEzaavXvkJAc.png",
-      "description": "Genres: Action, Comedy, Drama, Mecha, Romance, Sci-Fi\nTags:Isekai/Female Harem/Space/Heterosexual/Space Opera/Elf\nSato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!<br><br>\n\n(Source: Seven Seas Entertainment)"
+      "name": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180136-gtMTCRlOD4OE.jpg",
+      "description": "Genres: Action, Fantasy\nTags:Male Protagonist/Isekai/Dungeon\nBorn into a prestigious family of master swordsmen, Elymas Edvaughn’s future shatters when he awakens the so-called “defective” Heavy Knight class. Disowned and cast out, he regains memories of another life—and realizes this world mirrors a VR game he once mastered. Armed with knowledge no one else possesses, he sets out to rewrite his fate and prove the strength of the “weakest” class.<br>\n<br>\n(Source: Crunchyroll)"
     },
     {
-      "id": "kitsu:tt41296544",
+      "id": "kitsu:44021",
       "type": "series",
-      "name": "Kyouran Reijou Nia Liston",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206949-OwIba0xC2YQm.jpg",
-      "description": "Genres: Fantasy\nTags:Female Protagonist\nA great hero lies undefeated on her deathbed, regretting that she never found a foe who could take her down. She never intended to meet her fate anywhere other than on the battlefield, and her peaceful demise has her wishing desperately that things could have been different... But when she suddenly comes to in the body of the young, frail Nia Liston, she’s got an all-new fight ahead of her. Nia is a sickly child, meaning she has a long way to go before she’s in fighting form. Now that she’s been given a second shot at life, however, she’s determined to get what she wants. She’s going to live—and die—for battle this time! Make way for the Merciless Maiden!<br>\n<br>\n(Source: J-Novel Club)"
+      "name": "Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128757-0YhOnKG6aRs1.png",
+      "description": "Genres: Drama\nTags:Video Games/Female Protagonist/Yuri/Ojou-sama/Primarily Female Cast/LGBTQ+ Themes/Boarding School/E-Sports/Cute Girls Doing Cute Things/Seinen\nKuromi Girls’ Academy is a refined, elegant school that expects the very best in deportment from its young ladies. Aya got into this peerless rich-girls’ institution on a scholarship, and hopes to grow as lovely as her fellow student and idol Shirayui. But Shirayui hides a terrible secret: she’s a trash-talking, combo-chaining, newbie-stomping, ruthless hardcore gamer! Could a mutual indulgence in no-holds-barred video game combat grow into a deeper rapport between these two girls?\n<br><br>\n(Source: Seven Seas Entertainment)"
     },
     {
-      "id": "kitsu:47985",
+      "id": "tt38646634",
       "type": "series",
-      "name": "Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169581-Y6vEnIDIogsJ.jpg",
-      "description": "Genres: Adventure, Ecchi, Fantasy, Romance\nTags:Magic/Isekai/Female Harem/School/Male Protagonist\nFew titles are more revered among horndogs-(ahem) connoisseurs of Japanese erotic video games-than Magical Explorer. One day, our smut-loving hero wakes up to find he has been reincarnated into the body of the game’s dreamboat protagonist! Or rather, his hapless comic-relief best friend, Kousuke Takioto. But with his unparalleled knowledge of Magical Explorer and Kousuke’s unorthodox abilities (a scarf that doubles as a fist?), our hero vows to turn the game’s unluckiest loser into its mightiest heartthrob. In this world, nothing is out of reach when you’ve got the know-how!\n<br><br>\n(Source: Yen Press)"
+      "name": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-goWdl95cx0cG.jpg",
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Isekai/Creature Taming/Male Protagonist\nThe second season of <i>Hell Mode</i>."
     },
     {
-      "id": "kitsu:50208",
+      "id": "kitsu:50551",
       "type": "series",
-      "name": "Hotel Inhumans 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199426-nLcvtPfuWcms.jpg",
-      "description": "Genres: Action, Drama\nTags:\nThe second season of <i>Hotel Inhumans</i>."
+      "name": "Yani Neko",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207141-h5q5KJPd6vaX.jpg",
+      "description": "Genres: Comedy, Slice of Life\nTags:Drugs/Nekomimi/Female Protagonist/Kemonomimi/Urban/Primarily Female Cast/Hikikomori/Primarily Adult Cast\nYani is a catgirl with a seriously bad smoking habit. She smokes so much that her apartment smells like ash and is littered with cigarette butts—and plenty of other trash! Every time she tries to quit, she becomes weak to the cravings and gives in almost instantly. Will she ever get her life together, or is she doomed to live as a chainsmoking slob forever? \n<BR><BR>\n(Source: Seven Seas Entertainment)"
     },
     {
-      "id": "kitsu:50170",
+      "id": "kitsu:49689",
       "type": "series",
-      "name": "#Zombie Sagashitemasu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199007-VkhbbXfdugl8.png",
-      "description": "Genres: Action, Comedy, Horror, Mystery, Supernatural\nTags:Zombie/Post-Apocalyptic/Female Protagonist\nThe manga is set in a world where 90 percent of humans on Earth have contracted and died from a deadly, virulent disease; only to then rise again as zombies who only attack people. 13 years after that \"Red Day\" of societal and civilizational collapse, the surviving humans survive away from the big cities, while still hoping to retake them someday. An entirely new generation of people who know nothing of the pre-Red Day world are now coming into their own. The story begins when Aki and her close friends Haru and Natsuki begin a journey to find Aki's missing father.\n<br><br>\n(Source: Anime News Network)"
+      "name": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188139-5QWn8R7yvjY4.png",
+      "description": "Genres: Drama, Romance\nTags:Josei/Female Protagonist/Magic/Royal Affairs/Foreign/Historical/Villainess/Ancient China\nAs maidens from the Five Clans battle for the Crown Prince’s heart, jealous Keigetsu uses forbidden magic to swap bodies with the beloved Reirin. Switching places does not guarantee happiness for Keigetsu with her new body's ill health leaving her hanging on the verge of death. Meanwhile, Reirin, now wearing the face of a scorned outcast, must answer for Keigetsu’s crimes in a dangerous trial.\n<br><br>\nThe unlikely pair become increasingly entangled in each other’s lives and they will need to work together to survive after discovering the dark conspiracies brewing beneath the palace's genial surface. To confront the deadly threats lurking in the shadows, Reirin must embrace her new identity and defy their expectations of the court's inept villainess.<br><br>\n(Source: Crunchyroll)"
     },
     {
-      "id": "kitsu:tt39317998",
+      "id": "kitsu:48880",
       "type": "series",
-      "name": "Kyoufu Collector",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203473-dIUb8kiwnpmo.jpg",
-      "description": "Genres: Horror, Mystery, Supernatural\nTags:Youkai/Urban Fantasy\nUrban legends come to life…Everyone’s heard an urban legend before, but few have ever come face-to-face with one. These phenomena are everywhere, existing in the shadows of reality. More and more of them have been appearing in the wake of the faceless kid sighted all over Japan. If you see her or one of the urban legends she brings―pray the boy in the red hood finds you before it’s too late. You won’t stand a chance on your own. But with his help, you may just live to see another day…\n<br><br>\n(Source: Yen Press)"
+      "name": "Sayonara Lara",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
+      "description": "Genres: Supernatural\nTags:Fairy Tale/Coastal/Mermaid/Female Protagonist/Primarily Female Cast\n<i> All because of \"love\"</i><br><br>\n\nAnnounced and revealed at Anime Central 2024's \"Kinema Citrus Sweet 16: My Happy Marriage and What's New\" panel, this anime follows a mermaid who makes a forbidden wish to be loved by a human. Following her death, she is reborn 200 years later into modern-day Japan in Lake Biwa, where she learns to adjust in a human world. <br><br>\n\n(Source: Anime News Network, edited)"
     },
     {
-      "id": "kitsu:tt38626513",
+      "id": "tt41278600",
       "type": "series",
-      "name": "Gensou Suikoden",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187316-DlSgopRQjK1Z.jpg",
-      "description": "Genres: Action, Adventure, Fantasy\nTags:\nDuring Suikoden Live Broadcast, Konami announced <i>Suikoden: The Anime</i>, an anime adaptation of <i>Suikoden II</i>. <i>Suikoden: The Anime</i> will be the first anime series directly handled by Konami Animation.<br><br>\n(Source: finalweapon.net)"
+      "name": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201514-BHAeWhSbcBrT.png",
+      "description": "Genres: Comedy, Romance\nTags:Heterosexual\nA poor high school boy, Itsuki Tomonari, got caught up in a kidnapping attempt on Hinako Konohana, a young lady from one of Japan's largest conglomerates. On the surface, Hinako appears to be a brilliant and beautiful young woman, but in reality, she is a lazy girl with no life skills. However, due to family reasons, Hinako has to play the role of the \"perfect young lady\" at school. Wanting to protect her, Itsuki took on the job of caring for her. Eventually, Hinako began to spoil Itsuki with all her might -- \"I don't want...... Itsuki to leave my side right now.\" This is a love story that begins beyond the master-servant relationship featuring a princess with a beautiful facade.\n<br><br>\n(Source: HJ Bunko, translated)"
     },
     {
-      "id": "kitsu:tt41648799",
+      "id": "tt35636246",
       "type": "series",
-      "name": "Kaijuu 8-gou: Narumi no Heijitsu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204431-5JC0YY6i6ECJ.jpg",
-      "description": "Genres: Slice of Life\nTags:\nAn original short anime about Narumi's daily life at work."
+      "name": "Boku no Hero Academia: I am a hero too",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211711-Oy6R5cmGHLCL.jpg",
+      "description": "Genres: \nTags:Female Protagonist/Urban Fantasy/Super Power/Superhero/Shounen\nFollowing the broadcast of My Hero Academia Episode 170+1, the series' official website and accounts revealed that a new short anime adapting the \"I Am a Hero Too\" bonus chapter will tell the story of Eri as a high-schooler when it releases this summer.<br><br>\n(Source: Crunchyroll)"
     },
     {
-      "id": "kitsu:tt40925858",
+      "id": "tt41279522",
       "type": "series",
-      "name": "TANK CHAIR: Sensha Isu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209499-sxqd8SZtWbFm.jpg",
-      "description": "Genres: Action, Sci-Fi\nTags:Disability/Full CGI\nShizuka takes on the most dangerous of assassin jobs, but she's not the one doing the killing. Rather, it's her brother, Nagi, a strong assassin who took a bullet to protect his sister, leaving him in a comatose state and having to use a wheelchair. However, Shizuka has figured out the key to waking her brother up: he must be faced with killing intent! Thus begins a violent journey of recovery, battling the most dangerous foes!\n<br><br>\n(Source: Kodansha USA)"
+      "name": "World Is Dancing",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206521-ecJuDgjth84C.png",
+      "description": "Genres: Drama\nTags:Dancing/Historical/Acting/Coming of Age/Male Protagonist\nBorn into a life of acting and dance with a traveling theater troupe in 14th-century Japan, 12-year old Oniyasha has one problem—he doesn't know what the point of any of it is. \"Why must I step with the left foot here instead of the right? Why is one performance good and another, bad? Why do people dance at all?\" It all seems perfectly arbitrary, until a chance encounter in a run-down shack sets him down a path to revolutionizing the art form and influencing much of Japanese culture to come. A fictionalized account of the early life of Zeami Motokiyo (Oniyasha), the founder of modern Noh theater—the world's oldest surviving theater art—this coming-of-age artist's journey vividly brings to life a man far ahead of his time during one of Japan's most culturally and socially vibrant eras.<br><br>\n\n(Source: Kodansha Comics)"
     },
     {
-      "id": "kitsu:50607",
-      "type": "series",
-      "name": "Tensei Goblin Dakedo Shitsumon Aru?",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209219-vU7uIlcKmVlW.jpg",
-      "description": "Genres: Action, Adventure, Comedy, Drama, Fantasy, Romance\nTags:Goblin/Magic\nOffice worker Akira Yagami’s altruistic nature usually gets him the short end of the stick. When he dies after saving a kid from oncoming traffic...he reincarnates in another world as a goblin?! Normally, goblins only live for seven days, but Akira’s newfound powers let him defy the species’ normal life span...and are the key to his path to becoming the strongest goblin ever!\n<br><br>\n(Source: Yen Press)"
+      "id": "kitsu:50646",
+      "type": "movie",
+      "name": "Shibou Yuugi de Meshi wo Kuu. 44:CLOUDY BEACH",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209961-EKMAWTp299Kt.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:50646"
+      },
+      "description": "Genres: Action, Drama, Mystery, Thriller\nTags:Female Protagonist/Coastal/Primarily Female Cast/Death Game\nTheatrical follow-up to <i>Shibou Yuugi de Meshi wo Kuu.</i>\n<br><br> \nThis is the story of a certain insane world.  <br><br> \nPlayer name: Yuuki. Occupation: Professional in deadly games. <br><br> \nOvercoming the jinx known as the \"Thirty Game Wall,\" which drastically reduces the survival rate of players, Yuuki continues her journey. A game where death is always close at hand. Next, she takes on a remote island in the middle of the ocean. Eight players have gathered there. Among them are seasoned veterans whom Yuuki knows. The game is \"Cloudy Beach.\" Beyond the wall, only those who have crossed the wall remain. Today, once again, she makes a living playing deadly games. <br><br> (Source: Official Site, translated)"
     },
     {
-      "id": "kitsu:tt41293112",
+      "id": "kitsu:50109",
       "type": "series",
-      "name": "Sekai Saikyou no Majo, Hajimemashita",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211778-5WtVC7WXFduS.png",
-      "description": "Genres: Action, Comedy, Fantasy\nTags:Magic/Meta/Parody\nWhen Rona manifests what seems to be a terribly useless skill, she’s considered an embarrassment to her family and gets kicked out of the house. With no money or food, she nears her darkest hour… when she suddenly figures out how to use her skill called “Internet.” It allows her to produce unlimited valuable items and even acquire rare equipment without participating in any events. With this skill of godlike knowledge, she can do anything she wants!\n<br><br>\n(Source: Yen Press)"
+      "name": "LV999 no Murabito",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197715-KLFLxU24U1uL.png",
+      "description": "Genres: Action, Adventure, Comedy, Fantasy\nTags:Male Protagonist/Demons/Magic\nIn this world, the concept of levels exist. Other than those who live off defeating monsters, most people are only around Level 1 to 5. What's more, not just anyone can go out to hunt monsters; it's heavily influenced by one's role anointed by god. There are eight such eligible roles. Warriors. Fighters. Clerics. Magicians. Rogues. Merchants. Hunters. Sorcerers. Those blessed with extraordinary power are divided into three types. Royalty. Heroes. Sages. But for the majority of the population, they have no such powers and live by farming or running shops. Towns are developed by those with the weakest role…Villagers.\n<br><br>\nFor the powerless Villagers going out to hunt monsters is equivalent to committing suicide. But one day, a certain two-year-old child given the role of Villager notices something.\n<br><br>\nOnce you defeat a monster… you can earn great wealth."
     },
     {
-      "id": "kitsu:tt38895862",
+      "id": "kitsu:47988",
       "type": "series",
-      "name": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b200455-gpDWDkMAEuM7.jpg",
-      "description": "Genres: Comedy, Fantasy, Romance\nTags:Villainess/Female Protagonist/Heterosexual/Isekai\nI was reborn as a villainous daughter in a reverse harem otome game. \n<br><br>\nAfter being sick with a high fever at the age of 10, Pia Rockwell suddenly remembered her past life as a university student in Japan. But far from going down the villainess route, all this super timid girl wants is to finally use her knowledge from when she was a grad student studying to get her doctorate in paleontology. Her ultimate goal is to become a commoner, excavate fossils, build a museum and then become a curator.\n<br><br>\nSo in order to escape the villainess route and avoid being deported by her fiancé during the graduation ball, Pia decides to avoid the upcoming hurt and heartache and asks to break off her engagement to Rufus, the Prime Minister's son.\n<br><br>\nBut will her cunning fiancé let her go that easily?"
+      "name": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-t2r7Aw0EN5NY.jpg",
+      "description": "Genres: Comedy, Romance\nTags:Tomboy/Heterosexual/Male Protagonist/School\nI met my childhood friend again, and she had become a beautiful and innocent girl.\n<br><br>\n\"It's been a while, Hayato.\"<br>\n\"Haruki, is it?\"\n<br><br>\nIn the past, I used to play in the mud with my childhood friend in the countryside, and when I saw him again, there was no trace of the bratty young man I thought he was back then. Only in front of Hayato, she threw away the coat she was wearing and reacted in the same crass way she did back then. The distance between you and me has not changed.\n<br><br>\n(Source: Shousetsuka ni Narou, translated)"
     },
     {
-      "id": "kitsu:tt42487863",
+      "id": "kitsu:50089",
       "type": "series",
-      "name": "Vertex Force",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209562-lWbqsEyIk8R1.jpg",
-      "description": "Genres: Mecha\nTags:Female Protagonist/Full CGI\nAn original TV anime series, \"Vertex Force,\" is being planned under the direction of Kazuhiro Takamura, who previously directed <i>\"Strike Witches\"</i> and <i>\"Vividred Operation\"</i>! Airing in 2026!<br><br>\n(Source: Official Twitter)"
+      "name": "ONE PIECE HEROINES",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197178-Ui8PY9HQbNgu.jpg",
+      "description": "Genres: \nTags:Pirates/Primarily Female Cast/Fashion/Female Protagonist\nBased on the novel series <i>ONE PIECE novel HEROINES</i>, one chapter, “episode : NAMI” is getting an anime adaptation. \n<br><br>\nAfter buying poorly made shoes, Nami returns to the shop and meets Lebno, the designer. He offers to create a new pair from scratch, on the condition that she becomes his model. However, the craftsperson Miucha is the one who does the work.\n<br><br>\n(Source: Toei Animation Europe)"
     },
     {
-      "id": "kitsu:50261",
+      "id": "kitsu:50555",
       "type": "series",
-      "name": "Choujun! Choujou Senpai",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200294-hZKIC5BJ8PSo.jpg",
-      "description": "Genres: Comedy, Slice of Life\nTags:Police/Primarily Adult Cast/Super Power/Surreal Comedy/Urban/Shounen/Meta\nIn Chinjuku, the city that never sleeps, there is a psychic senior police officer who has powers beyond human comprehension! His name is Meguru Chojo! Along with his judo expert partner Nao Ippongi, this hilarious duo will keep the streets clean by any means necessary!"
+      "name": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199748-PAFk9pGSUmFL.png",
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Male Protagonist\nWith no other options, Luck makes the choice to hold the line against the unending demonic hordes alone, to make sure his comrades can escape with their lives. However, through a combination of fortune, skill, and ingenuity, he holds that line for ten straight years, eventually coming out on top single handedly. Now he has to tackle the dilemma of how to occupy himself in a world where he holds a myriad of roles: that of a legend, that of a veteran, and that of a brand new face. <br><br>\n(Source: Comikey) "
     },
     {
-      "id": "kitsu:50587",
+      "id": "tt40550160",
       "type": "series",
-      "name": "Junket Bank",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209132-uAEsususOR9h.png",
-      "description": "Genres: Drama, Psychological, Thriller\nTags:Seinen/Male Protagonist/Gambling/Primarily Adult Cast\nMitarai, a bank clerk bored with his everyday life and work, soon finds himself transferred to the \"Appraisal Unit.\" Guided by his new boss Usami, Mitarai's led through a secret underground passage within the bank where a new, exciting world of gambling awaits."
+      "name": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208044-jweYvjbGKnCo.png",
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Isekai/Magic\nEphtal is reincarnated as a human, coming from modern Earth. In this new world where magic is real, he decides to devote the entirety of his life in the pursuit of magic. Despite his efforts, though, he discovers that he is absolutely talentless in magic, and breathed his last in anguish....But it isn't the end for him just yet! He reincarnates once again bearing the same name, Ephtal, 400 years later. Having retained his knowledge and power, he steals his resolve and once again sets his sights for the peak of magic!\n<br><br>\n(Source: Comikey)"
     },
     {
-      "id": "kitsu:50217",
+      "id": "kitsu:50350",
       "type": "series",
-      "name": "Tetsuryou! meet with Tetsudou Musume",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199594-KyZW6uaMiQWg.jpg",
-      "description": "Genres: Slice of Life\nTags:Trains/Female Protagonist/Cute Girls Doing Cute Things/Iyashikei\nMisaki has often felt the urge to break free from everyday life and set out on a journey somewhere far away. Even though she doesn’t yet know what she wants to become, she longs to find something she can truly be passionate about.<br><br>\nAt the start of a new chapter on a lively campus, she meets the members of the Railway Travel Research Club—known as the “Tetsuryo Club.” As her world unfolds along the railway lines, Misaki’s heart begins to race with excitement!<br><br>\nAs TETSUDOU MUSUME celebrates its 20th anniversary, the Tetsuryo Club sets off on a journey through the world where the Railway Girls work, in search of moments of wonder.\n<br><br>\n(Source: Pony Canyon Anime)"
+      "name": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202269-YLPqiMg2nsTr.jpg",
+      "description": "Genres: Drama, Romance\nTags:Heterosexual/Disability/Primarily Adult Cast/College\nOn an April night in Tokyo, still too early for fireworks, university student Kakeru Sorano meets a woman named Koharu Fuyutsuki. She is a beautiful girl who stands out from the crowd, laughs a lot, and exudes a warmth that contrasts sharply with Kakeru's own introversion. But there was something Kakeru didn't know at first—she can't see.<br>\n<br>\nUnlike Kakeru, Koharu hasn't given up on anything, even with her blindness. She attends university daily, shows interest in clubs, makes friends—and dreams of launching fireworks one day. Kakeru wonders why, when she can't see them...but maybe it doesn't matter. And maybe he can start moving forward, too, for the girl who's always been by his side<br>\n<br>\n(Source: Yen Press)"
     },
     {
-      "id": "kitsu:tt35517192",
+      "id": "kitsu:50411",
       "type": "series",
-      "name": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199068-dDadPRy9Nekb.png",
-      "description": "Genres: Action, Comedy, Sports\nTags:Tennis/Shounen/Primarily Male Cast/Male Protagonist/Ensemble Cast/Foreign/Primarily Teen Cast\nSequel to <i>Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL</i>."
+      "name": "Otome Kaijuu Caramelise",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204466-vXMvIs4VOoQd.png",
+      "description": "Genres: Comedy, Romance, Supernatural\nTags:Heterosexual/Kaiju/Female Protagonist/Tokusatsu/Monster Girl/Shapeshifting\nSuffering from a rare, incurable illness that causes frightening changes to her body, loner Kuroe Akaishi spends her high school days avoiding all her classmates—especially class idol Arata Minami and his groupies. But when Arata starts making her heart skip a beat with irritating regularity, Kuroe discovers that her illness actually has a big—make that MONSTER—secret: Romance turns her into Love-zilla…literally!<br>\n<br>\n(Source: Yen Press)"
     },
     {
-      "id": "kitsu:tt36986811",
-      "type": "series",
-      "name": "Kizu darake Seijo yori Houfuku wo Komete Season2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212144-xRrdEJacUgs3.png",
-      "description": "Genres: Fantasy, Romance\nTags:Flash\nThe second season of <i>Kizu darake Seijo yori Houfuku wo Komete</i>."
+      "id": "tt42186253",
+      "type": "movie",
+      "name": "THE RIBBON HERO",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211308-DHKjEEttkfkT.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt42186253"
+      },
+      "description": "Genres: Action, Fantasy, Mahou Shoujo\nTags:Magic/Swordplay/Superhero/Shoujo/Fairy Tale/Royal Affairs/Crossdressing/Female Protagonist\nPrincess Sapphire of the lost kingdom. Stripped of everything in her homeland, Silverland, by the calamity known as \"Nergal,\" she arrived in Goldland at the very depths of despair. While carrying the weight of her past, she began to find a glimmer of hope through the kindness of the people. Yet, as if mocking her peaceful daily life, the calamity \"Nergal\" appears once more. The same despair that reduced her homeland to ashes is now threatening to steal the light from this land as well.<br><br>\n<i>\"No more loss for me. No more loss for anyone.”</i> <br><br>Wiping way her fears of sorrow, the young girl takes up her sword. <br>This is the story of a hero who ties her ribbon and resolves to defy fate. <br><br>\n\n(Source: THE RIBBON HERO Official Site)\n<br><br>\n\n<i> Note: This anime is inspired by Osamu Tezuka's manga \"Princess Knight”."
     },
     {
-      "id": "kitsu:tt41295113",
+      "id": "kitsu:42337",
       "type": "series",
-      "name": "Battle Spirits [Re] Zekkai No Ku",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187990-06i3idrs7NTF.png",
-      "description": "Genres: Action\nTags:Card Battle\nNew Battle Spirits TV Anime.<br><br>\n"
+      "name": "Mobius Dust",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108992-aKpjh4JVayhd.png",
+      "description": "Genres: Action, Supernatural\nTags:Vampire/Terrorism/School/Kids\nOn February 29, 2000, a group of Möbius meteorites fell down to earth. These meteorites brought new material called Möbius Dust, which dissolves in air and can cause miracles. The day the Möbius meteorites fell was dubbed 2.29, and the economic disparity in Japan increased dramatically after that day. A group of people fed up with the wealth inequality fought back with acts of terrorism. The police established a special group to fight against the the terrorists and a school to train members for that group.\n<br></br>\n(Sources: Comic Natalie, Live Chart)\n"
     },
     {
-      "id": "kitsu:tt36594331",
+      "id": "kitsu:49585",
       "type": "series",
-      "name": "Pan Dorobou",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194207-qhLou1C09vEf.png",
-      "description": "Genres: Comedy\nTags:Crime\nKadokawa announced on June 9th, 2025 that Keiko Shibata's Pan Dorobou (Bread Thief) picture book will have an anime adaptation. The announcement did not reveal the anime's format. The picture books center on a piece of bread that also steals bread from bakeries in the city.<br><br>\n(Source: Anime News Network)"
+      "name": "Neko to Ryuu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186863-AO4efoB8HuzA.png",
+      "description": "Genres: Adventure, Fantasy\nTags:Dragons/Animals/Anthropomorphism/Magic\nThe story follows a fire-breathing, human-hating dragon raised by a mother cat in a forest. The dragon, known affectionately as \"Uncle Wing,\" watches over the many curious cats — such as one that goes on an adventure with a human prince, and another that lives in the city and people-watches as a hobby — and gradually warms up to humans along the way.<br><br>\n\n(Source: Crunchyroll News)"
+    },
+    {
+      "id": "kitsu:49427",
+      "type": "series",
+      "name": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185692-gmDNAsJnbbEU.jpg",
+      "description": "Genres: Action, Comedy, Fantasy, Mahou Shoujo\nTags:Shounen/Henshin/Work/Female Protagonist/Primarily Adult Cast/Magic\nThe second season of <i>Kabushiki Gaisha Magi Lumiere</i>."
+    },
+    {
+      "id": "kitsu:47989",
+      "type": "series",
+      "name": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169582-CUvez7DjwPf7.jpg",
+      "description": "Genres: Action, Comedy, Drama, Fantasy, Romance\nTags:Heterosexual\nArnold, the seventh Imperial Prince of the Adrasia Empire, is called \"THE INSIPID PRINCE\" among people since his twin brother is genius and respected by all people. However, he has a secret identity -SILVER, one of the only five -SS-rank adventurers in the continent. When his younger brother Leo decides to aim for the throne, Arnold starts running things behind the scenes to support his brother. Unexpectedly the most beautiful lady becomes his assistant. The secret struggle of the strongest prince begins!\n<br><br>\n(Source: Kadokawa)"
+    },
+    {
+      "id": "kitsu:50049",
+      "type": "series",
+      "name": "Ryoumin 0-Nin Start no Henkyou Ryoushu-sama",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196218-GuO62b9WnV43.jpg",
+      "description": "Genres: Action, Comedy, Drama, Fantasy, Romance, Slice of Life\nTags:Agriculture/Anthropomorphism/Kingdom Management/Cohabitation/Ensemble Cast/Family Life/Found Family/LGBTQ+ Themes/Gender Bending/Male Protagonist/Wilderness/Transgender\nDias finally returns home after decades of war. He's hailed as a hero and promptly rewarded with his own domain...which turns out to be little more than empty plains. Population: zero. Dias, who has only ever known battle, finds himself at a loss. How is he supposed to survive, let alone cultivate his territory into a thriving, prosperous dominion when there's nothing but grass as far as can see? \n<br><br>\nFortunately for Dias, a horned girl by the name of Alna is about to show him there's more to the plains than meets the eye! \n<br><br>\n(Source: J-Novel Club)"
+    },
+    {
+      "id": "kitsu:50562",
+      "type": "series",
+      "name": "Sora wa Akai Kawa no Hotori",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207809-cpS7CAyjN7iP.jpg",
+      "description": "Genres: Action, Adventure, Drama, Fantasy, Romance\nTags:Historical/Politics/Swordplay/Kingdom Management/Royal Affairs/Female Protagonist/Indigenous Cultures/Shoujo/Foreign/Isekai/Heterosexual\nYuri, a pretty Japanese girl, is ecstatic after passing her college entrance exam and having her first kiss with her childhood friend-turned boyfriend. However, her luck soon changes. She starts to notice that water becomes agitated whenever she goes near it. One night, hands appear out of a puddle on the street and drag her into the water! Transported to an ancient village in the Middle East, she is then captured by armed troops and taken to the Queen's palace for a human sacrifice.\n<br><br>\n(Source: VIZ Media)"
+    },
+    {
+      "id": "kitsu:49449",
+      "type": "series",
+      "name": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185875-wC9yup8velFS.jpg",
+      "description": "Genres: Action, Comedy, Drama, Fantasy, Mahou Shoujo\nTags:Female Protagonist/Magic\nThirty years ago, the world was nearly destroyed by the sudden appearance of unknown \"invasive alien species.\"\n<br><br>\nHumans and these “invasive species” continue to vie for living space, and while humanity’s safety is currently barely secured, the world could be destroyed at any moment. Living in fear of death and destruction, people go about their daily lives as if trying to avert their eyes from danger and disaster.\n<br><br>\nIn this world, the United Nations Hazardous Species Investigation Agency, \"EXCEEDS,\" has begun operations to ward off crises and disasters caused by invasive species.\n<br><br>\nThe story begins on the island nation of \"Mizuho\" in the Far East. Shina Hisase is a young invasive species extermination hunter living on a remote island. What incident will befall Shina, who wishes only to live quietly with her younger sister Setsuna, her sole remaining family member?\n<br><br>\n<i>Note: The first episode aired with a runtime of ~60 minutes as opposed to the standard 24 minute long episode.</i>"
+    },
+    {
+      "id": "kitsu:50139",
+      "type": "series",
+      "name": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198409-EiWJXfYnvfu4.png",
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Isekai/Medieval/Male Protagonist\nCorporate slave Arihito Atobe's death in a freak bus accident marks the beginning of his new life as a kind of adventurer called a Seeker. Reborn into a fantasy world, he settles into a previously unknown job class called \"rearguard,\" capable of providing his (all-female) party with critical attack, defense, and recovery support. And it comes with an added bonus: Simply being at the back of the party line increases his companions' fondness for him! Freed from the shackles of corporate life, Arihito is eager to start fresh as a newly minted Seeker!\n<br><br>\n(Source: Yen Press)"
+    },
+    {
+      "id": "tt39551287",
+      "type": "series",
+      "name": "Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199408-ocRWG4pRWl8f.png",
+      "description": "Genres: Drama, Fantasy\nTags:Female Protagonist/Revenge/Villainess/Shounen/Royal Affairs/Magic\nElizabeth Leiston, daughter of the influential prime minister, is a picture-perfect lady on the path to becoming the future queen of the Kingdom of Haldoria. But her life takes a sudden turn for the worst when her fiancé makes a show of publicly calling off their engagement. Soon after, he throws her in jail and starts spreading nasty rumors about her. The encouragement Elizabeth receives from her loyal waiting maid, Mireille, and her inner fury are all she needs to reconsider her goals. Why should she continue devoting herself to a country that doesn’t respect her when she can trample over it instead? She will get even with those who wronged her and bring down the damned kingdom, even if it’s the last thing she does! Luckily, Elizabeth is no damsel in distress and has seven powerful magic grimoires she won’t hesitate to use. Get ready because this ruthless lady is out for blood!\n<br><br>\n(Source: J-Novel Club)"
+    },
+    {
+      "id": "kitsu:50179",
+      "type": "series",
+      "name": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199066-o0aQNC5lcxFr.jpg",
+      "description": "Genres: Comedy, Romance, Supernatural\nTags:Reverse Isekai/LGBTQ+ Themes/School/Seinen/Heterosexual\nRyuusei Narukami spends his days cooped up in his room playing video games, but hides a secret past as an evil dark lord from a fantasy world reincarnated into our world. He has a fateful encounter with the belligerent Hanaori Meteor, the hero from Ryuusei's world who defeated him, now reincarnated as a high school girl.<br><br>\n(Source: Anime News Network, edited)"
+    },
+    {
+      "id": "kitsu:49913",
+      "type": "series",
+      "name": "Heroine? Seijo? Iie, All Works Maid desu (Ko)!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192800-qLTy3WwvfQFi.jpg",
+      "description": "Genres: Comedy, Fantasy\nTags:Magic/Maids/Female Protagonist/Isekai/Ojou-sama/Medieval\n“I will become the world’s most wonderful maid!” <br><br>\nWith her skirt fluttering in black and white, the girl shouted. Her name is Melody. A reincarnated former Japanese girl, she now pursues her dream in her new life, working as an all-purpose maid for a poor count’s family in the kingdom of Théolas. When she makes it, even cheap tea turns into a luxury brew, and a dilapidated mansion is quickly restored to new! Cleaning, serving, hunting, DIY—leave it all to her and her powerful magic. Unbeknownst to Melody, this world is actually an otome game, and she is the most powerful and invincible heroine, the saint! Yet, she remains oblivious to this fact. Romance with handsome men? Attacks by the Demon Lord? Work comes first! A fantasy of misunderstood work that unknowingly shatters destiny!\n<br><br>\n(Source: Seven Seas Entertainment)"
+    },
+    {
+      "id": "tt38273525",
+      "type": "series",
+      "name": "Tefuda ga Oume no Victoria",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198709-KnZCqdH7fu3F.png",
+      "description": "Genres: Action, Drama, Fantasy, Romance\nTags:Female Protagonist/Rural/Espionage/Heterosexual/Josei\nIn an age when spies act behind the scenes in every land, Chloe spends her days successfully carrying out even the most difficult missions due to her unparalleled disguise skills and martial arts abilities. After the betrayal of her boss, she suddenly disappears—as Chloe plans to redo her life as the ordinary citizen Victoria in the neighboring kingdom of Ashberry, striving for a “normal” life. However, Victoria's peaceful life is abruptly cut short as she begins to get involved with many people. In this new land, her experiences and abilities from her days as a spy come in far more useful than she ever expected! On the other hand, the second prince--and others--take an interest in Victoria's strength, and the shadows close in on the woman with many faces…\n<br><br>\n(Source: Yen Press)"
+    },
+    {
+      "id": "kitsu:49978",
+      "type": "series",
+      "name": "Oni no Hanayome",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194219-qf7L0SfVi6nc.jpg",
+      "description": "Genres: Drama, Fantasy, Romance\nTags:Shoujo/Historical\nA Japanese-style ayakashi Cinderella story! \"You're the bride I've been searching for all this time.\" The ayakashi and humans coexist in harmony. The ayakashi, having superior abilities and beautiful appearances, sometimes find their partner among human women, making them their \"bride\". The bride, in exchange for bringing prosperity, receives absolute love from the ayakashi. Yuzu is constantly compared to her sister, a bride of a demon fox, and is resented by her family every day. One day, when Yuzu just couldn't take things anymore, a man appears before her on a bridge. This man is the most beautiful man Yuzu has ever seen... and he's calling her his wife?! \"Just be quiet and let me hold you.\" The most powerful, \"cold-hearted\" ayakashi is pouring his heart out for Yuzu?!<br><br>\n(Source: MangaPlaza)"
+    },
+    {
+      "id": "kitsu:50048",
+      "type": "series",
+      "name": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196219-Y06heSgyVUKx.jpg",
+      "description": "Genres: Drama, Fantasy, Romance\nTags:Heterosexual/Female Protagonist/Arranged Marriage/Medieval\nLady Carolina, the overlooked daughter of a powerful duke, has always believed herself to be the black sheep amid her illustrious kin. Her father is the distinguished prime minister; her elder sister, a prodigious mage destined to become their nation’s next Saint. In comparison, Carolina resigns herself to a quiet existence in their shadows until a sudden and unexpected royal decree alters her destiny, thrusting her into a political marriage with the formidable “Bloodthirsty Prince” of the neighboring Empire of Malcosias. Determined to prove her worth, Carolina takes a bold step into a world fraught with both political and mortal peril. As royal obligations intertwine with hints of true love and the stirrings of her own latent power, Carolina moves ever closer to understanding what it truly means to be exceptional.\n<br><br>\n(Source: J-Novel Club)"
+    },
+    {
+      "id": "kitsu:47929",
+      "type": "series",
+      "name": "Azur Lane: Bisoku Zenshin! Ni!!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169080-el4sMLlqMxeI.png",
+      "description": "Genres: Ecchi, Slice of Life\nTags:Primarily Female Cast/Cute Girls Doing Cute Things/Female Protagonist\nThe second season of <i>Azur Lane: Bisoku Zenshin!</i> "
+    },
+    {
+      "id": "tt41293380",
+      "type": "movie",
+      "name": "Kimi to Hanabi to Yakusoku to",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206819-9VJOdSC6yFET.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt41293380"
+      },
+      "description": "Genres: Romance\nTags:\nThe story centers on two Tokyo high schoolers who connect over a painting of fireworks. They trace the painting to the Nagaoka Fireworks Festival in Niigata, one of Japan's three major fireworks festivals, and to a mysterious promise that connects the two to the past.<br><br>\n\n(Source: Crunchyroll News, edited) \n"
+    },
+    {
+      "id": "tt39195667",
+      "type": "series",
+      "name": "Reiwa no Dara-san",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203880-lnruKftb27Nr.png",
+      "description": "Genres: Comedy, Horror, Supernatural\nTags:Monster Girl/Youkai/Crossdressing/Shrine Maiden/Tomboy/Gender Bending/Seinen/Gore\nClouds blacken the sky and sheets of rain turn the mountain forest into a treacherous maze... A landslide crushes a razor wire fence, and buries a \"NO TRESPASSING\" sign... Two young siblings wander into a dark world where they do not belong, and a long, horrid shadow rears up to meet them- Anyway, so that's how we met Dara-san! She might look kinda scary, but just wait until you get to know her!<br><br>\n\n\"Look, I'm a god of misfortune, okay!? Aren't you kids gonna freak out about my grotesque visage!?\"<br><br>\n\n(Source: Yen Press)"
+    },
+    {
+      "id": "tt39026173",
+      "type": "movie",
+      "name": "Chiikawa: Ningyo no Shima no Himitsu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202717-kHDn7BRiP9CR.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt39026173"
+      },
+      "description": "Genres: Comedy, Slice of Life\nTags:Mermaid/Primarily Animal Cast/Surreal Comedy/Animals\nBased on a series of <i>Chiikawa</i> comics posted on X by Nagano from March to November 2023, known as the <i>\"Siren Arc\"</i>.<br><br>\nOne day, while Chiikawa and Hachiware were relaxing in the square, Usagi suddenly appeared with a flyer stuck to its face. When Hachiware checked the flyer, it was an invitation reading “Special Invitation to a Special Island.”<br><br>\n\nLured by promises like “Get 100x rewards for simple island quests!” and “Limited-edition island ramen, exclusive sweets—sweet and spicy treats all practically free!”, Chiikawa and the others decided to go on the island retreat. Boarding the ship alongside Rakko, who was suspicious of the flyer's contents, the group landed on the island... only to find something waiting for them there...!?<br><br>\n(Source: Official Site, translated)"
+    },
+    {
+      "id": "tt42411584",
+      "type": "movie",
+      "name": "Shiranuhi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176373-GkYDehw14rxJ.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt42411584"
+      },
+      "description": "Genres: Supernatural\nTags:Coastal\nThe short is set in a coastal town in Kumamoto at the tail end of summer 1996. The 10-year-old boy Minato lives a precarious life with his drunkard father. Minato's only source of strength is Ben-chan, a goddess in the form of a young girl that appeared in Benten Island. The time he spends with her are the only times where he feels like himself. But when he is about to be separated from Ben-chan due to being sent to a children's home, Minato prays to a Shiranuhi, a mysterious light floating above the sea, to grant him one wish. His wish, filled with hatred towards his father, eventually becomes a curse.<br><br>\n(Source: Anime News Network)<br><br>\n<i>Note: Initially teased at AnimeJapan 2024 in the CoMix Wave Films booth, a visual of this project was shown off with a description being a new animation project by a \"rookie director\".</i>"
+    },
+    {
+      "id": "tt32915652",
+      "type": "movie",
+      "name": "Majo no Tani no Yoru",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211232-Bthde3cpWCtq.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt32915652"
+      },
+      "description": "Genres: Fantasy\nTags:\nA short film only screened at the Cinema Orion at Ghibli Park in Nagakute.<br><br>\n\nThe film is set in Ghibli Park's \"Valley of the Witches\" and is the first original animated short film created by Studio Ghibli for Ghibli Park."
+    },
+    {
+      "id": "tt41293342",
+      "type": "movie",
+      "name": "Crayon Shin-chan: Kikikaikai! Ora no Youkai Vacation",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208829-I72LfY7BgEZA.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt41293342"
+      },
+      "description": "Genres: Action, Adventure, Comedy\nTags:\nThe Nohara family go to Hiroshi's hometown of Akita to attend a famous fireworks festival during the summer. However, an incident causes youkai to escape from their land and will wreak havoc in Akita and in other areas throughout Japan. The Nohara family then go to the land of youkai and find themselves in a mysterious yet nostalgic world, where they go on an unpredictable adventure.\n<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt19035928",
+      "type": "movie",
+      "name": "Soreike! Anpanman: Pantan to Yakusoku no Hoshi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206682-CV51UmTvQJ84.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt19035928"
+      },
+      "description": "Genres: Comedy, Fantasy\nTags:\nPantan is a red panda who seeks to find the treasure thought to be in a rainbow star in the night sky, in order to keep a promise made to an adventurer long ago. When Pantan and Anpanman encounter each other, Anpanman lends his abilities to help out Pantan.\n<br><br>\n(Source: Anime News Network)"
     }
   ]
 }

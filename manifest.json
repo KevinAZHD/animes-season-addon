@@ -1,6 +1,6 @@
 {
   "id": "animes-season-addon",
-  "version": "1.19.1",
+  "version": "26.2.0",
   "name": "Animes' Seasons",
   "description": "Anime catalogs by season with priority metadata from Kitsu",
   "logo": "https://media.craiyon.com/2023-06-27/6664b575d60846fe878fc9d1e1f09d09.webp",
@@ -8,143 +8,40 @@
     "catalog"
   ],
   "types": [
-    "movie",
     "series"
   ],
   "catalogs": [
     {
       "type": "series",
+      "id": "latest_anime_seasons",
+      "name": "This Season",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "SPRING 2026",
+            "SUMMER 2026",
+            "FALL 2026",
+            "WINTER 2027"
+          ],
+          "isRequired": false
+        }
+      ],
+      "extraSupported": [
+        "genre"
+      ]
+    },
+    {
+      "type": "series",
       "id": "next_anime_season",
-      "name": "Upcoming Anime Season",
+      "name": "Upcoming Season",
       "extra": [],
       "extraSupported": []
-    },
-    {
-      "type": "series",
-      "id": "latest_anime_seasons",
-      "name": "Anime Seasons",
-      "extra": [
-        {
-          "name": "genre",
-          "options": [
-            "SUMMER",
-            "FALL",
-            "WINTER",
-            "SPRING"
-          ],
-          "isRequired": false
-        }
-      ],
-      "extraSupported": [
-        "genre"
-      ]
-    },
-    {
-      "type": "movie",
-      "id": "latest_anime_seasons",
-      "name": "Anime Seasons",
-      "extra": [
-        {
-          "name": "genre",
-          "options": [
-            "SUMMER",
-            "FALL",
-            "WINTER",
-            "SPRING"
-          ],
-          "isRequired": false
-        }
-      ],
-      "extraSupported": [
-        "genre"
-      ]
-    },
-    {
-      "type": "series",
-      "id": "archive_anime_seasons",
-      "name": "Anime Years",
-      "extra": [
-        {
-          "name": "genre",
-          "options": [
-            "2025",
-            "2024",
-            "2023",
-            "2022",
-            "2021",
-            "2020",
-            "2019",
-            "2018",
-            "2017",
-            "2016",
-            "2015",
-            "2014",
-            "2013",
-            "2012",
-            "2011",
-            "2010",
-            "2009",
-            "2008",
-            "2007",
-            "2006",
-            "2005",
-            "2004",
-            "2003",
-            "2002",
-            "2001"
-          ],
-          "isRequired": true
-        }
-      ],
-      "extraSupported": [
-        "genre"
-      ]
-    },
-    {
-      "type": "movie",
-      "id": "archive_anime_seasons",
-      "name": "Anime Years",
-      "extra": [
-        {
-          "name": "genre",
-          "options": [
-            "2025",
-            "2024",
-            "2023",
-            "2022",
-            "2021",
-            "2020",
-            "2019",
-            "2018",
-            "2017",
-            "2016",
-            "2015",
-            "2014",
-            "2013",
-            "2012",
-            "2011",
-            "2010",
-            "2009",
-            "2008",
-            "2007",
-            "2006",
-            "2005",
-            "2004",
-            "2003",
-            "2002",
-            "2001"
-          ],
-          "isRequired": true
-        }
-      ],
-      "extraSupported": [
-        "genre"
-      ]
     }
   ],
   "idPrefixes": [
     "tt",
     "kitsu"
   ],
-  "lastUpdatedAt": "2026-06-01T09:40:10.379Z"
+  "lastUpdatedAt": "2026-06-02T14:49:05.089Z"
 }
