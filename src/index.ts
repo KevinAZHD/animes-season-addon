@@ -1,4 +1,4 @@
-import { Season, monthToSeason, getNextSeasonAndYear } from "./query";
+import { Season, monthToSeason, getNextSeasonAndYear, spanishToSeason, seasonToSpanish } from "./query";
 import { Stremio } from "./stremio";
 import { Patches } from "./patch";
 
@@ -10,20 +10,21 @@ async function main() {
     const patchCtl = new Patches();
     patchCtl.loadCatalogManualFixPatches();
     
-    const titleType = "series";
+    const titleType = "anime";
     const defaultCatalog = await Stremio.createCatalogIfNotExists(`${titleType}/latest_anime_seasons.json`);
     for (const season of manifest.getSeasons()) {
         const [seasonName, seasonYearStr] = season.split(" ");
         const seasonYear = parseInt(seasonYearStr);
+        const englishSeason = spanishToSeason[seasonName];
         
         console.log(`Generating catalog for season ${season} ${titleType}`);
         const catalog = await Stremio.createCatalogIfNotExists(`${titleType}/latest_anime_seasons/genre=${season}.json`);
-        await catalog.populate(seasonYear, seasonName as Season, "series");
-        await catalog.populate(seasonYear, seasonName as Season, "movie");
-        patchCtl.applyPatches(catalog, seasonName);
+        await catalog.populate(seasonYear, englishSeason, "series");
+        await catalog.populate(seasonYear, englishSeason, "movie");
+        patchCtl.applyPatches(catalog, englishSeason);
         catalog.sortByPopularity();
         promises.push(catalog.writeToFile());
-        if (season === `${monthToSeason(today.getMonth())} ${currentYear}`) {
+        if (season === `${seasonToSpanish[monthToSeason(today.getMonth())]} ${currentYear}`) {
             catalog.getMetas().forEach(meta => defaultCatalog.addMeta(meta));
             defaultCatalog.sortByPopularity();
             promises.push(defaultCatalog.writeToFile());
@@ -34,7 +35,7 @@ async function main() {
     const currentSeason = monthToSeason(today.getMonth());
     const [nextSeason, nextSeasonYear] = getNextSeasonAndYear(currentSeason, currentYear);
     console.log(`Generating next season catalog: ${nextSeason} ${nextSeasonYear}`);
-    const nextSeasonCatalog = await Stremio.createCatalogIfNotExists(`series/next_anime_season.json`);
+    const nextSeasonCatalog = await Stremio.createCatalogIfNotExists(`anime/next_anime_season.json`);
     await nextSeasonCatalog.populate(nextSeasonYear, nextSeason, "series");
     await nextSeasonCatalog.populate(nextSeasonYear, nextSeason, "movie");
     patchCtl.applyPatches(nextSeasonCatalog, nextSeason);

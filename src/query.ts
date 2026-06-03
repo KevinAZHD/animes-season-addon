@@ -6,6 +6,22 @@ export enum Season {
     SUMMER = "SUMMER", // Jun to Aug
     FALL = "FALL" // Sep to Nov
 }
+export const seasonToSpanish: Record<Season, string> = {
+    [Season.WINTER]: "INVIERNO",
+    [Season.SPRING]: "PRIMAVERA",
+    [Season.SUMMER]: "VERANO",
+    [Season.FALL]: "OTOÑO"
+};
+export const spanishToSeason: Record<string, Season> = {
+    "INVIERNO": Season.WINTER,
+    "PRIMAVERA": Season.SPRING,
+    "VERANO": Season.SUMMER,
+    "OTOÑO": Season.FALL,
+    "invierno": Season.WINTER,
+    "primavera": Season.SPRING,
+    "verano": Season.SUMMER,
+    "otoño": Season.FALL
+};
 export enum Sorting {
     ID = "ID",
     ID_DESC = "ID_DESC",

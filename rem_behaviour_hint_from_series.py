@@ -1,6 +1,6 @@
 import json
 import glob
-for i in glob.iglob("catalog/series/*/*.json"):
+for i in glob.iglob("catalog/anime/*/*.json"):
     print(i)
     with open(i, "r") as f:
         data = json.load(f)["metas"]

@@ -8,7 +8,8 @@
     "test": "tsc && jest build",
     "build": "tsc",
     "clean": "rm -rf build",
-    "hard-clean": "rm -rf build node_modules"
+    "hard-clean": "rm -rf build node_modules",
+    "serve": "node server.js"
   },
   "repository": {
     "type": "git",

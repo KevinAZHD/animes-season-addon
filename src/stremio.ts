@@ -1,11 +1,11 @@
 import { TitleType } from "name-to-imdb";
 import { promises as fs } from "fs";
 import path from "path";
-import { Season, Sorting, createSortedSeasonList, monthToSeason, query } from "./query";
+import { Season, Sorting, createSortedSeasonList, monthToSeason, query, seasonToSpanish } from "./query";
 import { Anilist, IdResolver, IdSource, Imdb } from "./request";
 export type Meta = {
     id: string;
-    type: TitleType;
+    type: string;
     name: string;
     poster: string;
     behaviorHints?: {
@@ -13,6 +13,7 @@ export type Meta = {
     }
     description?: string;
     popularity?: number;
+    originalType?: TitleType;
 }
 export class Catalog {
     private metas: Meta[] = [];
@@ -32,7 +33,7 @@ export class Catalog {
 
     // Write metas to file
     async writeToFile() {
-        const cleanedMetas = this.metas.map(({ popularity, ...rest }) => rest);
+        const cleanedMetas = this.metas.map(({ popularity, originalType, ...rest }) => rest);
         await fs.writeFile(this.pathFile, JSON.stringify({metas: cleanedMetas.filter((m) => m?.id?.startsWith("tt") || m?.id?.startsWith("kitsu"))}, null, 2));
     }
 
@@ -62,10 +63,10 @@ export class Catalog {
             const poster = anime.coverImage.extraLarge ?? anime.coverImage.large ?? anime.coverImage.medium ?? anime.bannerImage;
             switch (type) {
                 case "movie":
-                    this.addMeta({id,type,name:originalName,poster, behaviorHints:{defaultVideoId:id}, description, popularity: anime.popularity} as Meta);
+                    this.addMeta({id,type: "anime",name:originalName,poster, behaviorHints:{defaultVideoId:id}, description, popularity: anime.popularity, originalType: type} as Meta);
                     break;
                 default:
-                    this.addMeta({id,type,name:originalName,poster, description, popularity: anime.popularity} as Meta);
+                    this.addMeta({id,type: "anime",name:originalName,poster, description, popularity: anime.popularity, originalType: type} as Meta);
             }
         }
     }
@@ -77,7 +78,7 @@ export type CatalogExtra = {
 }
 export type CatalogDescription = {
     id: string;
-    type: TitleType;
+    type: string;
     name: string;
     extra: CatalogExtra[];
     extraSupported: string[];
@@ -191,15 +192,15 @@ export class Manifest implements AbstractManifest {
             id: "animes-season-addon",
             version: "1.0.0",
             name: "Animes' Seasons",
-            description: "Anime catalogs by season with priority metadata from Kitsu",
+            description: "Catálogos de anime por temporada con metadatos prioritarios de Kitsu",
             logo: "https://media.craiyon.com/2023-06-27/6664b575d60846fe878fc9d1e1f09d09.webp",
             resources: ["catalog"],
-            types: ["series"],
+            types: ["anime"],
             catalogs: [
                 {
-                    type: "series",
+                    type: "anime",
                     id: "latest_anime_seasons",
-                    name: "This Season",
+                    name: "⭐ Temporada Actual",
                     extra: [{
                         name: "genre",
                         options: seasons,
@@ -208,9 +209,9 @@ export class Manifest implements AbstractManifest {
                     extraSupported: ["genre"]
                 },
                 {
-                    type: "series",
+                    type: "anime",
                     id: "next_anime_season",
-                    name: "Upcoming Season",
+                    name: "📅 Próxima Temporada",
                     extra: [],
                     extraSupported: []
                 }
@@ -249,7 +250,8 @@ export class Manifest implements AbstractManifest {
         return sortedSeasons.map(season => {
             const seasonIndex = seasonOrder.indexOf(season);
             const year = seasonIndex < currentSeasonIndex ? currentYear + 1 : currentYear;
-            return `${season} ${year}`;
+            const spanishSeason = seasonToSpanish[season];
+            return `${spanishSeason} ${year}`;
         });
     }
     private addCatalog(contentType: TitleType, catalogType: CatalogType) {
