@@ -1,70 +1,60 @@
 import * as fs from "fs";
 import * as path from "path";
 import { Catalog } from "./stremio";
+
+// Handles postprocess metadata patches read from manual CSV configuration
 export class Patches {
     private line: string = "";
     private filePath: string;
     private patches: any = {
-        movie: {
-            SUMMER: new Map(),
-            WINTER: new Map(),
-            SPRING: new Map(),
-            FALL: new Map()
-        },
-        series: {
-            SUMMER: new Map(),
-            WINTER: new Map(),
-            SPRING: new Map(),
-            FALL: new Map()
-        }
+        movie: { SUMMER: new Map(), WINTER: new Map(), SPRING: new Map(), FALL: new Map() },
+        series: { SUMMER: new Map(), WINTER: new Map(), SPRING: new Map(), FALL: new Map() }
     };
+
     constructor(filePath?: string) {
         this.filePath = filePath || path.join(__dirname, "../../postprocess/fix/catalog/manual.csv");
     }
+
+    // Parses and pops next comma-separated or quoted field from internal line buffer
     private popNext(): string {
-        let separator = ","
+        let separator = ",";
         if (this.line[0] === '"') {
             separator = "\",";
             this.line = this.line.slice(1);
         }
         const nextQuote = this.line.indexOf(separator);
-        let result;
-        if (nextQuote === -1) {
-            result = this.line;
-        } else {
-            result = this.line.slice(0, nextQuote);
-        }
-        this.line = this.line.slice(nextQuote + separator.length);
+        const result = nextQuote === -1 ? this.line : this.line.slice(0, nextQuote);
+        this.line = nextQuote === -1 ? "" : this.line.slice(nextQuote + separator.length);
         return result;
     }
+
+    // Loads CSV manual patches file and builds internal lookup structure
     loadCatalogManualFixPatches() {
-        // Load manual patches from file
         if (!this.filePath) this.filePath = path.join(__dirname, "../../postprocess/fix/catalog/manual.csv");
-        const patchFilepath = this.filePath;
-        const patchFileContent = fs.readFileSync(patchFilepath, "utf8");
+        const patchFileContent = fs.readFileSync(this.filePath, "utf8");
         for (const line of patchFileContent.split("\n")) {
+            if (!line.trim()) continue;
             this.line = line;
-            const [type,season,name,oldID,newID] = [this.popNext(),this.popNext(),this.popNext(),this.popNext(),this.popNext()];
-            if (!isNaN(season as any)) {
-                console.log(`Type: ${type}, Season: ${season}, Name: ${name}, Old ID: ${oldID}, New ID: ${newID}`);
-                this.patches[type] = {...this.patches[type], [season]: this.patches[type][season] || new Map()};
+            const [type, season, name, oldID, newID] = [this.popNext(), this.popNext(), this.popNext(), this.popNext(), this.popNext()];
+            if (season && !isNaN(season as any)) {
+                this.patches[type] = { ...this.patches[type], [season]: this.patches[type][season] || new Map() };
             }
-            this.patches[type][season]?.set(name, {[oldID]: newID});
+            if (this.patches[type] && this.patches[type][season]) {
+                this.patches[type][season].set(name, { [oldID]: newID });
+            }
         }
         return this.patches;
     }
     
+    // Scans catalog metas and patches matching ID configurations
     applyPatches(catalog: Catalog, season: string) {
         catalog.getMetas().forEach(meta => {
-            console.log(`Applying patch for ${meta.name} ${meta.id}`);
             const metaType = meta.type === "movie" ? "movie" : "series";
             const patch = this.patches[metaType][season]?.get(meta.name);
-            console.log(patch);
-            if (patch) {
-                console.log(`Found patch for ${meta.name}: ${meta.id}=>${patch[meta.id]}`);
-                meta.id = patch[meta.id] || meta.id;
+            if (patch && patch[meta.id]) {
+                console.log(`Applying patch for ${meta.name}: ${meta.id} => ${patch[meta.id]}`);
+                meta.id = patch[meta.id];
             }
         });
     }
-
 }

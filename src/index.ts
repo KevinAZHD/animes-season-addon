@@ -2,6 +2,7 @@ import { Season, monthToSeason, getNextSeasonAndYear, spanishToSeason, seasonToS
 import { Stremio } from "./stremio";
 import { Patches } from "./patch";
 
+// Core function orchestrating whole catalog updates flow
 async function main() {
     const today = new Date();
     const currentYear = today.getFullYear();
@@ -12,6 +13,8 @@ async function main() {
     
     const titleType = "anime";
     const defaultCatalog = await Stremio.createCatalogIfNotExists(`${titleType}/latest_anime_seasons.json`);
+
+    // Updates catalog metadata files for each registered season in manifest
     for (const season of manifest.getSeasons()) {
         const [seasonName, seasonYearStr] = season.split(" ");
         const seasonYear = parseInt(seasonYearStr);
@@ -19,11 +22,11 @@ async function main() {
         
         console.log(`Generating catalog for season ${season} ${titleType}`);
         const catalog = await Stremio.createCatalogIfNotExists(`${titleType}/latest_anime_seasons/genre=${season}.json`);
-        await catalog.populate(seasonYear, englishSeason, "series");
-        await catalog.populate(seasonYear, englishSeason, "movie");
+        await catalog.populateFromMAL(seasonYear, englishSeason);
         patchCtl.applyPatches(catalog, englishSeason);
         catalog.sortByPopularity();
         promises.push(catalog.writeToFile());
+
         if (season === `${seasonToSpanish[monthToSeason(today.getMonth())]} ${currentYear}`) {
             catalog.getMetas().forEach(meta => defaultCatalog.addMeta(meta));
             defaultCatalog.sortByPopularity();
@@ -31,13 +34,12 @@ async function main() {
         }
     }
     
-    // Next season catalog
+    // Updates upcoming next season catalog metadata file
     const currentSeason = monthToSeason(today.getMonth());
     const [nextSeason, nextSeasonYear] = getNextSeasonAndYear(currentSeason, currentYear);
     console.log(`Generating next season catalog: ${nextSeason} ${nextSeasonYear}`);
     const nextSeasonCatalog = await Stremio.createCatalogIfNotExists(`anime/next_anime_season.json`);
-    await nextSeasonCatalog.populate(nextSeasonYear, nextSeason, "series");
-    await nextSeasonCatalog.populate(nextSeasonYear, nextSeason, "movie");
+    await nextSeasonCatalog.populateFromMAL(nextSeasonYear, nextSeason);
     patchCtl.applyPatches(nextSeasonCatalog, nextSeason);
     nextSeasonCatalog.sortByPopularity();
     promises.push(nextSeasonCatalog.writeToFile());
@@ -47,4 +49,5 @@ async function main() {
     await Promise.all(promises);
 }
 
-(async () => main())()
+// Immediate execution trigger for main execution thread
+(async () => main())();

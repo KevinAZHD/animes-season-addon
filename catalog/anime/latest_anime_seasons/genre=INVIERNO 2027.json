@@ -1,11 +1,65 @@
 {
   "metas": [
     {
+      "id": "kitsu:48346",
+      "type": "anime",
+      "name": "Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171952-uB8CTTCBI1u5.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:48346"
+      },
+      "description": "Genres: Action, Comedy, Fantasy\nTags:Isekai/Urban Fantasy/Magic/Male Protagonist/Chuunibyou/Swordplay/Elf\nTheatrical follow-up to <i>Kage no Jitsuryokusha ni Naritakute! 2nd season</i>."
+    },
+    {
       "id": "kitsu:49778",
       "type": "anime",
       "name": "Shangri-La Frontier 3rd Season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189323-U11lWB3KOS5I.jpg",
       "description": "Genres: Action, Adventure, Comedy, Fantasy, Sci-Fi\nTags:Virtual World/Male Protagonist/Video Games/Shounen/E-Sports/Animals/Dungeon\nThe third season of <i>Shangri-La Frontier</i>."
+    },
+    {
+      "id": "kitsu:48547",
+      "type": "anime",
+      "name": "Haikyuu!!: VS Chiisana Kyojin",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174871-VMLQELb5Fbxm.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:48547"
+      },
+      "description": "Genres: Comedy, Drama, Sports\nTags:Volleyball/Coming of Age/Shounen/School Club/Primarily Teen Cast/Male Protagonist/Primarily Male Cast/Ensemble Cast\nSequel to <i>Haikyuu!!: Gomi Suteba no Kessen</i>. The second film of Haikyuu!! FINAL. <br><br>\n"
+    },
+    {
+      "id": "kitsu:48322",
+      "type": "anime",
+      "name": "THE ONE PIECE",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171630-CW3kbduXmmUE.jpg",
+      "description": "Genres: Adventure\nTags:Pirates/Ensemble Cast/Travel/Shounen/Found Family/Super Power/Male Protagonist/Ships/Politics/Primarily Adult Cast/Anti-Hero/Swordplay\nTo commemorate the <i>ONE PIECE</i> anime's 25th anniversary: <i>THE ONE PIECE</i> anime by WIT Studio will recreate the story of the original <i>ONE PIECE</i> manga, starting from the East Blue arc.<br><br>\n\n(Source: Netflix, edited)"
+    },
+    {
+      "id": "kitsu:50599",
+      "type": "anime",
+      "name": "Mairimashita! Iruma-kun: If Episode of Mafia",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207251-szD9KkC2G4nx.jpg",
+      "description": "Genres: Action, Comedy\nTags:Ensemble Cast/Shounen/Male Protagonist/Mafia/Gangs\nIn this brand-new spinoff of the runaway hit series, Iruma is a dirt-poor but kind young boy who grows up in a ruthless city slum. One day, Iruma gives a severely injured old man his last loaf of bread and nurses the stranger back to health—only to find out that the elder gent is none other than Don Sullivan, leader of the Babel Mafia! Soon after, Don Sullivan comes back, whisks Iruma away, and begs the boy to become his grandson. And just like that, the curtains rise on Iruma’s chaotic new life as the next in line to a gigantic gang of—dare we say<i>demonic</i> mafiosos!\n<br><br>\n(Source: Kodansha USA)"
+    },
+    {
+      "id": "tt14576898",
+      "type": "anime",
+      "name": "CHERRY AND VIRGIN",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b210309-PfeIVnq0Z6Iv.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt14576898"
+      },
+      "description": "Genres: Comedy, Romance\nTags:Heterosexual/Rotoscoping/Mixed Media/Primarily Adult Cast\n<i>Cherry and Virgin</i> is a romantic comedy featuring a 32-year-old \"eromanga\" author Ryou and a 28-year-old \"fujoshi'' Ami. Neither character is great at interacting with members of the opposite gender—Ryou is somewhat of an otaku and defenseless against women, and Ami does not have a good impression of 3D men. After a fateful encounter, the story follows the two as they learn to navigate a sea of interpersonal relationships and come to better understand the bitter and sweet aspects of modern relationships.\n<br><br>\n(Source: MAL News)"
+    },
+    {
+      "id": "kitsu:50482",
+      "type": "anime",
+      "name": "Medalist Movie",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206298-JlZmS2os2PQL.png",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:50482"
+      },
+      "description": "Genres: Drama, Psychological, Sports\nTags:Ice Skating/Female Protagonist/Male Protagonist/Coming of Age/Seinen/Athletics\nSequel to <i>Medalist 2nd Season.</i>"
     },
     {
       "id": "kitsu:49753",
@@ -19,21 +73,31 @@
       "type": "anime",
       "name": "Historié",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205130-dC5WuIvGMMgr.png",
-      "description": "Genres: Adventure, Drama, Psychological\nTags:Historical/Body Horror/Seinen/Gore/Medieval\nAfter shocking the world with Parasyte, Hitoshi Iwaaki is back with a series he's been aching to tackle since even before his pro manga debut! A historical epic set in ancient times, Historie tells the story of Eumenes, a young man with quick wits and a vast destiny to fulfill. In time, he'll become a famed army commander and personal secretary to Alexander the Great—but the road to this glory is fraught with danger… \"<br><br>(Source: K Manga)"
+      "description": "Genres: Adventure, Drama, Psychological\nTags:Historical/Gore/Body Horror/Seinen/Medieval\nAfter shocking the world with Parasyte, Hitoshi Iwaaki is back with a series he's been aching to tackle since even before his pro manga debut! A historical epic set in ancient times, Historie tells the story of Eumenes, a young man with quick wits and a vast destiny to fulfill. In time, he'll become a famed army commander and personal secretary to Alexander the Great—but the road to this glory is fraught with danger… \"<br><br>(Source: K Manga)"
     },
     {
-      "id": "kitsu:50599",
+      "id": "kitsu:49990",
       "type": "anime",
-      "name": "Mairimashita! Iruma-kun: If Episode of Mafia",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207251-szD9KkC2G4nx.jpg",
-      "description": "Genres: Action, Comedy\nTags:Gangs/Ensemble Cast/Mafia/Male Protagonist/Shounen\nIn this brand-new spinoff of the runaway hit series, Iruma is a dirt-poor but kind young boy who grows up in a ruthless city slum. One day, Iruma gives a severely injured old man his last loaf of bread and nurses the stranger back to health—only to find out that the elder gent is none other than Don Sullivan, leader of the Babel Mafia! Soon after, Don Sullivan comes back, whisks Iruma away, and begs the boy to become his grandson. And just like that, the curtains rise on Iruma’s chaotic new life as the next in line to a gigantic gang of—dare we say<i>demonic</i> mafiosos!\n<br><br>\n(Source: Kodansha USA)"
+      "name": "ghost (Provisional Title)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194213-ZCD7DCCXlYl8.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:49990"
+      },
+      "description": "Genres: Supernatural\nTags:Female Protagonist\nEveryone has a \"ghost\" in their hearts. It is a genuine feeling that is there but inexpressible. In this work, the girl Nike opposes the absurdity of the world in order to protect the \"starry sky.\" This challenging work expresses Nike's solitude and heroism, and the subtleties of the heart as she interacts with others. \n<br><br>\n\n(Source:  Bandai Namco Filmworks Press Release via Anime News Network) "
     },
     {
-      "id": "kitsu:50150",
+      "id": "kitsu:50050",
       "type": "anime",
-      "name": "Kaze wo Tsugumono",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198728-RguTjB254b7H.jpg",
-      "description": "Genres: Action\nTags:Samurai/Female Protagonist\nDuring the Bakumatsu era in the city of Kyoto, a soldier, his memories lost, is aided by Soji Okita, assistant officer of the Mibu Roshigumi.\n<br><br>\n<i>\"Your name is Jinsuke Tachikawa.\"</i>\n<br><br>\nJinsuke's life begins anew living among the Mibu soldiers.\n<br><br>\nPortraying the fleeting youth of these young people who lived in turbulent times, this original anime will bring their stories to life with sharp detail and a fresh perspective.<br><br>\n(Source: Aniplex Online Fest 2025)"
+      "name": "Hirayasumi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196333-3UbU6QT5oTkN.jpg",
+      "description": "Genres: Comedy, Drama, Slice of Life\nTags:Seinen/Family Life/Iyashikei/Primarily Adult Cast\nWith a carefree outlook on life, Hiroto knows better than anyone that slowing down is sometimes the best way to move forward. \n\n<br><br>\nAt 29 years old, carefree Hiroto Ikuta doesn’t have a girlfriend, a full-time job, or a plan for the future—and he couldn’t be happier. Hiroto’s breezy attitude isn’t easy for everyone to understand, though. In a world filled with anxiety, confusion, and grief, Hiroto and the people who surround him are all just doing their best to figure out this thing called life. \n\n<br><br>\nAfter developing an unlikely friendship with the grouchy old granny who lives in his neighborhood, Hiroto suddenly finds himself inheriting not just her house, but some rather difficult emotions as well. His 18-year-old cousin Natsumi moves in with him, but as a struggling art student, she has her own troubles to deal with and may just put Hiroto’s easygoing lifestyle to the test. \n<br><br>\n(Source: VIZ Media)"
+    },
+    {
+      "id": "kitsu:50644",
+      "type": "anime",
+      "name": "Love Live! Hasunosora Jogakuin School Idol Club",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210157-TsOt9K0ADCmK.jpg",
+      "description": "Genres: Music, Slice of Life\nTags:Idol/Primarily Female Cast/Female Protagonist/Ensemble Cast\n<i>Note: Relations are provisional and subject to change when more info is announced.</i>"
     },
     {
       "id": "tt42027051",
@@ -43,18 +107,28 @@
       "description": "Genres: Drama, Fantasy, Romance\nTags:Royal Affairs/Shoujo\nMatsurika, a female officer in the Inner Palace, had a little special skill, and that was \"a better memory\" than others. One day, she accepted a request to become a practice partner for a marriage meeting of a certain son of a distinguished family. However, the one who appeared was the Emperor, Hakuyou, who wanted to try having a marriage meeting?! And interested in Matsurika's special skill, Hakuyou even said, \"For now, go and pass the civil exam\"...?!\n<br><br>\nA Chinese-style Cinderella story between an emperor and a girl!\n<br><br>\n(Source: Kadokawa, translated)"
     },
     {
-      "id": "kitsu:50644",
+      "id": "kitsu:50150",
       "type": "anime",
-      "name": "Love Live! Hasunosora Jogakuin School Idol Club",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210157-TsOt9K0ADCmK.jpg",
-      "description": "Genres: Music, Slice of Life\nTags:Idol/Ensemble Cast/Primarily Female Cast/Female Protagonist\n<i>Note: Relations are provisional and subject to change when more info is announced.</i>"
+      "name": "Kaze wo Tsugumono",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198728-RguTjB254b7H.jpg",
+      "description": "Genres: Action\nTags:Samurai/Female Protagonist\nDuring the Bakumatsu era in the city of Kyoto, a soldier, his memories lost, is aided by Soji Okita, assistant officer of the Mibu Roshigumi.\n<br><br>\n<i>\"Your name is Jinsuke Tachikawa.\"</i>\n<br><br>\nJinsuke's life begins anew living among the Mibu soldiers.\n<br><br>\nPortraying the fleeting youth of these young people who lived in turbulent times, this original anime will bring their stories to life with sharp detail and a fresh perspective.<br><br>\n(Source: Aniplex Online Fest 2025)"
+    },
+    {
+      "id": "tt2279373",
+      "type": "anime",
+      "name": "Umi ga Hashiru End Roll",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b212105-f5L7q8C22ga2.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt2279373"
+      },
+      "description": "Genres: Comedy, Drama, Slice of Life\nTags:Elderly Protagonist/Female Protagonist/Filmmaking/Photography/Primarily Adult Cast/College/Shoujo/Iyashikei\nUmiko, a grandma, realizes that she has the same desire to make movies as university student Kai—and soon she enrolls in Kai's film school!\n<br><br>\n<i>\"It's not the movies you like…you like watching the people watching the movies.\"</i>\n<br><br>\nJust what are you going to do with the rest of your life? It's the question you'll always have to answer, no matter your age. Umiko Chino is a 65-year-old retired woman in mourning for her late husband. Remembering how they used to watch films together, Umiko goes to the movie theater for the first time in years, where she meets Kai, an attractive, ambiguous young man who studies filmmaking at a nearby art school.\n<br><br>\nThey would seem to have nothing in common, except for this—both of them sometimes like to look more at the way the audience reacts to a movie than the movie itself. Kai believes Umiko has the same deep desire he possesses to experience how people respond to something they made… and challenges her to stake the rest of her life discovering that thrill.\n<br><br>\nSoon Umiko surprises herself by enrolling in the same film school as Kai. But sailing into this new sea, she's suddenly inside the currents of her fellow students' lives, a much younger generation that she struggles to understand, driven by their own passions and their own relationships. Who's really experienced at life, and is it old age or observation that brings wisdom? And does what you're looking for change when you look with your eyes instead of through a camera lens…?\n<br><br>\n(Source: Dark Horse)"
     },
     {
       "id": "tt41918593",
       "type": "anime",
       "name": "Charisma",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203116-VTXVyj1BizOQ.png",
-      "description": "Genres: Comedy, Music\nTags:Primarily Male Cast\nThe Charisma are riding the airwaves<br>\nand coming straight into your living room<br><br>\n\nIs this okay? Really okay?<br>\nYes. It’s absolutely okay<br><br>\n\n(Source: Official Twitter)"
+      "poster": "https://cdn.myanimelist.net/images/anime/1656/156247l.jpg",
+      "description": "Genres: \n\"They're just ordinary guys.\"\n\nArranged by the mysterious Fumiya Itou, a seven-person sharehouse has become home to a group of charismatic guys, taking on the name \"Charisma House.\" From the \"dog for the people\" Iori Motohashi to rebellious \"just say no!\" Kei Sarukawa, each member has their own unique charisma that they nurture day by day. Whether it's Amahiko Tendou fulfilling his role as World Sexy Ambassador, or Terra falling in love with his own reflection, or Ohse Minato attempting to jump out of another window, the Charisma House is always lively, even if it challenges Rikai Kusanagi's attempts to maintain rigid order. Ordinary people just wouldn't understand.\n\nDespite what people might say about their unique habits, other's opinions can't faze the Charismas, who simply turn adversities into fuel to power their \"Charisma Charge.\" But what might happen when this charge fills up..?!\n\n(Source: MAL News)"
     }
   ]
 }

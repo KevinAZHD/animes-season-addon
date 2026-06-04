@@ -2,7 +2,7 @@ name: Node.js CI
 
 on:
   schedule:
-    - cron:  '30 4 * * *'
+    - cron:  '0 22 * * *'
   workflow_dispatch:
 
 jobs:
@@ -28,7 +28,6 @@ jobs:
           add: '["manifest.json","catalog"]'
           author_name: "KevinAZHD"
           author_email: "kevin.adan.zamora@gmail.com"
-          default_author: user_info
           new_branch: main
           message: "Github actions updated anime season data"
           push: "origin main --set-upstream --force"
