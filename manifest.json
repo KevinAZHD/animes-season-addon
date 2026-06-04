@@ -8,7 +8,9 @@
     "catalog"
   ],
   "types": [
-    "anime"
+    "anime",
+    "series",
+    "movie"
   ],
   "catalogs": [
     {
@@ -43,5 +45,5 @@
     "tt",
     "kitsu"
   ],
-  "lastUpdatedAt": "2026-06-04T14:29:54.673Z"
+  "lastUpdatedAt": "2026-06-04T16:34:53.602Z"
 }

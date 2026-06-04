@@ -160,10 +160,10 @@ export class Catalog {
 
             switch (titleType) {
                 case "movie":
-                    this.addMeta({ id, type: "anime", name: originalName, poster, behaviorHints: { defaultVideoId: id }, description, popularity: members, originalType: titleType } as Meta);
+                    this.addMeta({ id, type: "movie", name: originalName, poster, behaviorHints: { defaultVideoId: id }, description, popularity: members, originalType: titleType } as Meta);
                     break;
                 default:
-                    this.addMeta({ id, type: "anime", name: originalName, poster, description, popularity: members, originalType: titleType } as Meta);
+                    this.addMeta({ id, type: "series", name: originalName, poster, description, popularity: members, originalType: titleType } as Meta);
             }
         }
     }
@@ -307,7 +307,7 @@ export class Manifest implements AbstractManifest {
             description: "Catálogos de animes por temporadas actualizadas.",
             logo: "https://kevinazhd.github.io/animes-season-addon/assets/logo.png",
             resources: ["catalog"],
-            types: ["anime"],
+            types: ["anime", "series", "movie"],
             catalogs: [
                 {
                     type: "anime",

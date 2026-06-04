@@ -16,12 +16,12 @@ El addon funciona generando catálogos estáticos que Stremio lee directamente. 
 #### 1. Flujo de Generación de Datos
 ```mermaid
 graph TD
-    A[Disparador Diario / Manual] --> B[Obtener Anime Estacional desde Jikan API]
-    B --> C[Obtener Metadatos desde AniList GraphQL via idMal_in]
-    C --> D[Mapear y Resolver IDs Kitsu/IMDb/TMDB]
-    D --> E[Aplicar Parches Manuales]
-    E --> F[Ordenar por Miembros de MyAnimeList]
-    F --> G[Escribir Catálogos JSON Estáticos y Actualizar manifest.json]
+    A[Disparador Diario /<br>Manual] --> B[Obtener Anime<br>Estacional desde<br>Jikan API]
+    B --> C[Obtener Metadatos<br>desde AniList GraphQL<br>via idMal_in]
+    C --> D[Mapear y Resolver<br>IDs Kitsu/IMDb/TMDB]
+    D --> E[Aplicar Parches<br>Manuales]
+    E --> F[Ordenar por Miembros<br>de MyAnimeList]
+    F --> G[Escribir Catálogos<br>JSON Estáticos y<br>Actualizar manifest.json]
 ```
 
 #### 2. Especificaciones Técnicas
@@ -52,12 +52,12 @@ The addon generates static catalogs that Stremio displays. The catalogs are auto
 #### 1. Catalog Generation Workflow
 ```mermaid
 graph TD
-    A[Daily Cron / Manual Trigger] --> B[Fetch Seasonal Anime from Jikan API]
-    B --> C[Fetch Metadata from AniList GraphQL via idMal_in]
-    C --> D[Match/Resolve IDs Kitsu/IMDb/TMDB]
-    D --> E[Apply Manual Patch Fixes]
-    E --> F[Sort by MyAnimeList Members Count]
-    F --> G[Write static JSON Catalogs & Update manifest.json]
+    A[Daily Cron /<br>Manual Trigger] --> B[Fetch Seasonal<br>Anime from<br>Jikan API]
+    B --> C[Fetch Metadata<br>from AniList GraphQL<br>via idMal_in]
+    C --> D[Match/Resolve IDs<br>Kitsu/IMDb/TMDB]
+    D --> E[Apply Manual<br>Patch Fixes]
+    E --> F[Sort by MyAnimeList<br>Members Count]
+    F --> G[Write static<br>JSON Catalogs &<br>Update manifest.json]
 ```
 
 #### 2. Technical Specifications
