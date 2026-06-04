@@ -1,4 +1,4 @@
-# Animes' Seasons Addon (Stremio)
+# Animes' Seasons
 
 <p align="center">
   <img src="assets/logo.png" alt="Animes' Seasons Logo" width="150" height="150"/>
