@@ -304,9 +304,70 @@
     {
       "id": "kitsu:50607",
       "type": "anime",
+<<<<<<< HEAD
       "name": "Tensei Goblin Dakedo Shitsumon Aru?",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209219-vU7uIlcKmVlW.jpg",
       "description": "Genres: Action, Adventure, Comedy, Drama, Fantasy, Romance\nTags:Goblin/Magic\nOffice worker Akira Yagami’s altruistic nature usually gets him the short end of the stick. When he dies after saving a kid from oncoming traffic...he reincarnates in another world as a goblin?! Normally, goblins only live for seven days, but Akira’s newfound powers let him defy the species’ normal life span...and are the key to his path to becoming the strongest goblin ever!\n<br><br>\n(Source: Yen Press)"
+=======
+      "name": "Tetsuryou! meet with Tetsudou Musume",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199594-KyZW6uaMiQWg.jpg",
+      "description": "Genres: Slice of Life\nTags:Trains/Female Protagonist/Cute Girls Doing Cute Things/Iyashikei\nMisaki has often felt the urge to break free from everyday life and set out on a journey somewhere far away. Even though she doesn’t yet know what she wants to become, she longs to find something she can truly be passionate about.<br><br>\nAt the start of a new chapter on a lively campus, she meets the members of the Railway Travel Research Club—known as the “Tetsuryo Club.” As her world unfolds along the railway lines, Misaki’s heart begins to race with excitement!<br><br>\nAs TETSUDOU MUSUME celebrates its 20th anniversary, the Tetsuryo Club sets off on a journey through the world where the Railway Girls work, in search of moments of wonder.\n<br><br>\n(Source: Pony Canyon Anime)"
+    },
+    {
+      "id": "tt35517192",
+      "type": "anime",
+      "name": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199068-dDadPRy9Nekb.png",
+      "description": "Genres: Action, Comedy, Sports\nTags:Tennis/Shounen/Primarily Male Cast/Male Protagonist/Ensemble Cast/Foreign/Primarily Teen Cast\nSequel to <i>Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL</i>."
+    },
+    {
+      "id": "tt36986811",
+      "type": "anime",
+      "name": "Kizu darake Seijo yori Houfuku wo Komete Season2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212144-xRrdEJacUgs3.png",
+      "description": "Genres: Fantasy, Romance\nTags:Flash\nThe second season of <i>Kizu darake Seijo yori Houfuku wo Komete</i>."
+    },
+    {
+      "id": "tt39123115",
+      "type": "anime",
+      "name": "Meitantei Precure (Movie)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198654-BNcEXiCUdyKC.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "tt39123115"
+      },
+      "description": "Genres: Mahou Shoujo\nTags:Kids/Primarily Female Cast/Henshin\nMovie of <i>Meitantei Precure!</i>."
+    },
+    {
+      "id": "tt41295113",
+      "type": "anime",
+      "name": "Battle Spirits [Re] Zekkai No Ku",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187990-06i3idrs7NTF.png",
+      "description": "Genres: Action\nTags:Card Battle\nNew Battle Spirits TV Anime.<br><br>\n"
+    },
+    {
+      "id": "tt39242703",
+      "type": "anime",
+      "name": "Temppal: Item no Chikara",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212888-8W8HnrZkvAzj.jpg",
+      "description": "Genres: Action, Adventure, Comedy, Fantasy\nTags:\nSin Yeong-U (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….<br><br>\n\n(Source: Tapas, edited)"
+    },
+    {
+      "id": "tt36594331",
+      "type": "anime",
+      "name": "Pan Dorobou",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194207-qhLou1C09vEf.png",
+      "description": "Genres: Comedy\nTags:Crime\nKadokawa announced on June 9th, 2025 that Keiko Shibata's Pan Dorobou (Bread Thief) picture book will have an anime adaptation. The announcement did not reveal the anime's format. The picture books center on a piece of bread that also steals bread from bakeries in the city.<br><br>\n(Source: Anime News Network)"
+    },
+    {
+      "id": "tt32547691",
+      "type": "anime",
+      "name": "Norman the Snowman: Kodomo-tachi no Hitotsuboshi",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205289-RYXB6QzgHUMZ.png",
+      "behaviorHints": {
+        "defaultVideoId": "tt32547691"
+      },
+      "description": "Genres: Fantasy\nTags:\nThe boy has grown into a young man, living apart from his mother. Although he returned to his hometown, he is unable to be honest with her. After reuniting with Norman, a mysterious child searching for \"snow flowers\" suddenly appears before them. Norman and the young man venture into the snow-covered forest with the child.\n<br><br>\n(Source: Official site)"
+>>>>>>> 27ecd5721b714aa46e7d2b754b0aae574c9b9b85
     }
   ]
 }
