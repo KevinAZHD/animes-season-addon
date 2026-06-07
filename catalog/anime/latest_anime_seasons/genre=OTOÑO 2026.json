@@ -12,7 +12,7 @@
       "type": "series",
       "name": "Tensei Shitara Ken Deshita 2nd Season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159042-jgPJHpMfrSv5.jpg",
-      "description": "Genres: Action, Adventure, Fantasy\nTags:Female Protagonist/Swordplay/Nekomimi/Kemonomimi/Gore/Isekai/Urban Fantasy/Cute Girls Doing Cute Things/Medieval/Food\nThe second season of <i>Tensei Shitara Ken Deshita</i>."
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Female Protagonist/Nekomimi/Swordplay/Magic/Kemonomimi/Isekai/Gore/Cute Girls Doing Cute Things/Medieval/Urban Fantasy/Food\nThe second season of <i>Tensei Shitara Ken Deshita</i>."
     },
     {
       "id": "kitsu:47017",
@@ -54,6 +54,13 @@
         "defaultVideoId": "kitsu:50192"
       },
       "description": "Genres: Drama, Psychological, Romance, Supernatural\nTags:Female Protagonist/Heterosexual/College/Male Protagonist/Coming of Age/Primarily Adult Cast/Urban\nTheatrical follow-up to <i>Seishun Buta Yarou wa Santa Claus no Yume wo Minai</i>."
+    },
+    {
+      "id": "kitsu:48397",
+      "type": "series",
+      "name": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-UzIbLgOQPY6m.jpg",
+      "description": "Genres: Action, Adventure, Fantasy\nTags:Male Protagonist\nThe second season of <i>Kikansha no Mahou wa Tokubetsu desu</i>."
     },
     {
       "id": "kitsu:49437",
@@ -110,7 +117,7 @@
     {
       "id": "tt38939893",
       "type": "series",
-      "name": "Tenshou shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu",
+      "name": "Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187402-qPbg4OZlQXxL.jpg",
       "description": "Genres: Action, Adventure, Fantasy\nTags:Female Protagonist/Dragons\nFia always dreamed of becoming a knight. Born into a family of knights, she’s the least talented among them, but she still clutches to her hope and trains with everything she has. When the day comes for her to slay a small demon and prove her worth, she ends up face to face with a dragon instead! A deadly injury makes her life flash before her eyes…and she suddenly remembers her former life, when she was a powerful Saint in a bygone era who defeated the Demon King. That life ended in pain because of who she was, making her fear ever becoming a Saint again. Now that the magic from her previous life has been rekindled, she may become a more powerful knight than she ever dreamed–if only she can survive long enough!\n<Br><br>\n(Source: Seven Seas Entertainment)"
     },
@@ -243,18 +250,18 @@
       "description": "Genres: Mecha, Sci-Fi\nTags:Real Robot\nIn January 2026, Bandai Namco Filmworks announced an new anime project titled Armored Trooper VOTOMS: Die Graue Hexe. It is set to premiere in 2026 will be produced by Sunrise with production assistance by Production I.G, and will be part of a series of projects commemorating studio Sunrise's 50th anniversary to be released between 2026 and 2028.<br><br>\n<i>Note: Relations are provisional and subject to change.</i>"
     },
     {
-      "id": "tt35517192",
-      "type": "series",
-      "name": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199068-dDadPRy9Nekb.png",
-      "description": "Genres: Action, Comedy, Sports\nTags:Tennis/Shounen/Primarily Male Cast/Male Protagonist/Ensemble Cast/Foreign/Primarily Teen Cast\nSequel to <i>Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL</i>."
-    },
-    {
       "id": "tt36986811",
       "type": "series",
       "name": "Kizu darake Seijo yori Houfuku wo Komete Season 2",
       "poster": "https://cdn.myanimelist.net/images/anime/1310/157678l.jpg",
       "description": "Genres: Fantasy, Romance\nSecond season of Kizu darake Seijo yori Houfuku wo Komete."
+    },
+    {
+      "id": "tt35517192",
+      "type": "series",
+      "name": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199068-dDadPRy9Nekb.png",
+      "description": "Genres: Action, Comedy, Sports\nTags:Tennis/Shounen/Primarily Male Cast/Male Protagonist/Ensemble Cast/Foreign/Primarily Teen Cast\nSequel to <i>Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL</i>."
     },
     {
       "id": "tt42487863",
@@ -285,13 +292,6 @@
       "description": "Genres: Comedy, Sci-Fi\nTags: Parody\nA new Keroro Gunsou from scratch."
     },
     {
-      "id": "kitsu:50587",
-      "type": "series",
-      "name": "Junket Bank",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209132-uAEsususOR9h.png",
-      "description": "Genres: Drama, Psychological, Thriller\nTags:Seinen/Male Protagonist/Gambling/Primarily Adult Cast\nMitarai, a bank clerk bored with his everyday life and work, soon finds himself transferred to the \"Appraisal Unit.\" Guided by his new boss Usami, Mitarai's led through a secret underground passage within the bank where a new, exciting world of gambling awaits."
-    },
-    {
       "id": "kitsu:50607",
       "type": "series",
       "name": "Tensei Goblin Dakedo Shitsumon Aru?",
@@ -299,18 +299,18 @@
       "description": "Genres: Action, Adventure, Comedy, Drama, Fantasy, Romance\nTags:Goblin/Magic\nOffice worker Akira Yagami’s altruistic nature usually gets him the short end of the stick. When he dies after saving a kid from oncoming traffic...he reincarnates in another world as a goblin?! Normally, goblins only live for seven days, but Akira’s newfound powers let him defy the species’ normal life span...and are the key to his path to becoming the strongest goblin ever!\n<br><br>\n(Source: Yen Press)"
     },
     {
+      "id": "kitsu:50587",
+      "type": "series",
+      "name": "Junket Bank",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209132-uAEsususOR9h.png",
+      "description": "Genres: Drama, Psychological, Thriller\nTags:Seinen/Male Protagonist/Gambling/Primarily Adult Cast\nMitarai, a bank clerk bored with his everyday life and work, soon finds himself transferred to the \"Appraisal Unit.\" Guided by his new boss Usami, Mitarai's led through a secret underground passage within the bank where a new, exciting world of gambling awaits."
+    },
+    {
       "id": "tt41293112",
       "type": "series",
       "name": "Sekai Saikyou no Majo, Hajimemashita",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211778-5WtVC7WXFduS.png",
       "description": "Genres: Action, Comedy, Fantasy\nTags:Magic/Meta/Parody\nWhen Rona manifests what seems to be a terribly useless skill, she’s considered an embarrassment to her family and gets kicked out of the house. With no money or food, she nears her darkest hour… when she suddenly figures out how to use her skill called “Internet.” It allows her to produce unlimited valuable items and even acquire rare equipment without participating in any events. With this skill of godlike knowledge, she can do anything she wants!\n<br><br>\n(Source: Yen Press)"
-    },
-    {
-      "id": "tt41583414",
-      "type": "series",
-      "name": "Tempal: Item no Chikara",
-      "poster": "https://cdn.myanimelist.net/images/anime/1382/158336l.jpg",
-      "description": "Genres: Action, Fantasy\nTags: Video Game\nShin Youngwoo (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game \"Satisfy,\" finds a powerful item that earns him a rare legendary class title: \"Pagma's Successor.\" He's now a skilled blacksmith who can forge unique weapons and equip the game's most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for...\n\n(Source: Tapas Media)"
     }
   ]
 }
