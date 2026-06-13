@@ -36,7 +36,7 @@
       "type": "series",
       "name": "Super no Ura de Yani Suu Futari",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196187-cXhET893v3Ag.png",
-      "description": "Genres: Comedy, Romance, Slice of Life\nTags:Seinen/Heterosexual/Primarily Adult Cast/Work/Konbini/Iyashikei/Office/Urban\nAt age forty-five, office worker Sasaki has had enough of the corporate grind. His only solace is smoking-and the friendly smile of supermarket cashier Yamada. When Sasaki can't find Yamada after a particularly trying day, a striking woman invites him to smoke with her. The despondent man thinks he's made a new smoking buddy in the cool, teasing Tayama, but Sasaki doesn't realize he already knows her!\n<br><br>\n(Source: Square Enix)<br><br>\n\n<i>Note: Episodes 1-6 had an early release by ABEMA and Crunchyroll on June 3rd, 2026 in a mini-episode batch format that splits 6 episodes into 12, ahead of the TV broadcast which starts on July 9th, 2026.</i>"
+      "description": "Genres: Comedy, Romance, Slice of Life\nTags:Seinen/Primarily Adult Cast/Work/Heterosexual/Konbini/Iyashikei/Office/Urban\nAt age forty-five, office worker Sasaki has had enough of the corporate grind. His only solace is smoking-and the friendly smile of supermarket cashier Yamada. When Sasaki can't find Yamada after a particularly trying day, a striking woman invites him to smoke with her. The despondent man thinks he's made a new smoking buddy in the cool, teasing Tayama, but Sasaki doesn't realize he already knows her!\n<br><br>\n(Source: Square Enix)<br><br>\n\n<i>Note: Episodes 1-6 had an early release by ABEMA and Crunchyroll on June 3rd, 2026 in a mini-episode batch format that splits 6 episodes into 12, ahead of the TV broadcast which starts on July 9th, 2026.</i>"
     },
     {
       "id": "kitsu:46925",
@@ -130,11 +130,21 @@
       "description": "Genres: Action, Fantasy\nTags:Male Protagonist/Isekai/Dungeon\nBorn into a prestigious family of master swordsmen, Elymas Edvaughn’s future shatters when he awakens the so-called “defective” Heavy Knight class. Disowned and cast out, he regains memories of another life—and realizes this world mirrors a VR game he once mastered. Armed with knowledge no one else possesses, he sets out to rewrite his fate and prove the strength of the “weakest” class.<br>\n<br>\n(Source: Crunchyroll)"
     },
     {
+      "id": "kitsu:50104",
+      "type": "movie",
+      "name": "SEKIRO: NO DEFEAT",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197620-L0qFQZzbmj5z.png",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:50104"
+      },
+      "description": "Genres: Action, Adventure, Fantasy, Supernatural\nTags:Swordplay/Samurai/Ninja/War/Historical/Youkai/Martial Arts/Male Protagonist/Primarily Male Cast/Primarily Adult Cast\nThe time is Sengoku.<br>\n<br>\nJapan is fractured into many independent nations entangled in ceaseless war. At the center lies Ashina, a land of sacred earth and ancient mystery. Two decades after Sword Saint Isshin Ashina reclaimed the region in a brutal coup, a new threat emerges from within: The Interior Ministry. Desperate to protect his homeland, Isshin's grandson Genichiro turns to forbidden powers. The only hope lies in a kidnapped boy — the Divine Heir — and his silent protector: a loyal shinobi known only as Sekiro.<br>\n<br>\nThis is the story of a lord and his retainer — and their quest to restore balance to a nation on the edge.<br>\n<br>\n(Source: Crunchyroll)"
+    },
+    {
       "id": "kitsu:44021",
       "type": "series",
       "name": "Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128757-0YhOnKG6aRs1.png",
-      "description": "Genres: Drama\nTags:Video Games/Female Protagonist/Ojou-sama/Primarily Female Cast/LGBTQ+ Themes/Boarding School/E-Sports/Cute Girls Doing Cute Things/Seinen\nKuromi Girls’ Academy is a refined, elegant school that expects the very best in deportment from its young ladies. Aya got into this peerless rich-girls’ institution on a scholarship, and hopes to grow as lovely as her fellow student and idol Shirayui. But Shirayui hides a terrible secret: she’s a trash-talking, combo-chaining, newbie-stomping, ruthless hardcore gamer! Could a mutual indulgence in no-holds-barred video game combat grow into a deeper rapport between these two girls?\n<br><br>\n(Source: Seven Seas Entertainment)"
+      "description": "Genres: Drama\nTags:Video Games/Female Protagonist/Ojou-sama/Primarily Female Cast/LGBTQ+ Themes/Boarding School/Yuri/E-Sports/Cute Girls Doing Cute Things/Seinen\nKuromi Girls’ Academy is a refined, elegant school that expects the very best in deportment from its young ladies. Aya got into this peerless rich-girls’ institution on a scholarship, and hopes to grow as lovely as her fellow student and idol Shirayui. But Shirayui hides a terrible secret: she’s a trash-talking, combo-chaining, newbie-stomping, ruthless hardcore gamer! Could a mutual indulgence in no-holds-barred video game combat grow into a deeper rapport between these two girls?\n<br><br>\n(Source: Seven Seas Entertainment)"
     },
     {
       "id": "tt38646634",
@@ -292,20 +302,6 @@
       "name": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198409-EiWJXfYnvfu4.png",
       "description": "Genres: Action, Adventure, Fantasy\nTags:Isekai/Medieval/Male Protagonist\nCorporate slave Arihito Atobe's death in a freak bus accident marks the beginning of his new life as a kind of adventurer called a Seeker. Reborn into a fantasy world, he settles into a previously unknown job class called \"rearguard,\" capable of providing his (all-female) party with critical attack, defense, and recovery support. And it comes with an added bonus: Simply being at the back of the party line increases his companions' fondness for him! Freed from the shackles of corporate life, Arihito is eager to start fresh as a newly minted Seeker!\n<br><br>\n(Source: Yen Press)"
-    },
-    {
-      "id": "kitsu:49913",
-      "type": "series",
-      "name": "Heroine? Seijo? Iie, All Works Maid desu (Ko)!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192800-r8zlO0VY0jJP.jpg",
-      "description": "Genres: Comedy, Fantasy\nTags:Magic/Maids/Female Protagonist/Isekai/Ojou-sama/Medieval\n“I will become the world’s most wonderful maid!” <br><br>\nWith her skirt fluttering in black and white, the girl shouted. Her name is Melody. A reincarnated former Japanese girl, she now pursues her dream in her new life, working as an all-purpose maid for a poor count’s family in the kingdom of Théolas. When she makes it, even cheap tea turns into a luxury brew, and a dilapidated mansion is quickly restored to new! Cleaning, serving, hunting, DIY—leave it all to her and her powerful magic. Unbeknownst to Melody, this world is actually an otome game, and she is the most powerful and invincible heroine, the saint! Yet, she remains oblivious to this fact. Romance with handsome men? Attacks by the Demon Lord? Work comes first! A fantasy of misunderstood work that unknowingly shatters destiny!<br><br>\n\n(Source: Seven Seas Entertainment)<br><br>\n\n<i>Note: Heroine? Seijo? Iie, All Works Maid desu (Ko)! is streaming a week in advance of the TV broadcast on dAnimeStore and ABEMA beginning June 24th, 2026. Regular broadcasting begins on July 1st, 2026.</i>"
-    },
-    {
-      "id": "kitsu:50328",
-      "type": "series",
-      "name": "Bungou Stray Dogs Wan! 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201667-5VIyzugCtcKs.jpg",
-      "description": "Genres: Comedy, Slice of Life, Supernatural\nTags:Chibi/Episodic/Primarily Adult Cast/Ensemble Cast\nThe second season of <i>Bungou Stray Dogs Wan!</i>"
     }
   ]
 }
