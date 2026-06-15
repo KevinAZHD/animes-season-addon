@@ -1,13 +1,6 @@
 {
   "metas": [
     {
-      "id": "kitsu:50163",
-      "type": "series",
-      "name": "Dandadan 3rd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198966-9Ji1GwIyRiiu.jpg",
-      "description": "Genres: Action, Comedy, Drama, Fantasy, Sci-Fi, Supernatural\nTags:Aliens/Youkai/Primarily Teen Cast/Shounen/Male Protagonist/Female Protagonist/Urban Fantasy/Heterosexual/Ghost/Surreal Comedy/Tokusatsu/Cult/Kaiju\nThe third season of <i>Dandadan</i>."
-    },
-    {
       "id": "kitsu:48346",
       "type": "movie",
       "name": "Kage no Jitsuryokusha ni Naritakute!: Zankyou-hen",
@@ -15,21 +8,7 @@
       "behaviorHints": {
         "defaultVideoId": "kitsu:48346"
       },
-      "description": "Genres: Action, Comedy, Fantasy\nTags:Isekai/Urban Fantasy/Magic/Male Protagonist/Chuunibyou/Swordplay/Elf\nTheatrical follow-up to <i>Kage no Jitsuryokusha ni Naritakute! 2nd season</i>."
-    },
-    {
-      "id": "kitsu:49217",
-      "type": "series",
-      "name": "Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181641-XPV9xFwWjvu9.jpg",
-      "description": "Genres: Comedy, Romance, Slice of Life\nTags:Heterosexual/School/Primarily Teen Cast/School Club/Kuudere/Primarily Female Cast/Male Protagonist/Tsundere/Female Protagonist/Feet/Female Harem/Otaku Culture\nThe second season of <i> Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san</i>."
-    },
-    {
-      "id": "kitsu:47986",
-      "type": "series",
-      "name": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169579-zB34n31Rm8xS.png",
-      "description": "Genres: Action, Adventure, Drama, Fantasy, Mystery, Romance\nTags:Assassins/Isekai/Male Protagonist/Female Harem\nThe second season of <i>Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru.</i>"
+      "description": "Genres: Action, Comedy, Fantasy\nTags:Isekai/Urban Fantasy/Magic/Male Protagonist/Swordplay/Chuunibyou/Elf\nTheatrical follow-up to <i>Kage no Jitsuryokusha ni Naritakute! 2nd season</i>."
     },
     {
       "id": "kitsu:49778",
@@ -37,13 +16,6 @@
       "name": "Shangri-La Frontier 3rd Season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189323-U11lWB3KOS5I.jpg",
       "description": "Genres: Action, Adventure, Comedy, Fantasy, Sci-Fi\nTags:Virtual World/Male Protagonist/Video Games/Shounen/E-Sports/Animals/Dungeon\nThe third season of <i>Shangri-La Frontier</i>."
-    },
-    {
-      "id": "kitsu:48903",
-      "type": "series",
-      "name": "MASHLE: Sanma Taisou Shinkakusha Saishuu Shiken-hen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177704-y10Nw7MUXCHD.jpg",
-      "description": "Genres: Action, Comedy, Fantasy\nTags:Fitness/Kuudere/Magic/Medieval/Shounen/Male Protagonist/School\nThe third season of <i>MASHLE</i>, adapting the Tri-Magic-Athalon Divine Visionary Final Exam Arc."
     },
     {
       "id": "kitsu:48547",
@@ -56,60 +28,18 @@
       "description": "Genres: Comedy, Drama, Sports\nTags:Volleyball/Coming of Age/Shounen/School Club/Primarily Teen Cast/Male Protagonist/Primarily Male Cast/Ensemble Cast\nSequel to <i>Haikyuu!!: Gomi Suteba no Kessen</i>. The second film of Haikyuu!! FINAL. <br><br>\n"
     },
     {
-      "id": "kitsu:50419",
-      "type": "series",
-      "name": "One Punch Man 3 Part 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204747-Nu7nfSMRcC0g.jpg",
-      "description": "Genres: Action, Comedy, Sci-Fi, Supernatural\nTags:Superhero/Super Power/Seinen/Urban Fantasy/Male Protagonist/Primarily Adult Cast/Primarily Male Cast\nThe second cour of the third season of <i>One Punch Man</i>."
-    },
-    {
       "id": "kitsu:48322",
       "type": "series",
       "name": "THE ONE PIECE",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171630-CW3kbduXmmUE.jpg",
-      "description": "Genres: Adventure\nTags:Pirates/Ensemble Cast/Travel/Shounen/Found Family/Super Power/Male Protagonist/Ships/Politics/Primarily Adult Cast/Anti-Hero/Swordplay\nTo commemorate the <i>ONE PIECE</i> anime's 25th anniversary: <i>THE ONE PIECE</i> anime by WIT Studio will recreate the story of the original <i>ONE PIECE</i> manga, starting from the East Blue arc.<br><br>\n\n(Source: Netflix, edited)"
-    },
-    {
-      "id": "kitsu:50060",
-      "type": "series",
-      "name": "GATE 2: Jieitai Kano Umi nite, Kaku Tatakaeri",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195496-HX1gSeijZp8I.jpg",
-      "description": "Genres: Action, Adventure, Drama, Fantasy\nTags:Isekai/Reverse Isekai\nThanks to the efforts of Lieutenant Yoji Itami (now Lieutenant First Class) of the Japan Ground Self-Defense Force, the once-closed \"GATE\" has safely reopened. The Japanese government, determined to maintain exclusive control over the \"GATE\", continues mobilizing the Self-Defense Forces for political and topographical surveys to build a peaceful relationship with the inhabitants of the Special Region. Captain First Class Edajima Goro of the Japan Maritime Self-Defense Force (JMSDF) and his subordinate, Petty Officer Second Class Tokushima Hajime, a skilled former chef, were conducting such diplomatic and investigative missions, traveling across the various nations of the Special Region.<br><br>\n\nHowever, one day, their assignment suddenly escalates when they're tasked with a special mission to rescue an American journalist kidnapped on an island in the Special Region's Blue Sea.<br><br>\n\nImmediately boarding the JMSDF Oyashio-class submarine Kitashio, they set sail into the ocean of another world, discovering the area around the Blue Sea engulfed in turmoil, with archipelago nations and pirates battling fiercely for dominance.<br><br>\n\n(Source: GATE 2: Tides of Conflict Site)"
-    },
-    {
-      "id": "kitsu:50597",
-      "type": "series",
-      "name": "Boku no Kokoro no Yabai Yatsu 3rd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b209247-WvEUGMipZDl9.jpg",
-      "description": "Genres: Comedy, Romance, Slice of Life\nTags:School/Heterosexual/Coming of Age/Male Protagonist/Female Protagonist/Primarily Teen Cast/Shounen\nThe third season of <i>Boku no Kokoro no Yabai Yatsu</i>."
-    },
-    {
-      "id": "tt3398540",
-      "type": "series",
-      "name": "Haikyuu!!: Bakemono-tachi no Iku Tokoro",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187261-HMpnWUy9K7VC.png",
-      "description": "Genres: Comedy, Drama, Sports\nTags:\nThe quarterfinals of the Spring High School Volleyball Tournament, featuring Fukuroudani Academy, led by Koutarou Bokuto, and Mujinazaka High, led by Wakatsu Kiryuu. \n<br><br>\n(Source: Official Site, translated)"
-    },
-    {
-      "id": "kitsu:49325",
-      "type": "series",
-      "name": "Yuru Camp△ SEASON 4",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184072-oF3L8oVi7VM9.jpg",
-      "description": "Genres: Comedy, Slice of Life\nTags:Outdoor Activities/Cute Girls Doing Cute Things/Iyashikei/Female Protagonist/Seinen/Camping/Travel\nThe fourth season of <i>Yuru Camp△</i>."
-    },
-    {
-      "id": "kitsu:50584",
-      "type": "series",
-      "name": "Guimi Zhi Zhu: Wu Mian Ren",
-      "poster": "https://cdn.myanimelist.net/images/anime/1729/155794l.jpg",
-      "description": "Genres: Action, Fantasy, Mystery, Suspense\nTags: Adult Cast/Isekai\nAfter his resurrection, Klein, now known as Sherlock, becomes a private detective. While taking on cases, he inadvertently provokes a spy organization. With the help of his bodyguard Sharron, as well as the assistance of Audrey and others, he faces many enemies, including the powerful Ambassador of Intis. In a later case, Klein unexpectedly discovers ruins from the Tudor dynasty. While continuing his detective work, Klein searches for clues to his advancement while also pursuing his enemies, Lanevus and Intis…\n\n(Source: Tencent, translated &amp; edited)"
+      "description": "Genres: Adventure\nTags:Pirates/Ensemble Cast/Travel/Shounen/Found Family/Super Power/Male Protagonist/Politics/Ships/Primarily Adult Cast/Anti-Hero/Swordplay\nTo commemorate the <i>ONE PIECE</i> anime's 25th anniversary: <i>THE ONE PIECE</i> anime by WIT Studio will recreate the story of the original <i>ONE PIECE</i> manga, starting from the East Blue arc.<br><br>\n\n(Source: Netflix, edited)"
     },
     {
       "id": "kitsu:50599",
       "type": "series",
       "name": "Mairimashita! Iruma-kun: If Episode of Mafia",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207251-szD9KkC2G4nx.jpg",
-      "description": "Genres: Action, Comedy\nTags:Shounen/Male Protagonist/Mafia/Ensemble Cast/Gangs\nIn this brand-new spinoff of the runaway hit series, Iruma is a dirt-poor but kind young boy who grows up in a ruthless city slum. One day, Iruma gives a severely injured old man his last loaf of bread and nurses the stranger back to health—only to find out that the elder gent is none other than Don Sullivan, leader of the Babel Mafia! Soon after, Don Sullivan comes back, whisks Iruma away, and begs the boy to become his grandson. And just like that, the curtains rise on Iruma’s chaotic new life as the next in line to a gigantic gang of—dare we say<i>demonic</i> mafiosos!\n<br><br>\n(Source: Kodansha USA)"
+      "description": "Genres: Action, Comedy\nTags:Gangs/Ensemble Cast/Shounen/Male Protagonist/Mafia\nIn this brand-new spinoff of the runaway hit series, Iruma is a dirt-poor but kind young boy who grows up in a ruthless city slum. One day, Iruma gives a severely injured old man his last loaf of bread and nurses the stranger back to health—only to find out that the elder gent is none other than Don Sullivan, leader of the Babel Mafia! Soon after, Don Sullivan comes back, whisks Iruma away, and begs the boy to become his grandson. And just like that, the curtains rise on Iruma’s chaotic new life as the next in line to a gigantic gang of—dare we say<i>demonic</i> mafiosos!\n<br><br>\n(Source: Kodansha USA)"
     },
     {
       "id": "tt14576898",
@@ -129,35 +59,21 @@
       "behaviorHints": {
         "defaultVideoId": "kitsu:50482"
       },
-      "description": "Genres: Drama, Psychological, Sports\nTags:Ice Skating/Female Protagonist/Coming of Age/Male Protagonist/Athletics/Seinen\nSequel to <i>Medalist 2nd Season.</i>"
-    },
-    {
-      "id": "kitsu:49954",
-      "type": "series",
-      "name": "Akuyaku Reijou no Naka no Hito",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193699-BrNIip2KM28S.jpg",
-      "description": "Genres: Drama, Fantasy\nTags:Revenge/Female Protagonist/Villainess/Dissociative Identities/Shoujo/Ojou-sama/Isekai/Magic\nA girl who had reincarnated as Remilia, the villainess of an otome game tries to clear her name. However, the real Remilia who had been watching all along inside awakens.\n<br><br>\nNow it's time for the true villainess' revenge to begin!\n<br><br>\n(Source: Ichijinsha, translated)"
-    },
-    {
-      "id": "kitsu:49331",
-      "type": "series",
-      "name": "Boukyaku Battery (TV) 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184141-nJr4zaAVefgS.jpg",
-      "description": "Genres: Comedy, Sports\nTags:Shounen/Baseball/Primarily Male Cast/School Club\nThe second season of <i>Boukyaku Battery (TV)</i>."
+      "description": "Genres: Drama, Psychological, Sports\nTags:Ice Skating/Female Protagonist/Coming of Age/Male Protagonist/Seinen/Athletics\nSequel to <i>Medalist 2nd Season.</i>"
     },
     {
       "id": "kitsu:49753",
       "type": "series",
       "name": "BanG Dream! It's MyGO!!!!! / Ave Mujica (Zoku-hen)",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189121-m3EHJ33Y8jgT.png",
-      "description": "Genres: Music\nTags:Female Protagonist/Band/Primarily Female Cast/Yuri\nSequel series to <i>BanG Dream! It's MyGO!!!!!</i> and <i>BanG Dream! Ave Mujica.</i> <br><br>\n\n<i>Note: Title is provisional and subject to change when more info is announced.</i>"
+      "description": "Genres: Music\nTags:Female Protagonist/Primarily Female Cast/Band/Yuri\nSequel series to <i>BanG Dream! It's MyGO!!!!!</i> and <i>BanG Dream! Ave Mujica.</i> <br><br>\n\n<i>Note: Title is provisional and subject to change when more info is announced.</i>"
     },
     {
       "id": "kitsu:50449",
       "type": "series",
       "name": "Historié",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205130-dC5WuIvGMMgr.png",
-      "description": "Genres: Adventure, Drama, Psychological\nTags:Historical/Gore/Body Horror/Seinen/Medieval\nAfter shocking the world with Parasyte, Hitoshi Iwaaki is back with a series he's been aching to tackle since even before his pro manga debut! A historical epic set in ancient times, Historie tells the story of Eumenes, a young man with quick wits and a vast destiny to fulfill. In time, he'll become a famed army commander and personal secretary to Alexander the Great—but the road to this glory is fraught with danger… \"<br><br>(Source: K Manga)"
+      "description": "Genres: Adventure, Drama, Psychological\nTags:Historical/Gore/Body Horror/Seinen/Male Protagonist/Foreign/Medieval\nAfter shocking the world with Parasyte, Hitoshi Iwaaki is back with a series he's been aching to tackle since even before his pro manga debut! A historical epic set in ancient times, Historie tells the story of Eumenes, a young man with quick wits and a vast destiny to fulfill. In time, he'll become a famed army commander and personal secretary to Alexander the Great—but the road to this glory is fraught with danger… \"<br><br>(Source: K Manga)"
     },
     {
       "id": "kitsu:49990",
@@ -174,7 +90,7 @@
       "type": "series",
       "name": "Kekkaishi no Ichirinka",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197619-O2aYsJGAy6a6.png",
-      "description": "Genres: Drama, Fantasy, Romance\nTags:Shoujo/Magic/Marriage\nHana Ichise is from a branch family to one of five barrier-weaving magical clans who protect and support Japan. But in the eyes of her mother and father, she’s an afterthought compared to her talented older twin sister. When Hana’s true potential awakens at age fifteen, she decides to keep her newfound abilities a secret—including from her parents—so she can have a quiet life. But the powerful new head of the elite Ichinomiya clan, Saku Ichinomiya, is looking for a bride…and he has his eyes on Hana!\n<br><br>\n(Source: Yen Press)"
+      "description": "Genres: Drama, Fantasy, Romance\nTags:Marriage/Shoujo/Magic\nHana Ichise is from a branch family to one of five barrier-weaving magical clans who protect and support Japan. But in the eyes of her mother and father, she’s an afterthought compared to her talented older twin sister. When Hana’s true potential awakens at age fifteen, she decides to keep her newfound abilities a secret—including from her parents—so she can have a quiet life. But the powerful new head of the elite Ichinomiya clan, Saku Ichinomiya, is looking for a bride…and he has his eyes on Hana!\n<br><br>\n(Source: Yen Press)"
     },
     {
       "id": "kitsu:50050",
@@ -188,28 +104,7 @@
       "type": "series",
       "name": "Love Live! Hasunosora Jogakuin School Idol Club",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210157-TsOt9K0ADCmK.jpg",
-      "description": "Genres: Music, Slice of Life\nTags:Idol/Female Protagonist/Primarily Female Cast/Ensemble Cast\n<i>Note: Relations are provisional and subject to change when more info is announced.</i>"
-    },
-    {
-      "id": "tt0288988",
-      "type": "series",
-      "name": "Majo to Youhei",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210945-uVcWtO8UYiOv.jpg",
-      "description": "Genres: Action, Fantasy\nTags:Female Protagonist/Witch/Magic\nNothing in this world is more dangerous than a witch. The epitome of fear and terror, they can summon floods on a whim, conjure balls of fire out of the air, or even destroy entire countries overnight. Incur their wrath, and no one is safe.<br>\n<br>\nAt least, that’s what everyone thinks, and it’s the very reason they all want Siasha dead. After yet another violent battle for her life, she teams up with Zig, a mercenary, and they depart for unknown lands to find somewhere she can live in peace. But is the pair any match for the lost magic and vicious monstrosities that lie ahead?<br>\n<br>\n(Source: Seven Seas Entertainment)"
-    },
-    {
-      "id": "tt9418572",
-      "type": "series",
-      "name": "Bless",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208766-PYhW16CKj4fO.png",
-      "description": "Genres: Slice of Life\nTags:Makeup/Fashion\nThey said Aia was destined to be a model, and Jun was bullied for her freckles. Together, they will take back the power to define themselves in an inspirational fashion manga that asks cutting questions about what it really means to be beautiful—and what it takes to overcome an arbitrary system that seems to respect talent over hard work.\n<br><br>\n(Source: Kodansha USA)"
-    },
-    {
-      "id": "kitsu:49484",
-      "type": "series",
-      "name": "Ghost of Tsushima: Legends",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186007-AJr1cDt7FxWB.png",
-      "description": "Genres: Action, Adventure\nTags:Samurai/Assassins\nCrunchyroll announced during Sony Group Corporation’s CES 2025 press conference that an anime series based on Sucker Punch Productions’ <i>Ghost of Tsushima</i> video game and its <i>Ghost of Tsushima: Legends</i> multiplayer experience is officially in production. The anime will exclusively premiere on Crunchyroll in 2027.<br><br>\n(Source: Crunchyroll News)"
+      "description": "Genres: Music, Slice of Life\nTags:Idol/Ensemble Cast/Primarily Female Cast/Female Protagonist\n<i>Note: Relations are provisional and subject to change when more info is announced.</i>"
     },
     {
       "id": "tt42027051",
@@ -226,63 +121,21 @@
       "description": "Genres: Action\nTags:Samurai/Female Protagonist\nDuring the Bakumatsu era in the city of Kyoto, a soldier, his memories lost, is aided by Soji Okita, assistant officer of the Mibu Roshigumi.\n<br><br>\n<i>\"Your name is Jinsuke Tachikawa.\"</i>\n<br><br>\nJinsuke's life begins anew living among the Mibu soldiers.\n<br><br>\nPortraying the fleeting youth of these young people who lived in turbulent times, this original anime will bring their stories to life with sharp detail and a fresh perspective.<br><br>\n(Source: Aniplex Online Fest 2025)"
     },
     {
-      "id": "kitsu:40633",
-      "type": "series",
-      "name": "Biblia Koshodou no Jiken Techou",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98476-humj2ScdtAj3.jpg",
-      "description": "Genres: Drama, Mystery\nTags:Female Protagonist/Work\nBiblia Koshodou no Jiken Techou is a mystery series where Shinokawa Shioriko, a young owner of a bookstore in Kamakura, unravel mysteries of ancient books that are taken there.\n\nThe story begins with a young man named Daisuke, who grew up practically without reading books due to a \"phobia,\" brings the complete (and autographed) works of Natsume Soseki, Japanese writer of the Meiji era, inherited from his grandmother in the mysterious bookstore. Will the shy and introvert Shioriko solve the mystery of the books?"
-    },
-    {
-      "id": "tt0088504",
-      "type": "series",
-      "name": "Dengeki Daisy",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213052-Sf11mRqbE3lp.jpg",
-      "description": "Genres: Comedy, Drama, Romance\nTags:Shoujo/Heterosexual/Female Protagonist/Orphan/Software Development/School/Primarily Teen Cast\n<i> \"No matter what happens, I will protect you.\" </i>\n<br><br>\nTeru Kurebayashi, a high school student, starts to receive emails on the cell phone she received from her late brother Souichirou, her only relative. \n<br><br>\nThe emails, sent by a mysterious figure named \"Daisy,\" become her sole support in life following Souichirou's passing. One day, after accidentally breaking a window at school, Teru ends up working for Tasuku Kurosaki, the school custodian. \n<br><br>\nKurosaki is sharp-tongued and works her to the bone, but for some reason, he kindly looks out for Teru. And after meeting Kurosaki, Teru's fate starts to change drastically...\n<br><br>\n\n(Source: Dengeki Daisy Official Site)"
-    },
-    {
-      "id": "kitsu:49062",
-      "type": "series",
-      "name": "Watari Tori to Katatsumuri",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179294-pVNoLa5QabZh.jpg",
-      "description": "Genres: Adventure, Comedy, Slice of Life\nTags:\nUnpei Mochizuki had been working for two years as a spare parts dealer. After making a mistake, he had only one wish: to go far, where no one can recognize him. That’s when he crosses paths with Tsugumi Nagisa, illustrator… and nomad. A woman of indefinable age, who lives with her dog in a van. Unpei begins a new life on the road with Tsugumi and her car. Far from the usual tidy, sedentary lifestyle, the nomadic spirit offers new surprises every single day. From beaches to mountains, from the North to the South… Freedom and endless new landscapes await!\n<br><br>\n(Source: Noeve grafx, translated) "
-    },
-    {
-      "id": "tt35669140",
-      "type": "series",
-      "name": "Namida Ame to Serenade",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207692-0OjYSxl722u7.jpg",
-      "description": "Genres: Comedy, Drama, Romance, Supernatural\nTags:Heterosexual/Josei\nOn rainy days, Hina has dreams about her younger self playing with a mysterious boy in a garden she's never seen before—until, by chance, she stumbles upon the place. There's a young man there, Takaaki, who mistakes Hina for his fiancée Hinako. He whisks her back to what he thinks is her home, where Hina's doppelganger is waiting, and Hina realizes this isn't the Tokyo she left behind but Japan in the year 1907! Is this all a dream or something much stranger?<br><br>\n(Source: Kodansha USA)"
-    },
-    {
-      "id": "tt2279373",
+      "id": "tt1236410",
       "type": "movie",
       "name": "Umi ga Hashiru End Roll",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b212105-f5L7q8C22ga2.png",
       "behaviorHints": {
-        "defaultVideoId": "tt2279373"
+        "defaultVideoId": "tt1236410"
       },
       "description": "Genres: Comedy, Drama, Slice of Life\nTags:Female Protagonist/Elderly Protagonist/Filmmaking/Photography/Primarily Adult Cast/College/Shoujo/Iyashikei\nUmiko, a grandma, realizes that she has the same desire to make movies as university student Kai—and soon she enrolls in Kai's film school!\n<br><br>\n<i>\"It's not the movies you like…you like watching the people watching the movies.\"</i>\n<br><br>\nJust what are you going to do with the rest of your life? It's the question you'll always have to answer, no matter your age. Umiko Chino is a 65-year-old retired woman in mourning for her late husband. Remembering how they used to watch films together, Umiko goes to the movie theater for the first time in years, where she meets Kai, an attractive, ambiguous young man who studies filmmaking at a nearby art school.\n<br><br>\nThey would seem to have nothing in common, except for this—both of them sometimes like to look more at the way the audience reacts to a movie than the movie itself. Kai believes Umiko has the same deep desire he possesses to experience how people respond to something they made… and challenges her to stake the rest of her life discovering that thrill.\n<br><br>\nSoon Umiko surprises herself by enrolling in the same film school as Kai. But sailing into this new sea, she's suddenly inside the currents of her fellow students' lives, a much younger generation that she struggles to understand, driven by their own passions and their own relationships. Who's really experienced at life, and is it old age or observation that brings wisdom? And does what you're looking for change when you look with your eyes instead of through a camera lens…?\n<br><br>\n(Source: Dark Horse)"
     },
     {
-      "id": "kitsu:50348",
+      "id": "tt41918593",
       "type": "series",
-      "name": "DEATH STRANDING ISOLATIONS (Working Title)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202253-yXhyhChbYDBG.jpg",
-      "description": "Genres: Action, Adventure, Horror, Sci-Fi, Supernatural\nTags:\nAn original anime series based on the “Death Stranding” video game. <br><br>\n\nOnce, there was an explosion... \n<br><br>\nLonesome souls of the dead manifest in the physical world, reaching in search of the living. However, the connection they create triggers a massive explosion that eradicates anything of this world—a phenomenon referred to as the Death Stranding. These events wipe out nations as well as civilization itself. People who remain are now isolated, withdrawn, and without connections. As humanity stands at the brink a legendary porter set out to transport both cargo and wishes of its senders, reconnecting people in the hope that they might still be saved. \n<br><br>\nSomewhere in North America, just as Sam Bridges walks through the continent in order to save America, the someones are also trying to deal with their isolation in their own way. An old man trying to realize salvation through ways outside of the connection advocated by Bridges. A female warrior who tries to kickstart a world of constant fighting. A boy with a grudge against Bridges. A girl who embraces loneliness. <br><br>\n\nOn the precipice of the end of humanity and the world, their fates and hopes converge, as another story of Death Stranding begins. \n<br>\nAnd now, comes another explosion... <br><br>\n\n(Source: KOJIMA PRODUCTIONS, edited)\n\n<br><br><i>Note: Title and Relations are provisional and will be updated when more info is announced.</i>"
-    },
-    {
-      "id": "kitsu:50283",
-      "type": "series",
-      "name": "Douluo Dalu: 9528",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206142-ATzxlNEJWaXj.jpg",
-      "description": "Genres: Action, Fantasy\nTags:\nTang San and Xiao Wu return to the collapsed Slaughter City, now devastated by the Snow Swan Kiss. They face relentless pursuit from the mutated Slaughter King, only to be saved by a mysterious girl whose rescue conceals dark secrets. Together, Tang San and Xiao Wu must uncover the truth behind Slaughter City's corruption."
-    },
-    {
-      "id": "tt18561422",
-      "type": "series",
-      "name": "Saikyou Mahoushi no Inton Keikaku",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213106-jByffRkiW1nj.jpg",
-      "description": "Genres: Action, Adventure, Fantasy\nTags:Male Protagonist\nIn a world where the Fiends run rampant... Magicmaster Alus Reigin, the young prodigy that has defeated more Fiends and reclaimed more of humanity’s lost territory than anyone else alive, requests retirement from military service at age 16. But due to the twists and turns of fate surrounding his status as the No. 1 Magicmaster in the nation—the top Magicmaster out of more than 100,000—he ends up as a student at a special magical institute, hiding his identity and training his successors – a pair of beautiful Magicmaster girls! Not to mention continuing to defeat Fiends in secret... Get ready—the epic adventure of the Greatest Magicmaster Alus Reigin begins now!<br><br>(Source: J-Novel)"
+      "name": "Charisma",
+      "poster": "https://cdn.myanimelist.net/images/anime/1656/156247l.jpg",
+      "description": "Genres: \n\"They're just ordinary guys.\"\n\nArranged by the mysterious Fumiya Itou, a seven-person sharehouse has become home to a group of charismatic guys, taking on the name \"Charisma House.\" From the \"dog for the people\" Iori Motohashi to rebellious \"just say no!\" Kei Sarukawa, each member has their own unique charisma that they nurture day by day. Whether it's Amahiko Tendou fulfilling his role as World Sexy Ambassador, or Terra falling in love with his own reflection, or Ohse Minato attempting to jump out of another window, the Charisma House is always lively, even if it challenges Rikai Kusanagi's attempts to maintain rigid order. Ordinary people just wouldn't understand.\n\nDespite what people might say about their unique habits, other's opinions can't faze the Charismas, who simply turn adversities into fuel to power their \"Charisma Charge.\" But what might happen when this charge fills up..?!\n\n(Source: MAL News)"
     }
   ]
 }
