@@ -12,57 +12,110 @@ export class Imdb {
     }
 }
 
-// Queries AniList's GraphQL endpoint
-export class Anilist {
+// Queries the official MyAnimeList API for seasonal anime data
+export class MalOfficial {
+    private baseUrl = 'https://api.myanimelist.net/v2';
+
+    async fetchSeasonAll(year: number, season: Season, limit: number = 100): Promise<any[]> {
+        const clientId = process.env.MAL_CLIENT_ID;
+        if (!clientId) {
+            throw new Error("MAL_CLIENT_ID is required");
+        }
+        const seasonStr = season.toLowerCase();
+        const fields = "id,title,main_picture,synopsis,genres,media_type,num_list_users,start_season";
+        const url = `${this.baseUrl}/anime/season/${year}/${seasonStr}?sort=anime_num_list_users&limit=${limit}&fields=${fields}`;
+        const response = await fetch(url, {
+            headers: {
+                "X-MAL-CLIENT-ID": clientId
+            }
+        });
+        if (!response.ok) {
+            throw new Error(`MyAnimeList API error: ${response.status} ${response.statusText}`);
+        }
+        const json = await response.json();
+        return (json?.data || [])
+            .map((entry: any) => entry?.node)
+            .filter((anime: any) => this.isSeasonPremiere(anime, year, season))
+            .slice(0, 50)
+            .map((anime: any) => this.toCatalogAnime(anime));
+    }
+
+    // Keeps only anime whose first listed season matches the requested season.
+    private isSeasonPremiere(anime: any, year: number, season: Season): boolean {
+        const startSeason = anime?.start_season;
+        if (!startSeason) return true;
+        return startSeason.year === year && String(startSeason.season).toUpperCase() === season;
+    }
+
+    private toCatalogAnime(anime: any): any {
+        const picture = anime?.main_picture || {};
+        return {
+            mal_id: anime.id,
+            title: anime.title,
+            type: anime.media_type === "movie" ? "Movie" : "TV",
+            members: anime.num_list_users || 0,
+            synopsis: anime.synopsis,
+            genres: anime.genres || [],
+            themes: [],
+            images: {
+                jpg: {
+                    large_image_url: picture.large,
+                    image_url: picture.medium
+                },
+                webp: {
+                    large_image_url: picture.large
+                }
+            }
+        };
+    }
+}
+
+// Queries AniList for romaji titles and higher-resolution cover images.
+export class AnilistMetadata {
     private url = 'https://graphql.anilist.co';
 
-    // Executes a raw GraphQL query against AniList API
-    async fetch(query: string) {
+    async fetchByMalIds(malIds: number[]): Promise<Map<number, { title?: string, poster?: string }>> {
+        if (malIds.length === 0) return new Map();
+
+        const query = `query ($ids: [Int]) {
+            Page(perPage: 50, page: 1) {
+                media(idMal_in: $ids, type: ANIME) {
+                    idMal
+                    title {
+                        romaji
+                    }
+                    coverImage {
+                        extraLarge
+                        large
+                        medium
+                    }
+                }
+            }
+        }`;
         const response = await fetch(this.url, {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
                 'Accept': 'application/json',
             },
-            body: JSON.stringify({ query })
+            body: JSON.stringify({ query, variables: { ids: malIds } })
         });
-        return response.json();
-    }
-}
-
-// Blocks execution for a specified amount of time to handle rate limits
-function delay(ms: number): Promise<void> {
-    return new Promise(resolve => setTimeout(resolve, ms));
-}
-
-// Queries Jikan API (MyAnimeList open API wrapper)
-export class Jikan {
-    private baseUrl = 'https://api.jikan.moe/v4';
-
-    // Fetches a single page of seasonal anime data from Jikan
-    async fetchSeason(year: number, season: Season, page: number = 1): Promise<any> {
-        const seasonStr = season.toLowerCase();
-        const url = `${this.baseUrl}/seasons/${year}/${seasonStr}?order_by=members&sort=desc&page=${page}&limit=25`;
-        const response = await fetch(url);
         if (!response.ok) {
-            throw new Error(`Jikan API error: ${response.status} ${response.statusText}`);
+            throw new Error(`AniList API error: ${response.status} ${response.statusText}`);
         }
-        return response.json();
-    }
 
-    // Fetches multiple pages of seasonal anime data with rate limiting safety
-    async fetchSeasonAll(year: number, season: Season, maxPages: number = 2): Promise<any[]> {
-        const allData: any[] = [];
-        for (let page = 1; page <= maxPages; page++) {
-            const response = await this.fetchSeason(year, season, page);
-            if (response?.data) {
-                allData.push(...response.data);
+        const json = await response.json();
+        const metadata = new Map<number, { title?: string, poster?: string }>();
+        for (const media of json?.data?.Page?.media || []) {
+            const poster = media?.coverImage?.extraLarge
+                ?? media?.coverImage?.large
+                ?? media?.coverImage?.medium;
+            const title = media?.title?.romaji;
+            if (media?.idMal && (title || poster)) {
+                metadata.set(media.idMal, { title, poster });
             }
-            const hasNext = response?.pagination?.has_next_page;
-            if (!hasNext || page >= maxPages) break;
-            await delay(400);
         }
-        return allData;
+        return metadata;
     }
 }
 

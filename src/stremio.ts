@@ -2,7 +2,7 @@ import { TitleType } from "name-to-imdb";
 import { promises as fs } from "fs";
 import path from "path";
 import { Season, createSortedSeasonList, monthToSeason, seasonToSpanish } from "./query";
-import { Anilist, IdResolver, IdSource, Jikan } from "./request";
+import { AnilistMetadata, IdResolver, IdSource, MalOfficial } from "./request";
 
 // Metadata structure for Stremio items
 export type Meta = {
@@ -45,15 +45,6 @@ export class Catalog {
         await fs.writeFile(this.pathFile, JSON.stringify({ metas: filtered }, null, 2));
     }
 
-    // Formats description string using AniList genres, tags, and synopsis
-    describe({ genres, tags, description }: { genres: string[], tags: string[], description: string }) {
-        let result = "Genres: " + genres.join(", ");
-        const isSpoilerFree = (tag: any) => !tag.isMediaSpoiler && !tag.isGeneralSpoiler;
-        result += "\nTags:" + tags.filter(isSpoilerFree).map(({ name }: any) => name).join("/");
-        result += description ? `\n${description}` : "";
-        return result;
-    }
-
     // Formats description string using MAL genres, themes, and synopsis
     describeFromMAL(anime: any): string {
         let result = "Genres: " + (anime.genres || []).map((g: any) => g.name).join(", ");
@@ -65,13 +56,13 @@ export class Catalog {
         return result;
     }
 
-    // Fetches seasonal anime from MAL, queries original AniList metadata, resolves IDs, and populates catalog
+    // Fetches seasonal anime from the official MAL API, resolves Stremio IDs, and populates catalog
     async populateFromMAL(year: number, season: Season) {
-        const jikan = new Jikan();
-        console.log(`Fetching MAL season data: ${season} ${year}`);
-        const results = await jikan.fetchSeasonAll(year, season, 2);
+        const mal = new MalOfficial();
+        console.log(`Fetching official MAL season data: ${season} ${year}`);
+        const results = await mal.fetchSeasonAll(year, season);
         if (!results || results.length === 0) {
-            console.log(`No results from Jikan for ${season} ${year}`);
+            console.log(`No results from MyAnimeList for ${season} ${year}`);
             return;
         }
 
@@ -82,75 +73,29 @@ export class Catalog {
             return true;
         });
 
-        const malIds = uniqueResults.map((anime: any) => anime.mal_id);
-        console.log(`Querying AniList details for ${malIds.length} MAL IDs`);
-
-        const anilistMap = new Map<number, any>();
+        let anilistMetadata = new Map<number, { title?: string, poster?: string }>();
         try {
-            const anilist = new Anilist();
-            const q = `query {
-                Page(perPage: 50, page: 1) {
-                  media(idMal_in: [${malIds.join(",")}], type: ANIME) {
-                    id
-                    idMal
-                    genres
-                    title {
-                      romaji
-                      english
-                    }
-                    tags {
-                      name
-                      isMediaSpoiler
-                      isGeneralSpoiler
-                    }
-                    description
-                    seasonYear
-                    bannerImage
-                    coverImage {
-                      medium
-                      large
-                      extraLarge
-                    }
-                  }
-                }
-            }`;
-            const response = await anilist.fetch(q);
-            const mediaList = response?.data?.Page?.media || [];
-            for (const media of mediaList) {
-                if (media?.idMal) {
-                    anilistMap.set(media.idMal, media);
-                }
-            }
+            console.log(`Fetching AniList metadata for ${uniqueResults.length} MAL IDs`);
+            anilistMetadata = await new AnilistMetadata().fetchByMalIds(uniqueResults.map((anime: any) => anime.mal_id));
         } catch (error) {
-            console.error("Failed to fetch details from AniList, falling back to MAL metadata:", error);
+            console.error("Failed to fetch AniList metadata, using MAL metadata:", error);
         }
 
-        console.log(`Processing ${uniqueResults.length} anime from MAL for ${season} ${year}`);
+        console.log(`Processing ${uniqueResults.length} anime for ${season} ${year}`);
         for (const anime of uniqueResults) {
             const malId = anime.mal_id.toString();
             const animeType = anime.type;
             const titleType: TitleType = animeType === "Movie" ? "movie" : "series";
             const members = anime.members || 0;
 
-            const anilistMedia = anilistMap.get(anime.mal_id);
-            let originalName: string;
-            let poster: string;
-            let description: string;
-            let resolver: IdResolver;
-
-            if (anilistMedia) {
-                originalName = anilistMedia.title.romaji ?? anilistMedia.title.english;
-                poster = anilistMedia.coverImage.extraLarge ?? anilistMedia.coverImage.large ?? anilistMedia.coverImage.medium ?? anilistMedia.bannerImage;
-                description = this.describe(anilistMedia);
-                resolver = new IdResolver(IdSource.ANILIST, anilistMedia.id.toString(), originalName, anilistMedia.seasonYear, titleType, Stremio.removeSeasonDetails);
-            } else {
-                originalName = anime.title;
-                poster = anime.images?.jpg?.large_image_url
-                    ?? anime.images?.jpg?.image_url
-                    ?? anime.images?.webp?.large_image_url;
-                description = this.describeFromMAL(anime);
-                resolver = new IdResolver(IdSource.MAL, malId, originalName, year, titleType, Stremio.removeSeasonDetails);
-            }
+            const metadata = anilistMetadata.get(anime.mal_id);
+            const originalName = metadata?.title ?? anime.title;
+            const poster = metadata?.poster
+                ?? anime.images?.jpg?.large_image_url
+                ?? anime.images?.jpg?.image_url
+                ?? anime.images?.webp?.large_image_url;
+            const description = this.describeFromMAL(anime);
+            const resolver = new IdResolver(IdSource.MAL, malId, originalName, year, titleType, Stremio.removeSeasonDetails);
 
             let id = await resolver.resolveKitsu();
             if (!id) {

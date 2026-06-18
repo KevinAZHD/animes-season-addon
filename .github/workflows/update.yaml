@@ -22,6 +22,8 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - run: npm ci
       - run: npm start
+        env:
+          MAL_CLIENT_ID: ${{ secrets.MAL_CLIENT_ID }}
       - name: Commit detected changes
         uses: EndBug/add-and-commit@v9
         with:
