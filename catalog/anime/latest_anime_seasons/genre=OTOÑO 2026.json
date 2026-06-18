@@ -115,6 +115,13 @@
       "description": "Genres: Action, Fantasy, Mythology, Shounen\nSequel of Tougen Anki."
     },
     {
+      "id": "kitsu:50471",
+      "type": "series",
+      "name": "Hotaru no Yomeiri",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg",
+      "description": "Genres: Historical, Romance\nSatoko, the eldest daughter of the honorable Kirigaya family, has received many marriage proposals from men captivated by her beauty and grace. However, she has turned them all down due to her secret heart defect. Despite her condition, Satoko is still willing to find a husband to ease her beloved father's concerns.\n\nWhile on a stroll, Satoko is kidnapped by a group of mercenaries, one of them being Shinpei Gotou—a legendary assassin tasked with executing her. Satoko tries to bribe Gotou into freeing her, but it proves unsuccessful. Out of options, Satoko makes a desperate gamble: under the pretense of love at first sight, she asks him to marry her.\n\nUnexpectedly, Gotou takes the bait and vows to protect her. As the couple escapes to freedom, Satoko struggles to keep up the ruse and make sense of the mysterious man she has eloped with.\n\n[Written by MAL Rewrite]"
+    },
+    {
       "id": "tt39195693",
       "type": "movie",
       "name": "Girls und Panzer: Saishuushou 5",
@@ -123,13 +130,6 @@
         "defaultVideoId": "tt39195693"
       },
       "description": "Genres: CGDCT, Military, School\nThe fifth film in the six-part Girls & Panzer: Saishuushou film series. "
-    },
-    {
-      "id": "kitsu:50471",
-      "type": "series",
-      "name": "Hotaru no Yomeiri",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg",
-      "description": "Genres: Historical, Romance\nSatoko, the eldest daughter of the honorable Kirigaya family, has received many marriage proposals from men captivated by her beauty and grace. However, she has turned them all down due to her secret heart defect. Despite her condition, Satoko is still willing to find a husband to ease her beloved father's concerns.\n\nWhile on a stroll, Satoko is kidnapped by a group of mercenaries, one of them being Shinpei Gotou—a legendary assassin tasked with executing her. Satoko tries to bribe Gotou into freeing her, but it proves unsuccessful. Out of options, Satoko makes a desperate gamble: under the pretense of love at first sight, she asks him to marry her.\n\nUnexpectedly, Gotou takes the bait and vows to protect her. As the couple escapes to freedom, Satoko struggles to keep up the ruse and make sense of the mysterious man she has eloped with.\n\n[Written by MAL Rewrite]"
     },
     {
       "id": "tt36593026",
@@ -240,18 +240,18 @@
       "description": "Genres: Action, Gore, Super Power\nShizuka takes on the most dangerous of assassin jobs, but she's not the one doing the killing. Rather, it's her brother, Nagi, a strong assassin who took a bullet to protect his sister, leaving him in a comatose state and having to use a wheelchair. However, Shizuka has figured out the key to waking her brother up: he must be faced with killing intent! Thus begins a violent journey of recovery, battling the most dangerous foes!\n\n(Source: Kodansha USA)"
     },
     {
-      "id": "tt32524709",
-      "type": "series",
-      "name": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207329-SsC5hikUQJ4I.jpg",
-      "description": "Genres: Action, Adventure, Fantasy\nRein, an enchanter who strengthens equipment with his magic, is suddenly expelled from his guild, simply because every piece of gear in the guild has already been enhanced enough. Outraged by the absurd treatment, Rein decides to take back the enormous amount of mana he had poured into their equipment. When he casually channels it into a random copper sword, it transforms into a cheat-level weapon with 10,000 enhancement points!\n\nWith zero combat experience but armed with magic that can turn anything into overpowered gear, this enchanter sets off to enjoy a new, carefree life as an adventurer!\n\n(Source: Shochiku)"
-    },
-    {
       "id": "tt41583414",
       "type": "series",
       "name": "Tempal: Item no Chikara",
       "poster": "https://cdn.myanimelist.net/images/anime/1382/158336l.jpg",
       "description": "Genres: Action, Fantasy, Video Game\nShin Youngwoo (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game \"Satisfy,\" finds a powerful item that earns him a rare legendary class title: \"Pagma's Successor.\" He's now a skilled blacksmith who can forge unique weapons and equip the game's most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for...\n\n(Source: Tapas Media)"
+    },
+    {
+      "id": "tt32524709",
+      "type": "series",
+      "name": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207329-SsC5hikUQJ4I.jpg",
+      "description": "Genres: Action, Adventure, Fantasy\nRein, an enchanter who strengthens equipment with his magic, is suddenly expelled from his guild, simply because every piece of gear in the guild has already been enhanced enough. Outraged by the absurd treatment, Rein decides to take back the enormous amount of mana he had poured into their equipment. When he casually channels it into a random copper sword, it transforms into a cheat-level weapon with 10,000 enhancement points!\n\nWith zero combat experience but armed with magic that can turn anything into overpowered gear, this enchanter sets off to enjoy a new, carefree life as an adventurer!\n\n(Source: Shochiku)"
     },
     {
       "id": "tt36986811",
@@ -275,23 +275,6 @@
       "description": "Genres: Action, Fantasy\nLent is part of the up-and-coming party known as the \"Skypiercers,\" and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious...until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!\n\n(Source: Seven Seas Entertainment)"
     },
     {
-      "id": "kitsu:50478",
-      "type": "movie",
-      "name": "Soukou Kihei Votoms: Haiiro no Hexe",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206163-c5DwZdBNCXEO.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "kitsu:50478"
-      },
-      "description": "Genres: Drama, Mecha, Military, Sci-Fi, Space\nNew Soukou Kihei Votoms anime, part of the Sunrise 50th Anniversary project."
-    },
-    {
-      "id": "kitsu:50217",
-      "type": "series",
-      "name": "Tetsuryou! meet with Tetsudou Musume",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199594-KyZW6uaMiQWg.jpg",
-      "description": "Genres: Adult Cast, CGDCT, Slice of Life\nMisaki, a university student, feeling the weight of everyday life and uncertain about her future, she longs for adventure and something she can be truly passionate about.\n\nAt the start of the new day on campus, members of the Travel Train Club (commonly known as the Tetsuryo Club) invite Misaki to join them, as she steps into the world of railways, Misaki's heart beats with excitement for the journey that awaits her.\n\n(Source: MAL News)"
-    },
-    {
       "id": "kitsu:50607",
       "type": "series",
       "name": "Tensei Goblin Dakedo Shitsumon Aru?",
@@ -306,6 +289,30 @@
       "description": "Genres: Adult Cast, High Stakes Game, Psychological, Seinen, Strategy Game, Suspense\nKarasu Bank is one of Japan's leading banks, boasting the third-highest operating profits in the country. Akira Mitarai is a young employee in his second year at the bank's central branch. His exceptional math skills allow him to instantly spot accounting errors but also make his day-to-day life incredibly boring.\n\nOne day, Akira is suddenly transferred to the Special Operations Department's \"Appraisal Unit,\" which he is told is a key department within the bank. Suspicious of his transfer and the unfamiliar department, he is told by his new boss that the bank actually operates a massive underground casino, and that the Appraisal Unit is the department responsible for managing this gambling as well as the gamblers who participate in it. But these gamblers are putting more than just their money on the line, with their very lives serving as collateral to play! Higher risk means higher rewards, but at the top level losing is a death sentence.\n\nOverwhelmed and confused by the strange state of the bank's secret casino, Mitarai meets a mysterious, genius gambler, Shin Mafutsu. Enraptured by Shin's ability to see through his opponents' cheating and emerge victorious, Akira decides to enter the world of life-or-death gambling as Shin's bank representative.\n\n(Source: MAL News)"
     },
     {
+      "id": "kitsu:50261",
+      "type": "series",
+      "name": "Choujun! Choujou Senpai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200294-E6KIgkFaJOfG.jpg",
+      "description": "Genres: Adult Cast, Comedy, Gag Humor, Shounen, Super Power\nIn Chinjuku, the city that never sleeps, there is a psychic senior police officer who has powers beyond human comprehension! His name is Meguru Choujou! Along with his judo expert partner Nao Ippongi, this hilarious duo will keep the streets clean by any means necessary!\n\n(Source: MANGA Plus)\n"
+    },
+    {
+      "id": "kitsu:50217",
+      "type": "series",
+      "name": "Tetsuryou! meet with Tetsudou Musume",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199594-KyZW6uaMiQWg.jpg",
+      "description": "Genres: Adult Cast, CGDCT, Slice of Life\nMisaki, a university student, feeling the weight of everyday life and uncertain about her future, she longs for adventure and something she can be truly passionate about.\n\nAt the start of the new day on campus, members of the Travel Train Club (commonly known as the Tetsuryo Club) invite Misaki to join them, as she steps into the world of railways, Misaki's heart beats with excitement for the journey that awaits her.\n\n(Source: MAL News)"
+    },
+    {
+      "id": "kitsu:50478",
+      "type": "movie",
+      "name": "Soukou Kihei Votoms: Haiiro no Hexe",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206163-c5DwZdBNCXEO.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:50478"
+      },
+      "description": "Genres: Drama, Mecha, Military, Sci-Fi, Space\nNew Soukou Kihei Votoms anime, part of the Sunrise 50th Anniversary project."
+    },
+    {
       "id": "tt35517192",
       "type": "series",
       "name": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
@@ -313,18 +320,18 @@
       "description": "Genres: School, Shounen, Sports\nSequel to Shin Tennis no Oujisama: U-17 World Cup Semifinal."
     },
     {
-      "id": "kitsu:50261",
-      "type": "series",
-      "name": "Choujun! Choujou Senpai",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200294-hZKIC5BJ8PSo.jpg",
-      "description": "Genres: Adult Cast, Comedy, Gag Humor, Shounen, Super Power\nIn Chinjuku, the city that never sleeps, there is a psychic senior police officer who has powers beyond human comprehension! His name is Meguru Choujou! Along with his judo expert partner Nao Ippongi, this hilarious duo will keep the streets clean by any means necessary!\n\n(Source: MANGA Plus)\n"
-    },
-    {
       "id": "tt39122722",
       "type": "series",
       "name": "Keroro Gunsou☆",
       "poster": "https://cdn.myanimelist.net/images/anime/1096/154574l.jpg",
       "description": "Genres: Comedy, Parody, Sci-Fi, Shounen\nA new Keroro Gunsou from scratch."
+    },
+    {
+      "id": "tt37419888",
+      "type": "series",
+      "name": "Oji-san wa Kawaii Mono ga Osuki.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202079-qGySMdTVjRgP.jpg",
+      "description": "Genres: Comedy\nMitsutaka Oji is a 40-year-old, handsome office worker that is admired by his colleagues. Of course, he has a secret he is trying to hide from everyone: he loves cute things. But with his nephew going to his apartment, Mitsutaka's secret is now in danger!\n\n(Source: MU)"
     },
     {
       "id": "tt39317998",
@@ -353,13 +360,6 @@
       "name": "Cardfight!! Vanguard: Divinez Unmei Seisen-hen",
       "poster": "https://cdn.myanimelist.net/images/anime/1454/156802l.jpg",
       "description": "Genres: Action, Strategy Game\nFinal Arc of Cardfight!! Vanguard: D Series."
-    },
-    {
-      "id": "tt43339903",
-      "type": "series",
-      "name": "Jyuоu Mujin Dandivine",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213068-a8UT4sMVmbYk.jpg",
-      "description": "Genres: Mecha\nTwenty years have passed since the combining robot Dandivine defeated the mysterious invaders known as the Aposdoll. With the threat gone, the world has enjoyed a long era of peace. But for toy manufacturer Casga, whose fortunes were built on the popularity of Dandivine merchandise, that peace has come at a cost. Having relied too heavily on the legendary robot's fame, the company has steadily fallen into decline.\n\nDesperate to revive both Dandivine and his struggling business, Casga's president, Genjurou Shijima, dreams of the robot's return—even if it means disrupting the peace. Then, as if in answer to his wish, the Aposdolls suddenly reappear in Tokyo.\n\nAs panic spreads among a population that has known nothing but peace for two decades, high school student Gekiha Shijima is recruited by his uncle, Yuusaku Kuroiwa, the former main pilot of Dandivine. Drawn into the cockpit of the legendary machine, Gekiha finds himself at the center of a new battle.\n\nWhy have the Aposdolls returned after all these years? And can Dandivine rise once again to face the threat? A new chapter in the fight for humanity is about to begin.\n\n(Source: MAL News)"
     }
   ]
 }
