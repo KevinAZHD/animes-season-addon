@@ -205,7 +205,14 @@
       "description": "Genres: Action, Fantasy, Seinen\nThe mask brings calamity. The mask revels in slaughter. The mask has a will of its own... Pelle, a traveling mask merchant, possesses the ability to craft mysterious masks that give its wearers unique powers. In a city shrouded in an eerie atmosphere, he encounters Sonah, a mysterious young girl. As revelations unfold and inner conflicts arise, a young boy takes his first steps forward! Immerse yourself in a thrilling mask battle fantasy!\n\n(Source: Orange Inc.)"
     },
     {
-      "id": "tt38895862",
+      "id": "kitsu:50520",
+      "type": "series",
+      "name": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207191-JVPvPlAJED4S.jpg",
+      "description": "Genres: Fantasy, Josei, Romance\nDeep within the forest, a cozy and rather cluttered cottage sits on the lakeshore, housing a mysterious, feared witch. In truth, she is a lovely young woman named Rose, who has learned the art of potion-making from her wise grandmother. Rose cherishes her tucked-away life, yet there is a longing in her heart—for a handsome knight she once saw, Sir Harij Azm.\n\nFor four years, Rose's feelings for Harij have lingered, but she can never act on them; witches live outside of human affairs and belong to no country or man. So, when Harij suddenly appears on her doorstep looking for a love potion, Rose is both surprised and heartbroken. Although another woman has captured the noble knight's heart, Rose decides to help him. But before crafting the potion, Rose sends Harij on a series of ridiculous quests for each ingredient, hoping to delay the inevitable and savor their fleeting time together.\n\n[Written by MAL Rewrite]"
+    },
+    {
+      "id": "tt43509424",
       "type": "series",
       "name": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b200455-gpDWDkMAEuM7.jpg",
@@ -217,13 +224,6 @@
       "name": "Hotel Inhumans 2nd Season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199426-nLcvtPfuWcms.jpg",
       "description": "Genres: Action, Drama, Organized Crime\nSecond season of Hotel Inhumans."
-    },
-    {
-      "id": "kitsu:50520",
-      "type": "series",
-      "name": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207191-JVPvPlAJED4S.jpg",
-      "description": "Genres: Fantasy, Josei, Romance\nDeep within the forest, a cozy and rather cluttered cottage sits on the lakeshore, housing a mysterious, feared witch. In truth, she is a lovely young woman named Rose, who has learned the art of potion-making from her wise grandmother. Rose cherishes her tucked-away life, yet there is a longing in her heart—for a handsome knight she once saw, Sir Harij Azm.\n\nFor four years, Rose's feelings for Harij have lingered, but she can never act on them; witches live outside of human affairs and belong to no country or man. So, when Harij suddenly appears on her doorstep looking for a love potion, Rose is both surprised and heartbroken. Although another woman has captured the noble knight's heart, Rose decides to help him. But before crafting the potion, Rose sends Harij on a series of ridiculous quests for each ingredient, hoping to delay the inevitable and savor their fleeting time together.\n\n[Written by MAL Rewrite]"
     },
     {
       "id": "kitsu:50170",
@@ -310,6 +310,13 @@
       "description": "Genres: Adult Cast, CGDCT, Slice of Life\nMisaki, a university student, feeling the weight of everyday life and uncertain about her future, she longs for adventure and something she can be truly passionate about.\n\nAt the start of the new day on campus, members of the Travel Train Club (commonly known as the Tetsuryo Club) invite Misaki to join them, as she steps into the world of railways, Misaki's heart beats with excitement for the journey that awaits her.\n\n(Source: MAL News)"
     },
     {
+      "id": "tt35517192",
+      "type": "series",
+      "name": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199068-dDadPRy9Nekb.png",
+      "description": "Genres: School, Shounen, Sports\nSequel to Shin Tennis no Oujisama: U-17 World Cup Semifinal."
+    },
+    {
       "id": "kitsu:50478",
       "type": "movie",
       "name": "Soukou Kihei Votoms: Haiiro no Hexe",
@@ -318,13 +325,6 @@
         "defaultVideoId": "kitsu:50478"
       },
       "description": "Genres: Drama, Mecha, Military, Sci-Fi, Space\nNew Soukou Kihei Votoms anime, part of the Sunrise 50th Anniversary project."
-    },
-    {
-      "id": "tt35517192",
-      "type": "series",
-      "name": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199068-dDadPRy9Nekb.png",
-      "description": "Genres: School, Shounen, Sports\nSequel to Shin Tennis no Oujisama: U-17 World Cup Semifinal."
     },
     {
       "id": "tt39122722",
@@ -350,16 +350,16 @@
     {
       "id": "tt38752562",
       "type": "series",
+      "name": "Mahou no Shimai LuluttoLilly Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209032-CERwax6jQJAd.jpg",
+      "description": "Genres: Mahou Shoujo\nSecond part of Mahou no Shimai Lulutto Lilly."
+    },
+    {
+      "id": "tt38752562",
+      "type": "series",
       "name": "Mahou no Princess Minky Momo - Akogare no Yume he, Magokoro no Duo",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204561-a5mhBA2zrKe5.jpg",
       "description": "Genres: Mahou Shoujo\nA new original video anime for Mahou no Princess Minky Momo."
-    },
-    {
-      "id": "tt41295113",
-      "type": "series",
-      "name": "Battle Spirits [Re]: Zekkai no Kuu",
-      "poster": "https://cdn.myanimelist.net/images/anime/1431/156315l.jpg",
-      "description": "Genres: Fantasy, Strategy Game"
     }
   ]
 }
