@@ -175,13 +175,6 @@
       "description": "Genres: Adventure, Fantasy, Shounen, Slice of Life\nGo behind the runway as style icon Nami stars in a life-changing fashion show, observe wise Robin as she helps to decipher an ancient tablet with Koala and Sabo, watch as solemn Princess Vivi receives a love letter from an unexpected admirer, and check out Ghost Princess Perona's battle over the last bottle of wine with Zoro and Mihawk!\n\n(Source: VIZ Media)"
     },
     {
-      "id": "tt41278600",
-      "type": "series",
-      "name": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201514-BHAeWhSbcBrT.png",
-      "description": "Genres: Comedy, Romance, School\nA high school boy, Itsuki Tomonari, gets involved in a kidnapping and ends up taking care of Hinako Konohana, a young lady from one of Japan's largest conglomerates.\n\nOn the surface, Hinako seems to be a brilliant and charming girl, but in reality, she is a lazy girl with no life skills. However, due to family reasons, Hinako has to play the role of the \"perfect young lady\" at school. Wanting to protect her, Itsuki takes care of her in a very caring manner. Eventually, Hinako begins to fawn on Itsuki with all her might...\n\n\"Now... if Itsuki isn't around, I would hate it.\"\n\nThis is a love story that begins with a cute young lady with a gap that transcends the master-servant relationship.\n\n(Source: Hobby Japan, translated)"
-    },
-    {
       "id": "kitsu:47988",
       "type": "series",
       "name": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
@@ -189,11 +182,11 @@
       "description": "Genres: Comedy, Romance, School\nI met my childhood friend again, and she had become a beautiful and innocent girl.\n\n\"It's been a while, Hayato.\"\n\"Haruki, is it?\"\n\nIn the past, I used to play in the mud with my childhood friend in the countryside, and when I saw him again, there was no trace of the bratty young man I thought he was back then. Only in front of Hayato, she threw away the coat she was wearing and reacted in the same crass way she did back then. The distance between you and me has not changed.\n\n(Source: Shousetsuka ni Narou, translated)"
     },
     {
-      "id": "tt35636246",
+      "id": "tt41278600",
       "type": "series",
-      "name": "Boku no Hero Academia: I am a hero too",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211711-Oy6R5cmGHLCL.jpg",
-      "description": "Genres: Action, School, Shounen, Super Power\nAdaptation of the one-shot manga from the 2025 fanbook Boku no Hero Academia: Ultra-Age following high schooler Eri visit to U.A. High School."
+      "name": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201514-BHAeWhSbcBrT.png",
+      "description": "Genres: Comedy, Romance, School\nA high school boy, Itsuki Tomonari, gets involved in a kidnapping and ends up taking care of Hinako Konohana, a young lady from one of Japan's largest conglomerates.\n\nOn the surface, Hinako seems to be a brilliant and charming girl, but in reality, she is a lazy girl with no life skills. However, due to family reasons, Hinako has to play the role of the \"perfect young lady\" at school. Wanting to protect her, Itsuki takes care of her in a very caring manner. Eventually, Hinako begins to fawn on Itsuki with all her might...\n\n\"Now... if Itsuki isn't around, I would hate it.\"\n\nThis is a love story that begins with a cute young lady with a gap that transcends the master-servant relationship.\n\n(Source: Hobby Japan, translated)"
     },
     {
       "id": "kitsu:50350",
@@ -201,6 +194,13 @@
       "name": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202269-7KNj8s2fSsJJ.jpg",
       "description": "Genres: Adult Cast, Drama, Romance\nOn an April night in Tokyo, still too early for fireworks, university student Kakeru Mano meets a woman named Koharu Fuyutsuki. She is a beautiful girl who stands out from the crowd, laughs a lot, and exudes a warmth that contrasts sharply with Kakeru's own introversion. But there was something Kakeru didn't know at first—she can't see. Unlike Kakeru, Koharu hasn't given up on anything, even with her blindness. She attends university daily, shows interest in clubs, makes friends—and dreams of launching fireworks one day. Kakeru wonders why, when she can't see them...but maybe it doesn't matter. And maybe he can start moving forward, too, for the girl who's always been by his side.\n\n(Source: Yen Press)"
+    },
+    {
+      "id": "tt35636246",
+      "type": "series",
+      "name": "Boku no Hero Academia: I am a hero too",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211711-Oy6R5cmGHLCL.jpg",
+      "description": "Genres: Action, School, Shounen, Super Power\nAdaptation of the one-shot manga from the 2025 fanbook Boku no Hero Academia: Ultra-Age following high schooler Eri visit to U.A. High School."
     },
     {
       "id": "tt32869308",
@@ -339,18 +339,18 @@
       "description": "Genres: Action, Adult Cast, Mahou Shoujo, Shounen, Workplace\nSecond season of Kabushikigaisha Magi-Lumière."
     },
     {
-      "id": "kitsu:49449",
-      "type": "series",
-      "name": "Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185875-yg3rQV7Wf4kY.jpg",
-      "description": "Genres: Action, Mahou Shoujo\nThirty years ago, the sudden appearance of unknown invasive alien lifeforms nearly brought about the end of the world.\n\nSince then, humanity and these creatures, known as Invasion Species, have continued to clash over living territory. Although human safety is barely being maintained, the world remains on the brink of collapse. As the threat of death and destruction lingers, people go about their daily lives by turning away from the constant danger around them. In response, the United Nations establishes EXCEEDS, an organization tasked with investigating and combating threats caused by the Invasion Species.\n\nThe story begins in the Far Eastern island nation of Mizuho, where Shiina Kuze, a young hunter who exterminates invasive species, lives on a remote island. Wanting nothing more than a quiet life with her only family—her younger sister, Setsuna—Shiina's routine is disrupted when an unexpected incident occurs, drawing her into a much larger conflict.\n\n(Source: MAL News)"
-    },
-    {
       "id": "tt43401464",
       "type": "series",
       "name": "THE RIBBON HERO",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211308-DHKjEEttkfkT.jpg",
       "description": "Genres: Action, Adventure, Crossdressing, Drama, Fantasy, Romance, Shoujo\nSapphire is the princess of a kingdom that no longer exists. Having lost everything in her homeland of Silverland to the calamity known as \"Nergal,\" she wanders in despair until she finally arrives in Goldland.\n\nThough burdened by her past, she begins to find a glimmer of hope as she encounters the kindness of the people there. But as if to sneer at her peaceful new life, the calamity Nergal appears once more. The very despair that once reduced her homeland to ashes now threatens to steal the light from this land as well.\n\n\"I won't lose anything ever again. And I won't let anyone else lose anything either.\" Brushing away her tears of sorrow, the girl takes up her sword. This is the story of a lone hero who ties her ribbon and resolves to defy her fate.\n\n(Source: Netflix)"
+    },
+    {
+      "id": "kitsu:49449",
+      "type": "series",
+      "name": "Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185875-yg3rQV7Wf4kY.jpg",
+      "description": "Genres: Action, Mahou Shoujo\nThirty years ago, the sudden appearance of unknown invasive alien lifeforms nearly brought about the end of the world.\n\nSince then, humanity and these creatures, known as Invasion Species, have continued to clash over living territory. Although human safety is barely being maintained, the world remains on the brink of collapse. As the threat of death and destruction lingers, people go about their daily lives by turning away from the constant danger around them. In response, the United Nations establishes EXCEEDS, an organization tasked with investigating and combating threats caused by the Invasion Species.\n\nThe story begins in the Far Eastern island nation of Mizuho, where Shiina Kuze, a young hunter who exterminates invasive species, lives on a remote island. Wanting nothing more than a quiet life with her only family—her younger sister, Setsuna—Shiina's routine is disrupted when an unexpected incident occurs, drawing her into a much larger conflict.\n\n(Source: MAL News)"
     }
   ]
 }
