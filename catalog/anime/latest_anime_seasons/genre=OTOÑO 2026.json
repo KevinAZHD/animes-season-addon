@@ -90,7 +90,7 @@
       "id": "kitsu:49883",
       "type": "series",
       "name": "Aoashi 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191788-y38vt4uRRHWK.jpg",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191788-XC6F24LdX6a4.jpg",
       "description": "Genres: Seinen, Sports, Team Sports\nSecond season of Ao Ashi."
     },
     {
@@ -108,18 +108,18 @@
       "description": "Genres: Action, Adventure, Fantasy, Martial Arts, Shounen\nDragon Ball Super: Beerus, a project that was started a few years ago, is the newly ENHANCED edition of the anime Dragon Ball Super. ENHANCED by the latest visual expression, every scene, especially the battle scenes, is even more immersive, providing a more faithful and detailed reproduction of the original work by Akira Toriyama, and it will deliver a quality that is sure to fully satisfy audiences.\n\n(Source: Official website)"
     },
     {
-      "id": "tt32344704",
-      "type": "series",
-      "name": "Tougen Anki: Nikko・Kegon no Taki-hen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204650-5qXlU69CHwKA.jpg",
-      "description": "Genres: Action, Fantasy, Mythology, Shounen\nSequel of Tougen Anki."
-    },
-    {
       "id": "kitsu:50471",
       "type": "series",
       "name": "Hotaru no Yomeiri",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg",
       "description": "Genres: Historical, Romance\nSatoko, the eldest daughter of the honorable Kirigaya family, has received many marriage proposals from men captivated by her beauty and grace. However, she has turned them all down due to her secret heart defect. Despite her condition, Satoko is still willing to find a husband to ease her beloved father's concerns.\n\nWhile on a stroll, Satoko is kidnapped by a group of mercenaries, one of them being Shinpei Gotou—a legendary assassin tasked with executing her. Satoko tries to bribe Gotou into freeing her, but it proves unsuccessful. Out of options, Satoko makes a desperate gamble: under the pretense of love at first sight, she asks him to marry her.\n\nUnexpectedly, Gotou takes the bait and vows to protect her. As the couple escapes to freedom, Satoko struggles to keep up the ruse and make sense of the mysterious man she has eloped with.\n\n[Written by MAL Rewrite]"
+    },
+    {
+      "id": "tt32344704",
+      "type": "series",
+      "name": "Tougen Anki: Nikko・Kegon no Taki-hen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204650-5qXlU69CHwKA.jpg",
+      "description": "Genres: Action, Fantasy, Mythology, Shounen\nSequel of Tougen Anki."
     },
     {
       "id": "tt39195693",
@@ -203,6 +203,13 @@
       "name": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207191-JVPvPlAJED4S.jpg",
       "description": "Genres: Fantasy, Josei, Romance\nDeep within the forest, a cozy and rather cluttered cottage sits on the lakeshore, housing a mysterious, feared witch. In truth, she is a lovely young woman named Rose, who has learned the art of potion-making from her wise grandmother. Rose cherishes her tucked-away life, yet there is a longing in her heart—for a handsome knight she once saw, Sir Harij Azm.\n\nFor four years, Rose's feelings for Harij have lingered, but she can never act on them; witches live outside of human affairs and belong to no country or man. So, when Harij suddenly appears on her doorstep looking for a love potion, Rose is both surprised and heartbroken. Although another woman has captured the noble knight's heart, Rose decides to help him. But before crafting the potion, Rose sends Harij on a series of ridiculous quests for each ingredient, hoping to delay the inevitable and savor their fleeting time together.\n\n[Written by MAL Rewrite]"
+    },
+    {
+      "id": "tt39371948",
+      "type": "series",
+      "name": "Shiotaiou no Satou-san ga Ore ni dake Amai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209502-D13zPYnWFwrJ.png",
+      "description": "Genres: Comedy, Romance\nKoharu Satou is known to her classmates as the \"unattainable flower\" a cold and distant girl whose refusal to smile keeps everyone at arm's length.\n\nHowever, Souta Oshio accidentally stumbles upon Satou's secret at her family's cafe. It turns out the \"icy Satou-san\" is actually an incredibly shy and clumsy girl who struggles even with something as simple as taking photos of sweets for the cafe's social media.\n\nBonding over their shared love for cameras and desserts, the distance between the two gradually shrinks. This charming romantic comedy follows two socially awkward people as they navigate their feelings in a story that is as sweet as it is endearing.\n\n(Source: MAL News)"
     },
     {
       "id": "kitsu:50336",
@@ -353,13 +360,6 @@
       "name": "Mahou no Shimai LuluttoLilly Part 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209032-CERwax6jQJAd.jpg",
       "description": "Genres: Mahou Shoujo\nSecond part of Mahou no Shimai Lulutto Lilly."
-    },
-    {
-      "id": "tt41295113",
-      "type": "series",
-      "name": "Battle Spirits [Re]: Zekkai no Kuu",
-      "poster": "https://cdn.myanimelist.net/images/anime/1431/156315l.jpg",
-      "description": "Genres: Fantasy, Strategy Game"
     }
   ]
 }

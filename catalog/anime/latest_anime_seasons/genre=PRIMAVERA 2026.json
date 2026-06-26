@@ -113,6 +113,13 @@
       "description": "Genres: Fantasy, Isekai, Slice of Life\nSecond season of Isekai Nonbiri Nouka."
     },
     {
+      "id": "kitsu:49984",
+      "type": "series",
+      "name": "Aishiteru Game wo Owarasetai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194393-0H9yYABu6y0i.jpg",
+      "description": "Genres: Comedy, Romance, School\nIn sixth grade, childhood friends Yukiya Asagi and Miku Sakura created a game with the objective to embarrass the other person by taking turns saying \"I love you.\" Four years later, even as they are entering high school, the two are still trying to one-up the other and claim victory. However, as tender feelings begin to bloom in their hearts, the simple phrase has taken on new meaning beyond the rules of their game.\n\nWith the passing of each day, the urge to become more than childhood friends grows—but both Yukiya and Miku resist making the first move, hesitant about what is in store once the game finally ends.\n\n[Written by MAL Rewrite]"
+    },
+    {
       "id": "kitsu:49361",
       "type": "series",
       "name": "Mairimashita! Iruma-kun 4",
@@ -125,13 +132,6 @@
       "name": "Honzuki no Gekokujou: Ryoushu no Youjo",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171110-7zOdInS6DQNL.jpg",
       "description": "Genres: Fantasy, Isekai, Reincarnation\nAnime adaptation of part three of the Honzuki no Gekokujou light novel."
-    },
-    {
-      "id": "kitsu:49984",
-      "type": "series",
-      "name": "Aishiteru Game wo Owarasetai",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194393-0H9yYABu6y0i.jpg",
-      "description": "Genres: Comedy, Romance, School\nIn sixth grade, childhood friends Yukiya Asagi and Miku Sakura created a game with the objective to embarrass the other person by taking turns saying \"I love you.\" Four years later, even as they are entering high school, the two are still trying to one-up the other and claim victory. However, as tender feelings begin to bloom in their hearts, the simple phrase has taken on new meaning beyond the rules of their game.\n\nWith the passing of each day, the urge to become more than childhood friends grows—but both Yukiya and Miku resist making the first move, hesitant about what is in store once the game finally ends.\n\n[Written by MAL Rewrite]"
     },
     {
       "id": "kitsu:49854",
@@ -204,18 +204,18 @@
       "description": "Genres: Comedy, Fantasy, Isekai, Romance, Villainess\nCecil Glo Alphasta's life is always utterly unchallenging. The heir to his father's kingdom, he is known as a genius in everything he accomplishes. However, nothing interests him until he meets his fiancée, Bertia Ibil Noches.\n\nOn their first meeting, Bertia tells him they are inside an otome game, and she has the role of the villainess who interferes with the relationship between Cecil and the heroine. Although she proclaims she will fulfill her duty as a \"wicked flower,\" Bertia's actions end up causing more good than harm. Intrigued by her behavior and deeds, Cecil decides he wants Bertia around and helps her behind the scenes. But with a fiancée like Bertia, the heroine might not be needed anymore.\n\n[Written by MAL Rewrite]"
     },
     {
-      "id": "tt38840807",
-      "type": "series",
-      "name": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200769-8WkFkoFxc2fw.jpg",
-      "description": "Genres: Adventure, Comedy, Fantasy, Isekai\nAfter suddenly being transported to another world, high school student Hibiki Manabe finds himself forced to survive in unfamiliar surroundings with the rare support-oriented job class Appraiser. Though not suited for direct combat, the class allows him to perceive information others cannot, even if its true value may not be immediately apparent.\n\nInitially lost, Hibiki meets Emalia Steinbart, an elf who helps him take his first steps as an adventurer. However, after spending several days traveling together, she parts ways with him to answer an urgent summons from her homeland. Left on his own, Hibiki continues learning how to make use of his abilities as he encounters new companions along the way.\n\n[Written by MAL Rewrite]"
-    },
-    {
       "id": "kitsu:49118",
       "type": "series",
       "name": "Reincarnation no Kaben",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179950-g95odyBfYEbU.jpg",
       "description": "Genres: Action, Mystery, Reincarnation, Shounen, Supernatural\nThere exists an object known as the \"Branch of Reincarnation\" that can grant people the talents of the past lives, so long as they slit their own throat with it.\n\nTouya Senji is a teenage boy struggling with low self-esteem after growing up in the shadow of his gifted older brother. He comes to the decision that academic studies are his last resort in the search for talent, but fails to find satisfaction despite constantly placing in the top 100 for national mock exams.\n\nIn a twist of fate, Touya encounters one of his classmates, Haito Luo Buffett, a \"Returner\" who has resurrected the talents of her past life using the Branch of Reincarnation, as she fights against a serial killer.\n\n(Source: Press Release)"
+    },
+    {
+      "id": "tt38840807",
+      "type": "series",
+      "name": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200769-8WkFkoFxc2fw.jpg",
+      "description": "Genres: Adventure, Comedy, Fantasy, Isekai\nAfter suddenly being transported to another world, high school student Hibiki Manabe finds himself forced to survive in unfamiliar surroundings with the rare support-oriented job class Appraiser. Though not suited for direct combat, the class allows him to perceive information others cannot, even if its true value may not be immediately apparent.\n\nInitially lost, Hibiki meets Emalia Steinbart, an elf who helps him take his first steps as an adventurer. However, after spending several days traveling together, she parts ways with him to answer an urgent summons from her homeland. Left on his own, Hibiki continues learning how to make use of his abilities as he encounters new companions along the way.\n\n[Written by MAL Rewrite]"
     },
     {
       "id": "kitsu:50182",
@@ -347,11 +347,11 @@
       "description": "Genres: Gourmet, Slice of Life\nWhat's a maid to do when she finds herself suddenly stuck in Japan for a year? Eat, of course! Follow maid-in-training Suzume Tachibana as she tries all sorts of Japanese food, from sweets like taiyaki and melon bread to savory snacks like takoyaki and onigiri! Be warned, though—while Suzume sates her appetite through delicious treat after delicious treat, she might just end up whetting yours!\n\n(Source: Kodansha USA)"
     },
     {
-      "id": "kitsu:46806",
+      "id": "kitsu:48846",
       "type": "series",
-      "name": "Hidarikiki no Eren",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158036-KfXv0BFBUsWl.jpg",
-      "description": "Genres: Adult Cast, Drama, Shounen, Visual Arts\nThe story follows Koichi Asakura, a designer for an ad agency who works hard but receives no recognition. After being dropped from a project, he visits a place from his past, where he met Eren Yamagishi. Eren, meanwhile, is recognized as a genius left-handed graffiti artist in New York, while enduring the struggles that come from her own path in life.\n\n(Source: Crunchyroll)"
+      "name": "Awajima Hyakkei",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177501-lLkxUFVZ8uAj.jpg",
+      "description": "Genres: Drama, Performing Arts, School\nThis omnibus adolescent drama is about a group of young girls who all attend a \"girls-only musical school,\" recounting the formative years they shared, at times shifting between different characters' viewpoints and time.\n\nAwajima Musical School Training Camp, dubbed the \"boarding house,\" is where young girls gather from all over Japan to perform on stage. Tabata Wakana aspires to be a musical star; housemaster Takehara Kinue attends to carry on her best friend's wishes; beautiful Okabe Emi is a scholarship student who is always at the center of attention; and Ibuki Katsurako, who became a teacher at the school though originally from a family of actresses.\n\nThe unique environment of the musical school is simultaneously a respite space for these aspiring girls and also a harsh battleground that pits young students against each other. It is a place where perseverance can lead to blossoming talents, but also to a cruel reality at times. The clear depiction and psychological portrayal allow the subtle inner workings of each character to come through.\n\n(Source: Japan Media Arts Festival, edited)"
     }
   ]
 }
