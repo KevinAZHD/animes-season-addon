@@ -123,18 +123,18 @@
       "description": "Genres: Action, Adventure, Fantasy, Isekai, Reincarnation\n\"You useless son of mine! You were supposed to pull master swordsman, but I never thought it would be this tragic!\"\n\nThe day a child turns fifteen, they undergo the Ritual of Divine Blessing. Already descended from a line of master swordsman, Elymas was supposed to succeed his father. However, he pulls the defective class, the Heavy Knight, and not only loses his status as future head of the household, but he's also exiled. With their unbalanced stats and seemingly useless skills, Heavy Knights are spoked of as a class for cowards and the lazy. However, Elymas knows the truth. The world he lives in is the same as the one of the game he used to play... It is the Heavy Knight that is the most powerful class of them all. Using memories from his past life, Elymas has set out to effectively conquer this entire world.\n\n(Source: Kodansha USA)"
     },
     {
-      "id": "kitsu:49889",
-      "type": "series",
-      "name": "Shiguang Dailiren III",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191832-Ff2UEKbzjV0m.jpg",
-      "description": "Genres: Adult Cast, Drama, Mystery, Super Power, Suspense, Time Travel\nAfter the Li Tianchen incident came to a close, Time Photo Studio returned to a superficial peace. However, the news of Xia Fei's disappearance once again drew everyone into a crossroads of fate. With Vein's return and Qiao Ling's awakening of her superpowers, Cheng Xiaoshi and Lu Guang gradually uncover the secrets of the Bahati fire case, and Cheng Xiaoshi's father, Cheng Weimin, and mother, Shao Yuanyuan, also seem to have intricate connections to it. As the investigation deepens, Liu Xiao from a mysterious organization begins his operation, and the intervention of Yingdu police officer Jae further complicates this pursuit of the truth...\n\n(Source: Bilibili, translated)"
-    },
-    {
       "id": "kitsu:50551",
       "type": "series",
       "name": "Yani Neko",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207141-h5q5KJPd6vaX.jpg",
       "description": "Genres: Adult Cast, Anthropomorphic, Comedy, Seinen\nYani is a catgirl with a seriously bad smoking habit. She smokes so much that her apartment smells like ash and is littered with cigarette butts—and plenty of other trash! Every time she tries to quit, she becomes weak to the cravings and gives in almost instantly. Will she ever get her life together, or is she doomed to live as a chainsmoking slob forever?\n\n(Source: Seven Seas Entertainment)"
+    },
+    {
+      "id": "kitsu:49889",
+      "type": "series",
+      "name": "Shiguang Dailiren III",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191832-Ff2UEKbzjV0m.jpg",
+      "description": "Genres: Adult Cast, Drama, Mystery, Super Power, Suspense, Time Travel\nAfter the Li Tianchen incident came to a close, Time Photo Studio returned to a superficial peace. However, the news of Xia Fei's disappearance once again drew everyone into a crossroads of fate. With Vein's return and Qiao Ling's awakening of her superpowers, Cheng Xiaoshi and Lu Guang gradually uncover the secrets of the Bahati fire case, and Cheng Xiaoshi's father, Cheng Weimin, and mother, Shao Yuanyuan, also seem to have intricate connections to it. As the investigation deepens, Liu Xiao from a mysterious organization begins his operation, and the intervention of Yingdu police officer Jae further complicates this pursuit of the truth...\n\n(Source: Bilibili, translated)"
     },
     {
       "id": "kitsu:50104",
@@ -252,6 +252,13 @@
       "description": "Genres: Fantasy, Isekai, Reincarnation\n\"I will become the world's most wonderful maid!\" With her skirt fluttering in black and white, the girl shouted. Her name is Melody. A reincarnated former Japanese girl, she now pursues her dream in her new life, working as an all-purpose maid for a poor count's family in the kingdom of Théolas. When she makes it, even cheap tea turns into a luxury brew, and a dilapidated mansion is quickly restored to new! Cleaning, serving, hunting, DIY—leave it all to her and her powerful magic.\n\nUnbeknownst to Melody, this world is actually an otome game, and she is the most powerful and invincible heroine, the saint! Yet, she remains oblivious to this fact. Romance with handsome men? Attacks by the Demon Lord? Work comes first! A fantasy of misunderstood work that unknowingly shatters destiny!\n\n(Source: Seven Seas Entertainment)"
     },
     {
+      "id": "kitsu:49585",
+      "type": "series",
+      "name": "Neko to Ryuu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186863-AO4efoB8HuzA.png",
+      "description": "Genres: Fantasy\nAn orphan since hatched, a lone dragon named \"Uncle Wings\" is taken in by a family of magic-wielding cats and raised as one of their own. As Uncle Wings grows, he becomes the cats' protector, determined to keep them safe from humans. But as he watches the cats connect with humans using their magic, Uncle Wings slowly starts to warm up to humans in this heartfelt, bittersweet tale.\n\n(Source: Crunchyroll)"
+    },
+    {
       "id": "kitsu:50646",
       "type": "movie",
       "name": "Shibou Yuugi de Meshi wo Kuu. 44:CLOUDY BEACH",
@@ -260,13 +267,6 @@
         "defaultVideoId": "kitsu:50646"
       },
       "description": "Genres: Action, High Stakes Game, Suspense\nSequel to Shibou Yuugi de Meshi wo Kuu."
-    },
-    {
-      "id": "kitsu:49585",
-      "type": "series",
-      "name": "Neko to Ryuu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186863-AO4efoB8HuzA.png",
-      "description": "Genres: Fantasy\nAn orphan since hatched, a lone dragon named \"Uncle Wings\" is taken in by a family of magic-wielding cats and raised as one of their own. As Uncle Wings grows, he becomes the cats' protector, determined to keep them safe from humans. But as he watches the cats connect with humans using their magic, Uncle Wings slowly starts to warm up to humans in this heartfelt, bittersweet tale.\n\n(Source: Crunchyroll)"
     },
     {
       "id": "kitsu:47989",
@@ -332,18 +332,18 @@
       "description": "Genres: Action, Adventure, Drama, Historical, Romance, Shoujo, Supernatural, Time Travel\nYuri, a pretty Japanese girl, is ecstatic after passing her college entrance exam and having her first kiss with her childhood friend-turned boyfriend. However, her luck soon changes. She starts to notice that water becomes agitated whenever she goes near it. One night, hands appear out of a puddle on the street and drag her into the water! Transported to an ancient village in the Middle East, she is then captured by armed troops and taken to the Queen's palace for a human sacrifice.\n\n(Source: VIZ Media)"
     },
     {
-      "id": "kitsu:50328",
-      "type": "series",
-      "name": "Bungou Stray Dogs Wan! 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201667-oqaW97DQ7HUj.jpg",
-      "description": "Genres: Comedy\nSecond season of Bungou Stray Dogs Wan!."
-    },
-    {
       "id": "kitsu:49427",
       "type": "series",
       "name": "Kabushiki Gaisha Magi Lumiere 2nd Season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185692-gmDNAsJnbbEU.jpg",
       "description": "Genres: Action, Adult Cast, Mahou Shoujo, Shounen, Workplace\nSecond season of Kabushikigaisha Magi-Lumière."
+    },
+    {
+      "id": "kitsu:50328",
+      "type": "series",
+      "name": "Bungou Stray Dogs Wan! 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201667-oqaW97DQ7HUj.jpg",
+      "description": "Genres: Comedy\nSecond season of Bungou Stray Dogs Wan!."
     },
     {
       "id": "kitsu:49449",

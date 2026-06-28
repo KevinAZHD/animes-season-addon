@@ -169,18 +169,18 @@
       "description": "Genres: Drama, Performing Arts, Shounen\nFrom a young age, Akane Ousaki has always loved to watch her father, Tooru, practice and perform rakugo, a form of traditional Japanese comedic storytelling. Rakugo performers are split into three ranks, with the highest, shinuchi, only granted to the very best performers after they pass a difficult promotion test. When Tooru takes the exam, Akane experiences her father putting on a stellar performance in front of a big crowd and judges, but the strict main judge, Isshou Arakawa, still fails him, forcing him to quit rakugo.\n\nEver since, Akane has been diligently practicing rakugo herself. Now a senior in high school, she coincidentally lands a spot to perform in front of a crowd with the help of Shiguma Arakawa, Tooru's former teacher. Her splendid performance surprises everyone and is just the beginning: Shiguma appoints her as his new apprentice, and with his help, Akane sets out to become a shinuchi in her father's place.\n\n[Written by MAL Rewrite]"
     },
     {
-      "id": "tt35636246",
-      "type": "series",
-      "name": "Boku no Hero Academia No. 170+1: More",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204356-RNYmxUVVz3Z2.png",
-      "description": "Genres: Action, School, Shounen, Super Power\nYears after their all-out war with villains and graduation from UA Academy, the former Class 1-A students have each found their calling within society. With the increased Quirk education all around Japan, Ochako Uraraka plays a pivotal part in ensuring the new generation of Quirk users grows up properly. Despite being satisfied with the status quo, Ochako is reminded by the shadow of Himiko Toga of something important she has forgotten in the midst of her work.\n\nMeanwhile, Izuku Midoriya is the happiest he has ever been as a teacher at UA Academy. However, as Midoriya and Ochako take part in a gathering with their former classmates, they both realize what the missing piece in their lives has been.\n\n[Written by MAL Rewrite]"
-    },
-    {
       "id": "kitsu:50128",
       "type": "series",
       "name": "Kill Ao",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198113-NRa47idWSlnx.jpg",
       "description": "Genres: Action, Comedy, School, Shounen\nJuuzou Oogami is a legendary hitman who has never failed an assignment, no matter how impossible. One day, after wiping out a powerful organization, he is stung by a mysterious wasp and collapses. When he wakes up, the fearsome 39-year-old assassin has been transformed into a 13-year-old boy!\n\nBefore he can even process what happened, his boss delivers a new order: \"In that body, infiltrate a middle school.\" What awaits him is an unexpected school life filled with colorful classmates, youthful chaos, and looming danger. Can Juuzou ever return to his original form? Or will the assassins closing in on him end his second life before it even begins!?\n\n(Source: Official site)"
+    },
+    {
+      "id": "tt35636246",
+      "type": "series",
+      "name": "Boku no Hero Academia No. 170+1: More",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204356-RNYmxUVVz3Z2.png",
+      "description": "Genres: Action, School, Shounen, Super Power\nYears after their all-out war with villains and graduation from UA Academy, the former Class 1-A students have each found their calling within society. With the increased Quirk education all around Japan, Ochako Uraraka plays a pivotal part in ensuring the new generation of Quirk users grows up properly. Despite being satisfied with the status quo, Ochako is reminded by the shadow of Himiko Toga of something important she has forgotten in the midst of her work.\n\nMeanwhile, Izuku Midoriya is the happiest he has ever been as a teacher at UA Academy. However, as Midoriya and Ochako take part in a gathering with their former classmates, they both realize what the missing piece in their lives has been.\n\n[Written by MAL Rewrite]"
     },
     {
       "id": "kitsu:50341",
@@ -274,6 +274,13 @@
       "description": "Genres: Historical, Mystery, Mythology, Shounen, Supernatural, Time Travel\nNanoka passes through a portal into the Taisho era, where exorcist Mao reluctantly rescues her from the jaws of a grotesque yokai. When Nanoka gets back to the present, she discovers she has some new, incredible abilities. She returns to the past looking for answers, only to get caught up in Mao's investigation of a series of gruesome murders. As her questions about herself multiply, Nanoka learns that Mao is cursed by a cat demon named Byoki—and so is his sword. If anyone but Mao attempts to wield it, they are doomed. But when Mao's life is in jeopardy, Nanoka picks up his blade and swings!\n\n(Source: VIZ Media)"
     },
     {
+      "id": "kitsu:50171",
+      "type": "series",
+      "name": "Kami no Niwatsuki Kusunoki-tei ",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196029-4ML0UHngkZhn.jpg",
+      "description": "Genres: Adult Cast, Iyashikei, Mythology, Slice of Life, Supernatural\nDeep in the countryside, Minato Kusunoki is left in charge of a terrifying house overflowing with evil spirits—or at least it was, until his extraordinary ability cleared them all out! Instead, a procession of unique and peculiar gods is drawn to the comfort of the purified Kusunoki residence, and Minato spends his days relaxing in the company of his spiritual neighbors. What else lies in store for Minato as he lives peacefully surrounded by gods?\n\n(Source: Yen Press)"
+    },
+    {
       "id": "kitsu:50601",
       "type": "movie",
       "name": "Mahouka Koukou no Rettousei: Yotsuba Keishou-hen",
@@ -282,13 +289,6 @@
         "defaultVideoId": "kitsu:50601"
       },
       "description": "Genres: Action, Fantasy, Romance, School, Sci-Fi, Urban Fantasy\nAn anime movie adapting the Yotsuba Succession Arc."
-    },
-    {
-      "id": "kitsu:50171",
-      "type": "series",
-      "name": "Kami no Niwatsuki Kusunoki-tei ",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196029-4ML0UHngkZhn.jpg",
-      "description": "Genres: Adult Cast, Iyashikei, Mythology, Slice of Life, Supernatural\nDeep in the countryside, Minato Kusunoki is left in charge of a terrifying house overflowing with evil spirits—or at least it was, until his extraordinary ability cleared them all out! Instead, a procession of unique and peculiar gods is drawn to the comfort of the purified Kusunoki residence, and Minato spends his days relaxing in the company of his spiritual neighbors. What else lies in store for Minato as he lives peacefully surrounded by gods?\n\n(Source: Yen Press)"
     },
     {
       "id": "kitsu:50642",
