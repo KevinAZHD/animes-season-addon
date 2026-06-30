@@ -324,13 +324,6 @@
       "description": "Genres: School, Shounen, Sports\nSequel to Shin Tennis no Oujisama: U-17 World Cup Semifinal."
     },
     {
-      "id": "tt39122722",
-      "type": "series",
-      "name": "Keroro Gunsou☆",
-      "poster": "https://cdn.myanimelist.net/images/anime/1096/154574l.jpg",
-      "description": "Genres: Comedy, Parody, Sci-Fi, Shounen\nA new Keroro Gunsou from scratch."
-    },
-    {
       "id": "kitsu:50478",
       "type": "movie",
       "name": "Soukou Kihei Votoms: Haiiro no Hexe",
@@ -339,6 +332,13 @@
         "defaultVideoId": "kitsu:50478"
       },
       "description": "Genres: Drama, Mecha, Military, Sci-Fi, Space\nNew Soukou Kihei Votoms anime, part of the Sunrise 50th Anniversary project."
+    },
+    {
+      "id": "tt39122722",
+      "type": "series",
+      "name": "Keroro Gunsou☆",
+      "poster": "https://cdn.myanimelist.net/images/anime/1096/154574l.jpg",
+      "description": "Genres: Comedy, Parody, Sci-Fi, Shounen\nA new Keroro Gunsou from scratch."
     },
     {
       "id": "tt37419888",
