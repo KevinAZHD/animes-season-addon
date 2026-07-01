@@ -163,18 +163,18 @@
       "description": "Genres: Mecha, Sci-Fi\nSequel to Rakuen Tsuihou."
     },
     {
-      "id": "kitsu:50338",
-      "type": "series",
-      "name": "Mahou Shoujo Ikusei Keikaku: restart",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160803-aBWg5M8qdOMX.jpg",
-      "description": "Genres: Action, Gore, High Stakes Game, Mahou Shoujo, Survival, Suspense\nThe deadly game is back!\n\nOnce again, sixteen Magical Girls have been assembled for a high-stakes challenge. Every three days, their Magical Phone pulls them into an RPG-like simulation where they have to work together to fight enemies, solve puzzles, and earn Magical Candy to advance. A staggering ten billion yen reward awaits them at the end—but only for the players who land the finishing blow. With such a tantalizing prize on the line, it's only a matter of time before the girls turn on each other—and if their hit points drop to zero, a game over will be the least of their worries... \n\n(Source: Mahou Shoujo Ikusei Keikaku Wiki, edited)"
-    },
-    {
       "id": "tt39181351",
       "type": "series",
       "name": "PSYЯEN",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204011-BV7R1PKHAY3M.png",
       "description": "Genres: Action, High Stakes Game, Psychological, Romance, Sci-Fi, Shounen, Strategy Game, Super Power, Supernatural, Suspense\nAgeha Yoshina is a self-confident high school student who helps others for a fee. On his way back from a job, he finds a strange calling card with the word \"Psyren\" imprinted left behind in a phone booth and decides to keep it, unaware of its purpose. The very next day, Ageha discovers that his classmate Sakurako Amamiya has the exact same calling card in her possession. When he questions her, Sakurako asks him to save her, signaling the day his troubles begin.\n\nConfused by the circumstances of this encounter, Ageha realizes something is wrong when Sakurako goes missing. In an attempt to figure out what is happening, he decides to call the number provided on the calling card and is asked a series of questions by a mysterious voice, ending with a final, cryptic question: \"Would you like to go to Psyren?\" Thus begins two teenagers' participation in a game of life or death within a strange world inhabited by monsters called Taboo. Granted the ability to use psychic powers known as PSI, the duo fight to return to the place they call home.\n\n[Written by MAL Rewrite]"
+    },
+    {
+      "id": "kitsu:50338",
+      "type": "series",
+      "name": "Mahou Shoujo Ikusei Keikaku: restart",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160803-aBWg5M8qdOMX.jpg",
+      "description": "Genres: Action, Gore, High Stakes Game, Mahou Shoujo, Survival, Suspense\nThe deadly game is back!\n\nOnce again, sixteen Magical Girls have been assembled for a high-stakes challenge. Every three days, their Magical Phone pulls them into an RPG-like simulation where they have to work together to fight enemies, solve puzzles, and earn Magical Candy to advance. A staggering ten billion yen reward awaits them at the end—but only for the players who land the finishing blow. With such a tantalizing prize on the line, it's only a matter of time before the girls turn on each other—and if their hit points drop to zero, a game over will be the least of their worries... \n\n(Source: Mahou Shoujo Ikusei Keikaku Wiki, edited)"
     },
     {
       "id": "kitsu:49564",
@@ -264,15 +264,8 @@
       "id": "tt38626513",
       "type": "series",
       "name": "Gensou Suikoden",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187316-DlSgopRQjK1Z.jpg",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187316-GUxnlngO2dR2.jpg",
       "description": "Genres: Action, Adventure, Fantasy\nAnime adaptation of the game Gensou Suikoden II."
-    },
-    {
-      "id": "tt36056731",
-      "type": "series",
-      "name": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-xfuf10GUke6L.jpg",
-      "description": "Genres: Action, Fantasy\nLent is part of the up-and-coming party known as the \"Skypiercers,\" and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious...until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!\n\n(Source: Seven Seas Entertainment)"
     },
     {
       "id": "tt41293112",
@@ -280,6 +273,13 @@
       "name": "Sekai Saikyou no Majo, Hajimemashita",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211778-5WtVC7WXFduS.png",
       "description": "Genres: Adventure, Comedy, Fantasy\nWhen Lorna manifests a completely useless ability, she's labeled an embarrassment to her family and kicked out of the house. With no money or food, she's about to hit rock bottom. But then, she figures out how to use her supposedly worthless SSS-Rank skill, \"Internet.\" This cheat-level talent gives her the know-how to gather an unlimited amount of valuable items and easily acquire rare equipment. Armed with godlike knowledge, Lorna's free to do anything she wants! If only she could figure out what \"lmfao\" means...\n\n(Source: Yen Press)"
+    },
+    {
+      "id": "tt36056731",
+      "type": "series",
+      "name": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-xfuf10GUke6L.jpg",
+      "description": "Genres: Action, Fantasy\nLent is part of the up-and-coming party known as the \"Skypiercers,\" and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious...until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!\n\n(Source: Seven Seas Entertainment)"
     },
     {
       "id": "tt36986811",
