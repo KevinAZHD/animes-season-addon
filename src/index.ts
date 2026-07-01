@@ -21,11 +21,15 @@ async function main() {
     const defaultCatalog = await Stremio.createCatalogIfNotExists(`${titleType}/latest_anime_seasons.json`);
     const validSeasons = new Set(manifest.getSeasons());
 
+    const currentSeason = monthToSeason(today.getMonth());
+    const seasonOrder = [Season.WINTER, Season.SPRING, Season.SUMMER, Season.FALL];
+    const currentSeasonIndex = seasonOrder.indexOf(currentSeason);
+
     // Updates catalog metadata files for each registered season in manifest
     for (const season of manifest.getSeasons()) {
-        const [seasonName, seasonYearStr] = season.split(" ");
-        const seasonYear = parseInt(seasonYearStr);
-        const englishSeason = spanishToSeason[seasonName];
+        const englishSeason = spanishToSeason[season];
+        const seasonIndex = seasonOrder.indexOf(englishSeason);
+        const seasonYear = seasonIndex < currentSeasonIndex ? currentYear + 1 : currentYear;
         
         console.log(`Generating catalog for season ${season} ${titleType}`);
         const catalog = await Stremio.createCatalogIfNotExists(`${titleType}/latest_anime_seasons/genre=${season}.json`);
@@ -34,7 +38,7 @@ async function main() {
         catalog.sortByPopularity();
         promises.push(catalog.writeToFile());
 
-        if (season === `${seasonToSpanish[monthToSeason(today.getMonth())]} ${currentYear}`) {
+        if (season === seasonToSpanish[currentSeason]) {
             catalog.getMetas().forEach(meta => defaultCatalog.addMeta(meta));
             defaultCatalog.sortByPopularity();
             promises.push(defaultCatalog.writeToFile());
@@ -55,7 +59,6 @@ async function main() {
     } catch { }
     
     // Updates upcoming next season catalog metadata file
-    const currentSeason = monthToSeason(today.getMonth());
     const [nextSeason, nextSeasonYear] = getNextSeasonAndYear(currentSeason, currentYear);
     console.log(`Generating next season catalog: ${nextSeason} ${nextSeasonYear}`);
     const nextSeasonCatalog = await Stremio.createCatalogIfNotExists(`anime/next_anime_season.json`);

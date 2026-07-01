@@ -313,15 +313,9 @@ export class Manifest implements AbstractManifest {
         const currentMonth = today.getMonth();
         const currentSeason = monthToSeason(currentMonth);
         const sortedSeasons = createSortedSeasonList(currentSeason);
-        const currentYear = today.getFullYear();
-        const seasonOrder = [Season.WINTER, Season.SPRING, Season.SUMMER, Season.FALL];
-        const currentSeasonIndex = seasonOrder.indexOf(currentSeason);
 
         return sortedSeasons.map(season => {
-            const seasonIndex = seasonOrder.indexOf(season);
-            const year = seasonIndex < currentSeasonIndex ? currentYear + 1 : currentYear;
-            const spanishSeason = seasonToSpanish[season];
-            return `${spanishSeason} ${year}`;
+            return seasonToSpanish[season];
         });
     }
 
