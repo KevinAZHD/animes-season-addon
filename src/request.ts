@@ -30,6 +30,7 @@ export class MalOfficial {
             }
         });
         if (!response.ok) {
+            if (response.status === 404) return [];
             throw new Error(`MyAnimeList API error: ${response.status} ${response.statusText}`);
         }
         const json = await response.json();
@@ -73,6 +74,46 @@ export class MalOfficial {
 // Queries AniList for romaji titles and higher-resolution cover images.
 export class AnilistMetadata {
     private url = 'https://graphql.anilist.co';
+
+    // Fetches seasonal anime list from AniList, returns data in MAL-compatible format
+    async fetchSeasonAnime(year: number, season: Season): Promise<any[]> {
+        const query = `query ($season: MediaSeason, $year: Int) {
+            Page(perPage: 50, page: 1) {
+                media(season: $season, seasonYear: $year, type: ANIME, sort: POPULARITY_DESC) {
+                    idMal
+                    title { romaji }
+                    coverImage { extraLarge large medium }
+                    format
+                    popularity
+                    description(asHtml: false)
+                    genres
+                }
+            }
+        }`;
+        const response = await fetch(this.url, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+            body: JSON.stringify({ query, variables: { season: season, year } })
+        });
+        if (!response.ok) return [];
+        const json = await response.json();
+        return (json?.data?.Page?.media || [])
+            .filter((m: any) => m?.idMal)
+            .slice(0, 50)
+            .map((m: any) => ({
+                mal_id: m.idMal,
+                title: m.title?.romaji,
+                type: m.format === "MOVIE" ? "Movie" : "TV",
+                members: m.popularity || 0,
+                synopsis: m.description,
+                genres: (m.genres || []).map((g: string) => ({ name: g })),
+                themes: [],
+                images: {
+                    jpg: { large_image_url: m.coverImage?.extraLarge ?? m.coverImage?.large, image_url: m.coverImage?.medium },
+                    webp: { large_image_url: m.coverImage?.extraLarge ?? m.coverImage?.large }
+                }
+            }));
+    }
 
     async fetchByMalIds(malIds: number[]): Promise<Map<number, { title?: string, poster?: string }>> {
         if (malIds.length === 0) return new Map();

@@ -1,6 +1,8 @@
 import { Season, monthToSeason, getNextSeasonAndYear, spanishToSeason, seasonToSpanish } from "./query";
 import { Stremio } from "./stremio";
 import { Patches } from "./patch";
+import { promises as fs } from "fs";
+import path from "path";
 
 // Core function orchestrating whole catalog updates flow
 async function main() {
@@ -11,8 +13,13 @@ async function main() {
     const patchCtl = new Patches();
     patchCtl.loadCatalogManualFixPatches();
     
+    // Updates manifest first so getSeasons() reflects current seasons
+    console.log(`Updating manifest`);
+    await manifest.update(today);
+
     const titleType = "anime";
     const defaultCatalog = await Stremio.createCatalogIfNotExists(`${titleType}/latest_anime_seasons.json`);
+    const validSeasons = new Set(manifest.getSeasons());
 
     // Updates catalog metadata files for each registered season in manifest
     for (const season of manifest.getSeasons()) {
@@ -33,6 +40,19 @@ async function main() {
             promises.push(defaultCatalog.writeToFile());
         }
     }
+
+    // Removes catalog files for seasons no longer in the manifest
+    const seasonDir = `./catalog/${titleType}/latest_anime_seasons`;
+    try {
+        const files = await fs.readdir(seasonDir);
+        for (const file of files) {
+            const match = file.match(/^genre=(.+)\.json$/);
+            if (match && !validSeasons.has(match[1])) {
+                console.log(`Removing old catalog: ${file}`);
+                await fs.unlink(path.join(seasonDir, file));
+            }
+        }
+    } catch { }
     
     // Updates upcoming next season catalog metadata file
     const currentSeason = monthToSeason(today.getMonth());
@@ -44,8 +64,6 @@ async function main() {
     nextSeasonCatalog.sortByPopularity();
     promises.push(nextSeasonCatalog.writeToFile());
     
-    console.log(`Updating manifest`);
-    await manifest.update(today);
     await Promise.all(promises);
 }
 

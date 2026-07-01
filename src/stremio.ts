@@ -60,9 +60,13 @@ export class Catalog {
     async populateFromMAL(year: number, season: Season) {
         const mal = new MalOfficial();
         console.log(`Fetching official MAL season data: ${season} ${year}`);
-        const results = await mal.fetchSeasonAll(year, season);
+        let results = await mal.fetchSeasonAll(year, season);
         if (!results || results.length === 0) {
-            console.log(`No results from MyAnimeList for ${season} ${year}`);
+            console.log(`No MAL data for ${season} ${year}, trying AniList fallback`);
+            results = await new AnilistMetadata().fetchSeasonAnime(year, season);
+        }
+        if (!results || results.length === 0) {
+            console.log(`No results from any source for ${season} ${year}`);
             return;
         }
 
