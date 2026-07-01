@@ -21,10 +21,10 @@
         {
           "name": "genre",
           "options": [
-            "VERANO 2026",
-            "OTOÑO 2026",
-            "INVIERNO 2027",
-            "PRIMAVERA 2027"
+            "VERANO",
+            "OTOÑO",
+            "INVIERNO",
+            "PRIMAVERA"
           ],
           "isRequired": false
         }
@@ -45,5 +45,5 @@
     "tt",
     "kitsu"
   ],
-  "lastUpdatedAt": "2026-07-01T00:44:47.368Z"
+  "lastUpdatedAt": "2026-07-01T01:14:20.625Z"
 }
