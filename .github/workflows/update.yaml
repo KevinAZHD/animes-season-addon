@@ -2,29 +2,13 @@ name: Node.js CI
 
 on:
   schedule:
-    - cron:  '0 22 * * *'
-    - cron:  '0 23 * * *'
+    - cron:  '0 3 * * *'
   workflow_dispatch:
 
 jobs:
-  check-timezone:
-    runs-on: ubuntu-latest
-    outputs:
-      should_run: ${{ steps.tz.outputs.should_run }}
-    steps:
-      - name: Check if midnight in Madrid
-        id: tz
-        run: |
-          HOUR=$(TZ='Europe/Madrid' date +%H)
-          echo "Current hour in Madrid: $HOUR"
-          echo "should_run=$( [ "$HOUR" = "00" ] && echo true || echo false )" >> $GITHUB_OUTPUT
-
   build:
-    needs: check-timezone
-    if: needs.check-timezone.outputs.should_run == 'true' || github.event_name == 'workflow_dispatch'
+
     runs-on: ubuntu-latest
-    env:
-      TZ: Europe/Madrid
 
     strategy:
       matrix:
