@@ -163,6 +163,13 @@
       "description": "Genres: Mecha, Sci-Fi\nSequel to Rakuen Tsuihou."
     },
     {
+      "id": "tt39123061",
+      "type": "series",
+      "name": "Koori no Jouheki 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-kQXiLbsLBkX4.png",
+      "description": "Genres: Drama, Romance, School\nSecond Season of Koori no Jouheki."
+    },
+    {
       "id": "tt39181351",
       "type": "series",
       "name": "PSYЯEN",
@@ -175,13 +182,6 @@
       "name": "Mahou Shoujo Ikusei Keikaku: restart",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160803-aBWg5M8qdOMX.jpg",
       "description": "Genres: Action, Gore, High Stakes Game, Mahou Shoujo, Survival, Suspense\nThe deadly game is back!\n\nOnce again, sixteen Magical Girls have been assembled for a high-stakes challenge. Every three days, their Magical Phone pulls them into an RPG-like simulation where they have to work together to fight enemies, solve puzzles, and earn Magical Candy to advance. A staggering ten billion yen reward awaits them at the end—but only for the players who land the finishing blow. With such a tantalizing prize on the line, it's only a matter of time before the girls turn on each other—and if their hit points drop to zero, a game over will be the least of their worries... \n\n(Source: Mahou Shoujo Ikusei Keikaku Wiki, edited)"
-    },
-    {
-      "id": "tt39123061",
-      "type": "series",
-      "name": "Koori no Jouheki 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-kQXiLbsLBkX4.png",
-      "description": "Genres: Drama, Romance, School\nSecond Season of Koori no Jouheki."
     },
     {
       "id": "kitsu:49564",
@@ -219,6 +219,13 @@
       "description": "Genres: Comedy, Romance\nKoharu Satou is known to her classmates as the \"unattainable flower\" a cold and distant girl whose refusal to smile keeps everyone at arm's length.\n\nHowever, Souta Oshio accidentally stumbles upon Satou's secret at her family's cafe. It turns out the \"icy Satou-san\" is actually an incredibly shy and clumsy girl who struggles even with something as simple as taking photos of sweets for the cafe's social media.\n\nBonding over their shared love for cameras and desserts, the distance between the two gradually shrinks. This charming romantic comedy follows two socially awkward people as they navigate their feelings in a story that is as sweet as it is endearing.\n\n(Source: MAL News)"
     },
     {
+      "id": "kitsu:49866",
+      "type": "series",
+      "name": "Star Wars: Visions Presents - The Ninth Jedi",
+      "poster": "https://cdn.myanimelist.net/images/anime/1791/158842l.webp",
+      "description": "Genres: Action, Adventure, Military, Sci-Fi, Space\nA spin-off which will expand upon The Ninth Jedi in a longer format."
+    },
+    {
       "id": "tt43509424",
       "type": "series",
       "name": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
@@ -247,18 +254,18 @@
       "description": "Genres: Action, Fantasy, Video Game\nShin Youngwoo (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game \"Satisfy,\" finds a powerful item that earns him a rare legendary class title: \"Pagma's Successor.\" He's now a skilled blacksmith who can forge unique weapons and equip the game's most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for...\n\n(Source: Tapas Media)"
     },
     {
-      "id": "tt40925858",
-      "type": "series",
-      "name": "TANK CHAIR: Sensha Isu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209499-sxqd8SZtWbFm.jpg",
-      "description": "Genres: Action, Gore, Super Power\nShizuka takes on the most dangerous of assassin jobs, but she's not the one doing the killing. Rather, it's her brother, Nagi, a strong assassin who took a bullet to protect his sister, leaving him in a comatose state and having to use a wheelchair. However, Shizuka has figured out the key to waking her brother up: he must be faced with killing intent! Thus begins a violent journey of recovery, battling the most dangerous foes!\n\n(Source: Kodansha USA)"
-    },
-    {
       "id": "kitsu:50170",
       "type": "series",
       "name": "#Zombie Sagashitemasu",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199007-VkhbbXfdugl8.png",
       "description": "Genres: Adventure, Shounen, Survival\nSet in a world where 90% of humanity has contracted and died from a deadly, virulent disease, only to rise again as attacking zombies, thirteen years have passed since the \"Red Day\" of societal collapse. The surviving humans now live away from the big cities, still hoping to reclaim them one day. An entirely new generation, unaware of the pre-Red Day world, is coming into its own.\n\nThe story begins when Aki, who has no memories of the world before its fall, escapes her village with her close friends Haru and Natsuki to search for her missing father. As they venture into the outside world, they find themselves surrounded by zombies on all sides! Along the way, they rescue Yuu and Sakura and take refuge in a home improvement store. They regroup, and now the counterattack begins—!!\n\n(Source: Kadokawa, edited)"
+    },
+    {
+      "id": "tt40925858",
+      "type": "series",
+      "name": "TANK CHAIR: Sensha Isu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209499-sxqd8SZtWbFm.jpg",
+      "description": "Genres: Action, Gore, Super Power\nShizuka takes on the most dangerous of assassin jobs, but she's not the one doing the killing. Rather, it's her brother, Nagi, a strong assassin who took a bullet to protect his sister, leaving him in a comatose state and having to use a wheelchair. However, Shizuka has figured out the key to waking her brother up: he must be faced with killing intent! Thus begins a violent journey of recovery, battling the most dangerous foes!\n\n(Source: Kodansha USA)"
     },
     {
       "id": "tt32524709",
@@ -346,13 +353,6 @@
       "name": "Keroro Gunsou☆",
       "poster": "https://cdn.myanimelist.net/images/anime/1096/154574l.jpg",
       "description": "Genres: Comedy, Parody, Sci-Fi, Shounen\nA new Keroro Gunsou from scratch."
-    },
-    {
-      "id": "tt37419888",
-      "type": "series",
-      "name": "Oji-san wa Kawaii Mono ga Osuki.",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202079-qGySMdTVjRgP.jpg",
-      "description": "Genres: Comedy\nMitsutaka Oji is a 40-year-old, handsome office worker that is admired by his colleagues. Of course, he has a secret he is trying to hide from everyone: he loves cute things. But with his nephew going to his apartment, Mitsutaka's secret is now in danger!\n\n(Source: MU)"
     }
   ]
 }
