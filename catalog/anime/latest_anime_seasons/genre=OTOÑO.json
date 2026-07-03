@@ -268,18 +268,18 @@
       "description": "Genres: Action, Adventure, Fantasy\nAnime adaptation of the game Gensou Suikoden II."
     },
     {
-      "id": "tt36056731",
-      "type": "series",
-      "name": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-xfuf10GUke6L.jpg",
-      "description": "Genres: Action, Fantasy\nLent is part of the up-and-coming party known as the \"Skypiercers,\" and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious...until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!\n\n(Source: Seven Seas Entertainment)"
-    },
-    {
       "id": "tt41293112",
       "type": "series",
       "name": "Sekai Saikyou no Majo, Hajimemashita",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211778-5WtVC7WXFduS.png",
       "description": "Genres: Adventure, Comedy, Fantasy\nWhen Lorna manifests a completely useless ability, she's labeled an embarrassment to her family and kicked out of the house. With no money or food, she's about to hit rock bottom. But then, she figures out how to use her supposedly worthless SSS-Rank skill, \"Internet.\" This cheat-level talent gives her the know-how to gather an unlimited amount of valuable items and easily acquire rare equipment. Armed with godlike knowledge, Lorna's free to do anything she wants! If only she could figure out what \"lmfao\" means...\n\n(Source: Yen Press)"
+    },
+    {
+      "id": "tt36056731",
+      "type": "series",
+      "name": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-xfuf10GUke6L.jpg",
+      "description": "Genres: Action, Fantasy\nLent is part of the up-and-coming party known as the \"Skypiercers,\" and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious...until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!\n\n(Source: Seven Seas Entertainment)"
     },
     {
       "id": "tt36986811",
@@ -337,7 +337,7 @@
       "id": "tt39122722",
       "type": "series",
       "name": "Keroro Gunsou☆",
-      "poster": "https://cdn.myanimelist.net/images/anime/1096/154574l.jpg",
+      "poster": "https://cdn.myanimelist.net/images/anime/1096/154574l.webp",
       "description": "Genres: Comedy, Parody, Sci-Fi, Shounen\nA new Keroro Gunsou from scratch."
     },
     {
@@ -348,11 +348,11 @@
       "description": "Genres: Comedy\nMitsutaka Oji is a 40-year-old, handsome office worker that is admired by his colleagues. Of course, he has a secret he is trying to hide from everyone: he loves cute things. But with his nephew going to his apartment, Mitsutaka's secret is now in danger!\n\n(Source: MU)"
     },
     {
-      "id": "tt39317998",
+      "id": "tt39123061",
       "type": "series",
-      "name": "Kyoufu Collector",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203473-dIUb8kiwnpmo.jpg",
-      "description": "Genres: Horror, Kids, Mystery, Supernatural\nThe internet is full of creepypastas, cryptid sightings, tales of paranormal activity, and unsolved disappearances. These are mostly rumors and pranks fueled by trolls—entertainment. But the unlucky few learn the hard way that some legends are true. Many of these unfortunate souls are doomed, but their luck may change if they cross paths with the boy in the red hood. He roams from town to town and appears wherever strange things occur. Is he a light in the dark? Or living proof that monsters are all too real...?\n\n(Source: Yen Press)"
+      "name": "Koori no Jouheki 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-kQXiLbsLBkX4.png",
+      "description": "Genres: Drama, Romance, School\nSecond Season of Koori no Jouheki."
     }
   ]
 }
