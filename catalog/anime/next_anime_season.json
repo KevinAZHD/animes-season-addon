@@ -177,6 +177,13 @@
       "description": "Genres: Action, Gore, High Stakes Game, Mahou Shoujo, Survival, Suspense\nThe deadly game is back!\n\nOnce again, sixteen Magical Girls have been assembled for a high-stakes challenge. Every three days, their Magical Phone pulls them into an RPG-like simulation where they have to work together to fight enemies, solve puzzles, and earn Magical Candy to advance. A staggering ten billion yen reward awaits them at the end—but only for the players who land the finishing blow. With such a tantalizing prize on the line, it's only a matter of time before the girls turn on each other—and if their hit points drop to zero, a game over will be the least of their worries... \n\n(Source: Mahou Shoujo Ikusei Keikaku Wiki, edited)"
     },
     {
+      "id": "tt39123061",
+      "type": "series",
+      "name": "Koori no Jouheki 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-kQXiLbsLBkX4.png",
+      "description": "Genres: Drama, Romance, School\nSecond Season of Koori no Jouheki."
+    },
+    {
       "id": "kitsu:49564",
       "type": "series",
       "name": "Toaru Anbu no ITEM",
@@ -337,7 +344,7 @@
       "id": "tt39122722",
       "type": "series",
       "name": "Keroro Gunsou☆",
-      "poster": "https://cdn.myanimelist.net/images/anime/1096/154574l.webp",
+      "poster": "https://cdn.myanimelist.net/images/anime/1096/154574l.jpg",
       "description": "Genres: Comedy, Parody, Sci-Fi, Shounen\nA new Keroro Gunsou from scratch."
     },
     {
@@ -346,13 +353,6 @@
       "name": "Oji-san wa Kawaii Mono ga Osuki.",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202079-qGySMdTVjRgP.jpg",
       "description": "Genres: Comedy\nMitsutaka Oji is a 40-year-old, handsome office worker that is admired by his colleagues. Of course, he has a secret he is trying to hide from everyone: he loves cute things. But with his nephew going to his apartment, Mitsutaka's secret is now in danger!\n\n(Source: MU)"
-    },
-    {
-      "id": "tt39123061",
-      "type": "series",
-      "name": "Koori no Jouheki 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-kQXiLbsLBkX4.png",
-      "description": "Genres: Drama, Romance, School\nSecond Season of Koori no Jouheki."
     }
   ]
 }
