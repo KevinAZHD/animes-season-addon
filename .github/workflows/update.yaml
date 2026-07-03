@@ -29,7 +29,7 @@ jobs:
         with:
           add: '["manifest.json","catalog"]'
           author_name: "KevinAZHD"
-          author_email: "kevin.adan.zamora@gmail.com"
+          author_email: "${{ secrets.AUTHOR_EMAIL }}"
           new_branch: main
           message: "Github actions updated anime season data"
           push: "origin main --set-upstream --force"
