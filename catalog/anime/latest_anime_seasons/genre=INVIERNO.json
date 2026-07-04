@@ -29,6 +29,13 @@
       "description": "Genres: Action, Adventure, Fantasy, Shounen\nRemake of One Piece."
     },
     {
+      "id": "kitsu:49744",
+      "type": "series",
+      "name": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188892-KpzXYChwPxyT.jpg",
+      "description": "Genres: Comedy, Love Status Quo, Romance, School, Shounen\nSecond season of Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai."
+    },
+    {
       "id": "kitsu:50599",
       "type": "series",
       "name": "Mairimashita! Iruma-kun: If Episode of Mafia",
@@ -46,7 +53,7 @@
       "id": "tt38797595",
       "type": "series",
       "name": "Akane-banashi 2nd Season",
-      "poster": "https://cdn.myanimelist.net/images/anime/1349/158577l.jpg",
+      "poster": "https://cdn.myanimelist.net/images/anime/1349/158577l.webp",
       "description": "Genres: Drama, Performing Arts, Shounen\nSecond season of Akane-banashi."
     },
     {
