@@ -39,12 +39,12 @@
       "description": "Genres: Love Polygon, Romance, School, Shounen, Sports, Team Sports\nSecond season of Ao no Hako."
     },
     {
-      "id": "tt39555283",
+      "id": "tt39110207",
       "type": "movie",
       "name": "Kusuriya no Hitorigoto: Bouhi no Hihou",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200929-ZnRFJbEqFbgJ.jpg",
       "behaviorHints": {
-        "defaultVideoId": "tt39555283"
+        "defaultVideoId": "tt39110207"
       },
       "description": "Genres: Drama, Historical, Medical, Mystery\nOriginal Kusuriya no Hitorigoto movie."
     },
@@ -122,6 +122,13 @@
       "description": "Genres: Action, Fantasy, Mythology, Shounen\nSequel of Tougen Anki."
     },
     {
+      "id": "tt39123061",
+      "type": "series",
+      "name": "Koori no Jouheki 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-kQXiLbsLBkX4.png",
+      "description": "Genres: Drama, Romance, School\nSecond season of Koori no Jouheki."
+    },
+    {
       "id": "tt39195693",
       "type": "movie",
       "name": "Girls und Panzer: Saishuushou 5",
@@ -139,13 +146,6 @@
       "description": "Genres: Action, Fantasy, School\nSecond season of Hyouken no Majutsushi ga Sekai wo Suberu."
     },
     {
-      "id": "tt39123061",
-      "type": "series",
-      "name": "Koori no Jouheki 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-kQXiLbsLBkX4.png",
-      "description": "Genres: Drama, Romance, School\nSecond season of Koori no Jouheki."
-    },
-    {
       "id": "tt38939893",
       "type": "series",
       "name": "Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu",
@@ -156,8 +156,15 @@
       "id": "kitsu:49008",
       "type": "series",
       "name": "Magic Knight Rayearth (2026)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178868-74PoVpFE9oaO.jpg",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178868-k4udc2gxnMZY.jpg",
       "description": "Genres: Adventure, Fantasy, Isekai, Shoujo\nNew anime project for Magic Knight Rayearth to celebrate the anime's 30th anniversary."
+    },
+    {
+      "id": "kitsu:49877",
+      "type": "series",
+      "name": "Seitokai ni mo Ana wa Aru!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191656-lICYnO8xvlYw.jpg",
+      "description": "Genres: Comedy, School, Shounen\nUme Mizunoe, a first-year student at the prestigious Fujinari Academy, excels in Japanese literature but struggles so badly in science that his chances of advancing are at risk. Hoping to boost his academic record, he joins the student council—only to find himself surrounded by a cast of quirky characters: a charismatic yet secretly shy president, a kind but intimidating treasurer, an adorably cheeky boy, and a tiny, stray-cat-like secretary.\n\nThrown into a whirlwind of chaotic daily life, Ume's school days are about to get a lot more unpredictable—and a lot more lively!\n\n(Source: MAL News)"
     },
     {
       "id": "kitsu:48469",
@@ -219,13 +226,6 @@
       "description": "Genres: Comedy, Romance\nKoharu Satou is known to her classmates as the \"unattainable flower\" a cold and distant girl whose refusal to smile keeps everyone at arm's length.\n\nHowever, Souta Oshio accidentally stumbles upon Satou's secret at her family's cafe. It turns out the \"icy Satou-san\" is actually an incredibly shy and clumsy girl who struggles even with something as simple as taking photos of sweets for the cafe's social media.\n\nBonding over their shared love for cameras and desserts, the distance between the two gradually shrinks. This charming romantic comedy follows two socially awkward people as they navigate their feelings in a story that is as sweet as it is endearing.\n\n(Source: MAL News)"
     },
     {
-      "id": "tt43509424",
-      "type": "series",
-      "name": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b200455-gpDWDkMAEuM7.jpg",
-      "description": "Genres: Isekai, Romance, Shoujo, Villainess\nI was reborn as a villainous daughter in a reverse harem otome game.\n\nAfter being sick with a high fever at the age of 10, Pia Rockwell suddenly remembered her past life as a university student in Japan. But far from going down the villainess route, all this super timid girl wants is to finally use her knowledge from when she was a grad student studying to get her doctorate in paleontology. Her ultimate goal is to become a commoner, excavate fossils, build a museum, and then become a curator.\n\nSo in order to escape the villainess route and avoid being deported by her fiancé during the graduation ball, Pia decides to avoid the upcoming hurt and heartache and asks to break off her engagement to Rufus, the Prime Minister's son.\n\nBut will her cunning fiancé let her go that easily?\n\n(Source: MU)"
-    },
-    {
       "id": "kitsu:50336",
       "type": "series",
       "name": "Shuiro no Kamen",
@@ -233,18 +233,25 @@
       "description": "Genres: Action, Fantasy, Seinen\nThe mask brings calamity. The mask revels in slaughter. The mask has a will of its own... Pelle, a traveling mask merchant, possesses the ability to craft mysterious masks that give its wearers unique powers. In a city shrouded in an eerie atmosphere, he encounters Sonah, a mysterious young girl. As revelations unfold and inner conflicts arise, a young boy takes his first steps forward! Immerse yourself in a thrilling mask battle fantasy!\n\n(Source: Orange Inc.)"
     },
     {
+      "id": "tt43509424",
+      "type": "series",
+      "name": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b200455-gpDWDkMAEuM7.jpg",
+      "description": "Genres: Isekai, Romance, Shoujo, Villainess\nI was reborn as a villainous daughter in a reverse harem otome game.\n\nAfter being sick with a high fever at the age of 10, Pia Rockwell suddenly remembered her past life as a university student in Japan. But far from going down the villainess route, all this super timid girl wants is to finally use her knowledge from when she was a grad student studying to get her doctorate in paleontology. Her ultimate goal is to become a commoner, excavate fossils, build a museum, and then become a curator.\n\nSo in order to escape the villainess route and avoid being deported by her fiancé during the graduation ball, Pia decides to avoid the upcoming hurt and heartache and asks to break off her engagement to Rufus, the Prime Minister's son.\n\nBut will her cunning fiancé let her go that easily?\n\n(Source: MU)"
+    },
+    {
+      "id": "tt39242703",
+      "type": "series",
+      "name": "Temppal: Item no Chikara",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212888-kUNSF4ad60C8.jpg",
+      "description": "Genres: Action, Fantasy, Video Game\nShin Youngwoo (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game \"Satisfy,\" finds a powerful item that earns him a rare legendary class title: \"Pagma's Successor.\" He's now a skilled blacksmith who can forge unique weapons and equip the game's most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for...\n\n(Source: Tapas Media)"
+    },
+    {
       "id": "kitsu:50208",
       "type": "series",
       "name": "Hotel Inhumans 2nd Season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199426-nLcvtPfuWcms.jpg",
       "description": "Genres: Action, Drama, Organized Crime\nSecond season of Hotel Inhumans."
-    },
-    {
-      "id": "tt41583414",
-      "type": "series",
-      "name": "Tempal: Item no Chikara",
-      "poster": "https://cdn.myanimelist.net/images/anime/1605/158864l.jpg",
-      "description": "Genres: Action, Fantasy, Video Game\nShin Youngwoo (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game \"Satisfy,\" finds a powerful item that earns him a rare legendary class title: \"Pagma's Successor.\" He's now a skilled blacksmith who can forge unique weapons and equip the game's most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for...\n\n(Source: Tapas Media)"
     },
     {
       "id": "tt40925858",
@@ -296,6 +303,20 @@
       "description": "Genres: Fantasy, Romance\nSecond season of Kizu darake Seijo yori Houfuku wo Komete."
     },
     {
+      "id": "tt41293112",
+      "type": "series",
+      "name": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205896-BW1GwqXSUyir.jpg",
+      "description": "Genres: Fantasy, Isekai, Romance\nHigh school student and video game-lover Makoto Takatsuki dies in an accident and awakens in another world beside his classmates. However, he gains no cheat-like abilities, so he decides to become a \"Magic Apprentice.\"\n\nThen Noa, a minor goddess, appears before him. After she pleads and begs him, he decides to become her first believer. The weakest boy in the class becomes the strongest alongside the minor goddess in this another world fantasy!\n\n(Source: Overlap, translated)"
+    },
+    {
+      "id": "tt41054228",
+      "type": "series",
+      "name": "Demons' Crest",
+      "poster": "https://cdn.myanimelist.net/images/anime/1551/158889l.jpg",
+      "description": "Genres: Action, Adventure, Fantasy, Survival, Urban Fantasy\nSixth-grader Yuuma Ashihara and his twin sister, Sawa, are playing Actual Magic, a brand-new virtual reality MMORPG, when it suddenly begins fusing with the real world. Amid all the chaos and confusion, it becomes clear that death is lurking around every corner, including when Yuuma runs into his classmate Sumika. Before, she was one of the cutest girls in his class, but she's since undergone a terrible metamorphosis—into one of the game's horrifying monsters! From the author of Sword Art Online and Accel World comes a story beyond VR and AR, where gaming and reality are one and the same...and staying alive is just the beginning!\n\n(Source: Yen Press)"
+    },
+    {
       "id": "kitsu:50261",
       "type": "series",
       "name": "Choujun! Choujou Senpai",
@@ -329,30 +350,6 @@
       "name": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199068-dDadPRy9Nekb.png",
       "description": "Genres: School, Shounen, Sports\nSequel to Shin Tennis no Oujisama: U-17 World Cup Semifinal."
-    },
-    {
-      "id": "tt39122722",
-      "type": "series",
-      "name": "Keroro Gunsou☆",
-      "poster": "https://cdn.myanimelist.net/images/anime/1096/154574l.jpg",
-      "description": "Genres: Comedy, Parody, Sci-Fi, Shounen\nA new Keroro Gunsou from scratch."
-    },
-    {
-      "id": "kitsu:50478",
-      "type": "movie",
-      "name": "Soukou Kihei Votoms: Haiiro no Hexe",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206163-c5DwZdBNCXEO.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "kitsu:50478"
-      },
-      "description": "Genres: Drama, Mecha, Military, Sci-Fi, Space\nNew Soukou Kihei Votoms anime, part of the Sunrise 50th Anniversary project."
-    },
-    {
-      "id": "tt37419888",
-      "type": "series",
-      "name": "Oji-san wa Kawaii Mono ga Osuki.",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202079-qGySMdTVjRgP.jpg",
-      "description": "Genres: Comedy\nMitsutaka Oji is a 40-year-old, handsome office worker that is admired by his colleagues. Of course, he has a secret he is trying to hide from everyone: he loves cute things. But with his nephew going to his apartment, Mitsutaka's secret is now in danger!\n\n(Source: MU)"
     }
   ]
 }
