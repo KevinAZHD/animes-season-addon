@@ -80,6 +80,16 @@
       "description": "Genres: Action, Fantasy, School, Time Travel\nSecond season of Kikansha no Mahou wa Tokubetsu desu.\n"
     },
     {
+      "id": "kitsu:45666",
+      "type": "movie",
+      "name": "Mahoutsukai no Yoru",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143103-yED3c4CaRLXO.png",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:45666"
+      },
+      "description": "Genres: Mystery, Supernatural\nSet near the end of the Showa period in the late 1980s, an old mansion in Misaki Town is rumored to be the home of a witch.\n\nAoko abruptly enters the world of magi after her grandfather suddenly decides to have Aoko become the Aozaki family's successor. Since then, Aoko moves into the Kuonji Mansion and begins to learn magecraft from the young magus Alice Kuonji, the rumored witch of the mansion. After witnessing the two using magecraft, Soujuurou Shizuki is also forced to live with them until a rune to remove his memories is discovered. \n\n(Source: Type-Moon Fandom Wiki)"
+    },
+    {
       "id": "kitsu:49437",
       "type": "series",
       "name": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
@@ -313,7 +323,7 @@
       "id": "tt41054228",
       "type": "series",
       "name": "Demons' Crest",
-      "poster": "https://cdn.myanimelist.net/images/anime/1551/158889l.webp",
+      "poster": "https://cdn.myanimelist.net/images/anime/1551/158889l.jpg",
       "description": "Genres: Action, Adventure, Fantasy, Survival, Urban Fantasy\nSixth-grader Yuuma Ashihara and his twin sister, Sawa, are playing Actual Magic, a brand-new virtual reality MMORPG, when it suddenly begins fusing with the real world. Amid all the chaos and confusion, it becomes clear that death is lurking around every corner, including when Yuuma runs into his classmate Sumika. Before, she was one of the cutest girls in his class, but she's since undergone a terrible metamorphosis—into one of the game's horrifying monsters! From the author of Sword Art Online and Accel World comes a story beyond VR and AR, where gaming and reality are one and the same...and staying alive is just the beginning!\n\n(Source: Yen Press)"
     },
     {
@@ -350,13 +360,6 @@
       "name": "Tetsuryou! meet with Tetsudou Musume",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199594-KyZW6uaMiQWg.jpg",
       "description": "Genres: Adult Cast, CGDCT, Slice of Life\nMisaki, a university student, feeling the weight of everyday life and uncertain about her future, she longs for adventure and something she can be truly passionate about.\n\nAt the start of the new day on campus, members of the Travel Train Club (commonly known as the Tetsuryo Club) invite Misaki to join them, as she steps into the world of railways, Misaki's heart beats with excitement for the journey that awaits her.\n\n(Source: MAL News)"
-    },
-    {
-      "id": "tt35517192",
-      "type": "series",
-      "name": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199068-dDadPRy9Nekb.png",
-      "description": "Genres: School, Shounen, Sports\nSequel to Shin Tennis no Oujisama: U-17 World Cup Semifinal."
     }
   ]
 }
