@@ -8,18 +8,18 @@
       "description": "Genres: Drama, Historical, Medical, Mystery\nIn the aftermath of the Shi Clan's rebellion, things have finally settled down, and Maomao has returned to her old life as a pharmacist in the pleasure district. One day, triggered by a breakfast served at the Verdigris House, Maomao senses an anomaly and begins investigating its true nature. Meanwhile, Jinshi, who has revealed his true identity as the Imperial brother and begun to face his heavy responsibilities, is deeply troubled by the final message left by Loulan: a warning of an impending \"disaster that will strike the nation.\" To make matters worse, rumors of a mysterious shrine maiden who deceives the people begin to spread, casting a dark shadow over the country of Li once again. From the depths of the inner court to the city streets, and across foreign borders—the world grows wider, and the stakes even higher for Maomao and Jinshi.\n\n(Source: Crunchyroll)"
     },
     {
-      "id": "kitsu:46917",
-      "type": "series",
-      "name": "Tensei Shitara Ken Deshita 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159042-jgPJHpMfrSv5.jpg",
-      "description": "Genres: Action, Adventure, Fantasy, Isekai, Reincarnation\nSecond season of Tensei shitara Ken deshita."
-    },
-    {
       "id": "kitsu:50024",
       "type": "series",
       "name": "Black Clover 2nd Season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-BjvWdT5jOcM6.jpg",
       "description": "Genres: Action, Fantasy, Shounen\nSecond season of Black Clover."
+    },
+    {
+      "id": "kitsu:46917",
+      "type": "series",
+      "name": "Tensei Shitara Ken Deshita 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159042-jgPJHpMfrSv5.jpg",
+      "description": "Genres: Action, Adventure, Fantasy, Isekai, Reincarnation\nSecond season of Tensei shitara Ken deshita."
     },
     {
       "id": "kitsu:47017",
@@ -104,13 +104,6 @@
       "description": "Genres: Seinen, Sports, Team Sports\nSecond season of Ao Ashi."
     },
     {
-      "id": "kitsu:48651",
-      "type": "series",
-      "name": "Sasaki to Pii-chan Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176314-dvPRzlyafTTZ.jpg",
-      "description": "Genres: Adventure, Comedy, Fantasy, Isekai\nSecond season of Sasaki to Pii-chan."
-    },
-    {
       "id": "kitsu:50497",
       "type": "series",
       "name": "Dragon Ball Super: Beerus",
@@ -118,18 +111,25 @@
       "description": "Genres: Action, Adventure, Fantasy, Martial Arts, Shounen\nDragon Ball Super: Beerus, a project that was started a few years ago, is the newly ENHANCED edition of the anime Dragon Ball Super. ENHANCED by the latest visual expression, every scene, especially the battle scenes, is even more immersive, providing a more faithful and detailed reproduction of the original work by Akira Toriyama, and it will deliver a quality that is sure to fully satisfy audiences.\n\n(Source: Official website)"
     },
     {
+      "id": "kitsu:48651",
+      "type": "series",
+      "name": "Sasaki to Pii-chan Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176314-dvPRzlyafTTZ.jpg",
+      "description": "Genres: Adventure, Comedy, Fantasy, Isekai\nSecond season of Sasaki to Pii-chan."
+    },
+    {
+      "id": "kitsu:50827",
+      "type": "series",
+      "name": "Koori no Jouheki 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-kQXiLbsLBkX4.png",
+      "description": "Genres: Drama, Romance, School\nSecond season of Koori no Jouheki."
+    },
+    {
       "id": "kitsu:50471",
       "type": "series",
       "name": "Hotaru no Yomeiri",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg",
       "description": "Genres: Historical, Romance\nSatoko, the eldest daughter of the honorable Kirigaya family, has received many marriage proposals from men captivated by her beauty and grace. However, she has turned them all down due to her secret heart defect. Despite her condition, Satoko is still willing to find a husband to ease her beloved father's concerns.\n\nWhile on a stroll, Satoko is kidnapped by a group of mercenaries, one of them being Shinpei Gotou—a legendary assassin tasked with executing her. Satoko tries to bribe Gotou into freeing her, but it proves unsuccessful. Out of options, Satoko makes a desperate gamble: under the pretense of love at first sight, she asks him to marry her.\n\nUnexpectedly, Gotou takes the bait and vows to protect her. As the couple escapes to freedom, Satoko struggles to keep up the ruse and make sense of the mysterious man she has eloped with.\n\n[Written by MAL Rewrite]"
-    },
-    {
-      "id": "tt39123061",
-      "type": "series",
-      "name": "Koori no Jouheki 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-kQXiLbsLBkX4.png",
-      "description": "Genres: Drama, Romance, School\nSecond season of Koori no Jouheki."
     },
     {
       "id": "tt32344704",
@@ -149,7 +149,7 @@
       "description": "Genres: CGDCT, Military, School\nThe fifth film in the six-part Girls & Panzer: Saishuushou film series. "
     },
     {
-      "id": "tt36593026",
+      "id": "kitsu:50723",
       "type": "series",
       "name": "Hyouken no Majutsushi ga Sekai wo Suberu II",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212503-LEd6BaGLBq63.jpg",
@@ -185,6 +185,13 @@
         "defaultVideoId": "kitsu:48469"
       },
       "description": "Genres: Mecha, Sci-Fi\nSequel to Rakuen Tsuihou."
+    },
+    {
+      "id": "kitsu:50823",
+      "type": "series",
+      "name": "Yozakura-san Chi no Daisakusen 2nd Season Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213657-810vFC6SN7xd.png",
+      "description": "Genres: Action, Comedy, Shounen\nPart two of Yozakura-san Chi no Daisakusen 2nd Season."
     },
     {
       "id": "tt39181351",
@@ -264,7 +271,7 @@
       "description": "Genres: Action, Drama, Organized Crime\nSecond season of Hotel Inhumans."
     },
     {
-      "id": "tt31806040",
+      "id": "kitsu:50822",
       "type": "series",
       "name": "Diamond no Ace act II: Second Season Part 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213658-VSoILO1l46B7.png",
@@ -299,7 +306,7 @@
       "description": "Genres: Action, Adventure, Fantasy\nAnime adaptation of the game Gensou Suikoden II."
     },
     {
-      "id": "tt41293112",
+      "id": "kitsu:50697",
       "type": "series",
       "name": "Sekai Saikyou no Majo, Hajimemashita",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211778-5WtVC7WXFduS.png",
@@ -313,7 +320,7 @@
       "description": "Genres: Action, Fantasy\nLent is part of the up-and-coming party known as the \"Skypiercers,\" and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious...until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!\n\n(Source: Seven Seas Entertainment)"
     },
     {
-      "id": "tt36986811",
+      "id": "kitsu:50715",
       "type": "series",
       "name": "Kizu darake Seijo yori Houfuku wo Komete Season2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b212144-9qJMcEdy4Xbo.jpg",
