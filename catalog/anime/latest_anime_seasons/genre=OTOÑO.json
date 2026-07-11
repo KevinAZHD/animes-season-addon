@@ -139,6 +139,13 @@
       "description": "Genres: Action, Fantasy, Mythology, Shounen\nSequel of Tougen Anki."
     },
     {
+      "id": "tt35769369",
+      "type": "series",
+      "name": "Chitose-kun wa Ramune Bin no Naka Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198727-pazIoPmgWAsa.jpg",
+      "description": "Genres: Comedy, Harem, Romance, School\nSecond part of Chitose-kun wa Ramune Bin no Naka."
+    },
+    {
       "id": "tt39195693",
       "type": "movie",
       "name": "Girls und Panzer: Saishuushou 5",
@@ -320,18 +327,18 @@
       "description": "Genres: Action, Fantasy\nLent is part of the up-and-coming party known as the \"Skypiercers,\" and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious...until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!\n\n(Source: Seven Seas Entertainment)"
     },
     {
-      "id": "kitsu:50715",
-      "type": "series",
-      "name": "Kizu darake Seijo yori Houfuku wo Komete Season2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b212144-9qJMcEdy4Xbo.jpg",
-      "description": "Genres: Fantasy, Romance\nSecond season of Kizu darake Seijo yori Houfuku wo Komete."
-    },
-    {
       "id": "tt43650265",
       "type": "series",
       "name": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205896-BW1GwqXSUyir.jpg",
       "description": "Genres: Fantasy, Isekai, Romance\nHigh school student and video game-lover Makoto Takatsuki dies in an accident and awakens in another world beside his classmates. However, he gains no cheat-like abilities, so he decides to become a \"Magic Apprentice.\"\n\nThen Noa, a minor goddess, appears before him. After she pleads and begs him, he decides to become her first believer. The weakest boy in the class becomes the strongest alongside the minor goddess in this another world fantasy!\n\n(Source: Overlap, translated)"
+    },
+    {
+      "id": "kitsu:50715",
+      "type": "series",
+      "name": "Kizu darake Seijo yori Houfuku wo Komete Season2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b212144-9qJMcEdy4Xbo.jpg",
+      "description": "Genres: Fantasy, Romance\nSecond season of Kizu darake Seijo yori Houfuku wo Komete."
     },
     {
       "id": "tt41054228",
@@ -360,13 +367,6 @@
       "name": "Tensei Goblin Dakedo Shitsumon Aru?",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209219-vU7uIlcKmVlW.jpg",
       "description": "Genres: Fantasy, Isekai, Reincarnation, Seinen\nOffice worker Akira Yagami's altruistic nature usually gets him the short end of the stick. When he dies after saving a kid from oncoming traffic...he reincarnates in another world as a goblin?! Normally, goblins only live for seven days, but Akira's newfound powers let him defy the species' normal life span... and are the key to his path to becoming the strongest goblin ever!\n\n(Source: Yen Press)"
-    },
-    {
-      "id": "kitsu:50217",
-      "type": "series",
-      "name": "Tetsuryou! meet with Tetsudou Musume",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199594-KyZW6uaMiQWg.jpg",
-      "description": "Genres: Adult Cast, CGDCT, Slice of Life\nMisaki, a university student, feeling the weight of everyday life and uncertain about her future, she longs for adventure and something she can be truly passionate about.\n\nAt the start of the new day on campus, members of the Travel Train Club (commonly known as the Tetsuryo Club) invite Misaki to join them, as she steps into the world of railways, Misaki's heart beats with excitement for the journey that awaits her.\n\n(Source: MAL News)"
     }
   ]
 }
