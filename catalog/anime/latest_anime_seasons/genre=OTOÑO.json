@@ -49,18 +49,18 @@
       "description": "Genres: Drama, Historical, Medical, Mystery\nOriginal Kusuriya no Hitorigoto movie."
     },
     {
-      "id": "kitsu:46275",
-      "type": "series",
-      "name": "Tantei wa mou, Shindeiru. Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152677-EnZkUV9MTvfy.jpg",
-      "description": "Genres: Comedy, Detective, Mystery, Romance\nSecond season of Tantei wa Mou, Shindeiru."
-    },
-    {
       "id": "kitsu:48960",
       "type": "series",
       "name": "Tokyo Revengers: Santen Sensou-hen",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178083-ORQ5BtwQsTbY.jpg",
       "description": "Genres: Action, Delinquents, Drama, Shounen, Time Travel\nSequel to Tokyo Revengers: Tenjiku-hen."
+    },
+    {
+      "id": "kitsu:46275",
+      "type": "series",
+      "name": "Tantei wa mou, Shindeiru. Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152677-EnZkUV9MTvfy.jpg",
+      "description": "Genres: Comedy, Detective, Mystery, Romance\nSecond season of Tantei wa Mou, Shindeiru."
     },
     {
       "id": "kitsu:50192",
@@ -271,18 +271,18 @@
       "description": "Genres: Action, Fantasy, Video Game\nShin Youngwoo (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game \"Satisfy,\" finds a powerful item that earns him a rare legendary class title: \"Pagma's Successor.\" He's now a skilled blacksmith who can forge unique weapons and equip the game's most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for...\n\n(Source: Tapas Media)"
     },
     {
-      "id": "kitsu:50208",
-      "type": "series",
-      "name": "Hotel Inhumans 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199426-nLcvtPfuWcms.jpg",
-      "description": "Genres: Action, Drama, Organized Crime\nSecond season of Hotel Inhumans."
-    },
-    {
       "id": "kitsu:50822",
       "type": "series",
       "name": "Diamond no Ace act II: Second Season Part 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213658-VSoILO1l46B7.png",
       "description": "Genres: School, Shounen, Sports, Team Sports\nPart two of Diamond no Ace: Act II Second Season."
+    },
+    {
+      "id": "kitsu:50208",
+      "type": "series",
+      "name": "Hotel Inhumans 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199426-nLcvtPfuWcms.jpg",
+      "description": "Genres: Action, Drama, Organized Crime\nSecond season of Hotel Inhumans."
     },
     {
       "id": "tt40925858",
