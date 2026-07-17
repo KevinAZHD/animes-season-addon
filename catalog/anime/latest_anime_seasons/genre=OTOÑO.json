@@ -146,6 +146,13 @@
       "description": "Genres: Comedy, Harem, Romance, School\nSecond part of Chitose-kun wa Ramune Bin no Naka."
     },
     {
+      "id": "kitsu:50723",
+      "type": "series",
+      "name": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212503-LEd6BaGLBq63.jpg",
+      "description": "Genres: Action, Fantasy, School\nSecond season of Hyouken no Majutsushi ga Sekai wo Suberu."
+    },
+    {
       "id": "tt39195693",
       "type": "movie",
       "name": "Girls und Panzer: Saishuushou 5",
@@ -154,13 +161,6 @@
         "defaultVideoId": "tt39195693"
       },
       "description": "Genres: CGDCT, Military, School\nThe fifth film in the six-part Girls & Panzer: Saishuushou film series. "
-    },
-    {
-      "id": "kitsu:50723",
-      "type": "series",
-      "name": "Hyouken no Majutsushi ga Sekai wo Suberu II",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212503-LEd6BaGLBq63.jpg",
-      "description": "Genres: Action, Fantasy, School\nSecond season of Hyouken no Majutsushi ga Sekai wo Suberu."
     },
     {
       "id": "tt38939893",
@@ -257,18 +257,18 @@
       "description": "Genres: Action, Fantasy, Seinen\nThe mask brings calamity. The mask revels in slaughter. The mask has a will of its own... Pelle, a traveling mask merchant, possesses the ability to craft mysterious masks that give its wearers unique powers. In a city shrouded in an eerie atmosphere, he encounters Sonah, a mysterious young girl. As revelations unfold and inner conflicts arise, a young boy takes his first steps forward! Immerse yourself in a thrilling mask battle fantasy!\n\n(Source: Orange Inc.)"
     },
     {
-      "id": "tt43509424",
-      "type": "series",
-      "name": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b200455-gpDWDkMAEuM7.jpg",
-      "description": "Genres: Isekai, Romance, Shoujo, Villainess\nI was reborn as a villainous daughter in a reverse harem otome game.\n\nAfter being sick with a high fever at the age of 10, Pia Rockwell suddenly remembered her past life as a university student in Japan. But far from going down the villainess route, all this super timid girl wants is to finally use her knowledge from when she was a grad student studying to get her doctorate in paleontology. Her ultimate goal is to become a commoner, excavate fossils, build a museum, and then become a curator.\n\nSo in order to escape the villainess route and avoid being deported by her fiancé during the graduation ball, Pia decides to avoid the upcoming hurt and heartache and asks to break off her engagement to Rufus, the Prime Minister's son.\n\nBut will her cunning fiancé let her go that easily?\n\n(Source: MU)"
-    },
-    {
       "id": "tt39242703",
       "type": "series",
       "name": "Temppal: Item no Chikara",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212888-kUNSF4ad60C8.jpg",
       "description": "Genres: Action, Fantasy, Video Game\nShin Youngwoo (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game \"Satisfy,\" finds a powerful item that earns him a rare legendary class title: \"Pagma's Successor.\" He's now a skilled blacksmith who can forge unique weapons and equip the game's most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for...\n\n(Source: Tapas Media)"
+    },
+    {
+      "id": "tt43509424",
+      "type": "series",
+      "name": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b200455-gpDWDkMAEuM7.jpg",
+      "description": "Genres: Isekai, Romance, Shoujo, Villainess\nI was reborn as a villainous daughter in a reverse harem otome game.\n\nAfter being sick with a high fever at the age of 10, Pia Rockwell suddenly remembered her past life as a university student in Japan. But far from going down the villainess route, all this super timid girl wants is to finally use her knowledge from when she was a grad student studying to get her doctorate in paleontology. Her ultimate goal is to become a commoner, excavate fossils, build a museum, and then become a curator.\n\nSo in order to escape the villainess route and avoid being deported by her fiancé during the graduation ball, Pia decides to avoid the upcoming hurt and heartache and asks to break off her engagement to Rufus, the Prime Minister's son.\n\nBut will her cunning fiancé let her go that easily?\n\n(Source: MU)"
     },
     {
       "id": "kitsu:50822",
