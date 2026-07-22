@@ -1,18 +1,18 @@
 {
   "metas": [
     {
-      "id": "kitsu:49778",
-      "type": "series",
-      "name": "Shangri-La Frontier 3rd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189323-U11lWB3KOS5I.jpg",
-      "description": "Genres: Action, Adventure, Fantasy, Shounen, Video Game\nThird season of Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su."
-    },
-    {
       "id": "kitsu:48903",
       "type": "series",
       "name": "MASHLE: Sanma Taisou Shinkakusha Saishuu Shiken-hen",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177704-y10Nw7MUXCHD.jpg",
       "description": "Genres: Action, Comedy, Fantasy, Gag Humor, Parody, School, Shounen\nThird season of Mashle."
+    },
+    {
+      "id": "kitsu:49778",
+      "type": "series",
+      "name": "Shangri-La Frontier 3rd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189323-U11lWB3KOS5I.jpg",
+      "description": "Genres: Action, Adventure, Fantasy, Shounen, Video Game\nThird season of Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su."
     },
     {
       "id": "kitsu:50401",
