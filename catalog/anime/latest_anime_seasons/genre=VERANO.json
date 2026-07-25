@@ -50,6 +50,13 @@
       "description": "Genres: Adult Cast, Comedy, Gag Humor, Seinen\nThird season of Grand Blue."
     },
     {
+      "id": "kitsu:50634",
+      "type": "series",
+      "name": "Seihantai na Kimi to Boku 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg",
+      "description": "Genres: Comedy, Romance, School, Shounen\nSecond season of Seihantai na Kimi to Boku."
+    },
+    {
       "id": "kitsu:44451",
       "type": "movie",
       "name": "Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten",
@@ -58,13 +65,6 @@
         "defaultVideoId": "kitsu:44451"
       },
       "description": "Genres: Drama, Mahou Shoujo, Psychological, Suspense"
-    },
-    {
-      "id": "kitsu:50634",
-      "type": "series",
-      "name": "Seihantai na Kimi to Boku 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg",
-      "description": "Genres: Comedy, Romance, School, Shounen\nSecond season of Seihantai na Kimi to Boku."
     },
     {
       "id": "kitsu:49410",
@@ -95,18 +95,18 @@
       "description": "Genres: Action, Fantasy\nSecond season of Clevatess."
     },
     {
-      "id": "kitsu:49183",
-      "type": "series",
-      "name": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180136-gtMTCRlOD4OE.jpg",
-      "description": "Genres: Action, Adventure, Fantasy, Isekai, Reincarnation\n\"You useless son of mine! You were supposed to pull master swordsman, but I never thought it would be this tragic!\"\n\nThe day a child turns fifteen, they undergo the Ritual of Divine Blessing. Already descended from a line of master swordsman, Elymas was supposed to succeed his father. However, he pulls the defective class, the Heavy Knight, and not only loses his status as future head of the household, but he's also exiled. With their unbalanced stats and seemingly useless skills, Heavy Knights are spoked of as a class for cowards and the lazy. However, Elymas knows the truth. The world he lives in is the same as the one of the game he used to play... It is the Heavy Knight that is the most powerful class of them all. Using memories from his past life, Elymas has set out to effectively conquer this entire world.\n\n(Source: Kodansha USA)"
-    },
-    {
       "id": "tt38939446",
       "type": "series",
       "name": "Nijusseiki Denki Mokuroku: Eureka Evrika",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-IF43hFJPPv2Y.png",
       "description": "Genres: Drama, Historical\nIn an alternate version of the early 20th century where technological progress evolved along a different path shaped by steam power, Kyoto is blanketed in constant smoke.\n\nA boy, hardened by the loss of his brother, grows distrustful after their shared dream of an \"Age of Electricity\" is cut short. A deeply devout girl hides her dreams and regrets for her deceased mother deep within her heart. When the two cross paths, they set about exploring the secrets of the 20th Century Electrical Catalog, a glimpse into the future they long for.\n\nTogether, they must confront their pasts and carve a path toward the future they once believed in.\n\n(Source: Press Release)"
+    },
+    {
+      "id": "kitsu:49183",
+      "type": "series",
+      "name": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180136-gtMTCRlOD4OE.jpg",
+      "description": "Genres: Action, Adventure, Fantasy, Isekai, Reincarnation\n\"You useless son of mine! You were supposed to pull master swordsman, but I never thought it would be this tragic!\"\n\nThe day a child turns fifteen, they undergo the Ritual of Divine Blessing. Already descended from a line of master swordsman, Elymas was supposed to succeed his father. However, he pulls the defective class, the Heavy Knight, and not only loses his status as future head of the household, but he's also exiled. With their unbalanced stats and seemingly useless skills, Heavy Knights are spoked of as a class for cowards and the lazy. However, Elymas knows the truth. The world he lives in is the same as the one of the game he used to play... It is the Heavy Knight that is the most powerful class of them all. Using memories from his past life, Elymas has set out to effectively conquer this entire world.\n\n(Source: Kodansha USA)"
     },
     {
       "id": "kitsu:50272",
@@ -158,18 +158,18 @@
       "description": "Genres: Adventure, Comedy, Historical, Samurai, Shounen\nSecond season of Nige Jouzu no Wakagimi."
     },
     {
-      "id": "kitsu:47988",
-      "type": "series",
-      "name": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-0ZTdBGrKNIbe.jpg",
-      "description": "Genres: Comedy, Romance, School\nI met my childhood friend again, and she had become a beautiful and innocent girl.\n\n\"It's been a while, Hayato.\"\n\"Haruki, is it?\"\n\nIn the past, I used to play in the mud with my childhood friend in the countryside, and when I saw him again, there was no trace of the bratty young man I thought he was back then. Only in front of Hayato, she threw away the coat she was wearing and reacted in the same crass way she did back then. The distance between you and me has not changed.\n\n(Source: Shousetsuka ni Narou, translated)"
-    },
-    {
       "id": "kitsu:49689",
       "type": "series",
       "name": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188139-1qIJfWxym8FX.jpg",
       "description": "Genres: Fantasy, Romance, Villainess\nWithin the Kingdom of Ei's opulent inner court is the thriving Maiden Court, where the empress and the four imperial consorts are chosen from five prominent clans. Among them, one pristine consort-in-training, Reirin Kou, stands out as the perfect candidate for the future empress. Her virtue and elegance are unrivaled, and she is flawless—save for her extremely sickly constitution. Compared to the court's gentle butterfly, the boorish Keigetsu Shu is like a sewer rat. Always staring at Reirin with bitter envy, Keigetsu is a disgrace to the Maiden Court.\n\nDuring the night of a rare comet sighting, Keigetsu's jealousy reaches its peak, and she attempts to murder Reirin by pushing her off a balcony. Reirin is quickly saved from death, and Keigetsu is imprisoned to await her execution. Unbeknownst to all, Keigetsu has cast a spell to swap bodies with Reirin in order to steal all that belongs to her. But while Keigetsu is hindered by Reirin's frail body, Reirin fully embraces freedom and physical strength for the first time in her life, determined to live—no matter whose face she wears.\n\n[Written by MAL Rewrite]"
+    },
+    {
+      "id": "kitsu:47988",
+      "type": "series",
+      "name": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-0ZTdBGrKNIbe.jpg",
+      "description": "Genres: Comedy, Romance, School\nI met my childhood friend again, and she had become a beautiful and innocent girl.\n\n\"It's been a while, Hayato.\"\n\"Haruki, is it?\"\n\nIn the past, I used to play in the mud with my childhood friend in the countryside, and when I saw him again, there was no trace of the bratty young man I thought he was back then. Only in front of Hayato, she threw away the coat she was wearing and reacted in the same crass way she did back then. The distance between you and me has not changed.\n\n(Source: Shousetsuka ni Narou, translated)"
     },
     {
       "id": "kitsu:50761",
@@ -249,6 +249,13 @@
       "description": "Genres: Fantasy, Isekai, Reincarnation\n\"I will become the world's most wonderful maid!\" With her skirt fluttering in black and white, the girl shouted. Her name is Melody. A reincarnated former Japanese girl, she now pursues her dream in her new life, working as an all-purpose maid for a poor count's family in the kingdom of Théolas. When she makes it, even cheap tea turns into a luxury brew, and a dilapidated mansion is quickly restored to new! Cleaning, serving, hunting, DIY—leave it all to her and her powerful magic.\n\nUnbeknownst to Melody, this world is actually an otome game, and she is the most powerful and invincible heroine, the saint! Yet, she remains oblivious to this fact. Romance with handsome men? Attacks by the Demon Lord? Work comes first! A fantasy of misunderstood work that unknowingly shatters destiny!\n\n(Source: Seven Seas Entertainment)"
     },
     {
+      "id": "kitsu:50139",
+      "type": "series",
+      "name": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198409-EiWJXfYnvfu4.png",
+      "description": "Genres: Action, Adventure, Fantasy, Isekai, Reincarnation\nCorporate slave Arihito Atobe's death in a freak bus accident marks the beginning of his new life as a kind of adventurer called a Seeker. Reborn into a fantasy world, he settles into a previously unknown job class called \"rearguard,\" capable of providing his (all-female) party with critical attack, defense, and recovery support. And it comes with an added bonus: Simply being at the back of the party line increases his companions' fondness for him! Freed from the shackles of corporate life, Arihito is eager to start fresh as a newly minted Seeker!\n\n(Source: Yen Press)"
+    },
+    {
       "id": "kitsu:50104",
       "type": "movie",
       "name": "SEKIRO: NO DEFEAT",
@@ -257,13 +264,6 @@
         "defaultVideoId": "kitsu:50104"
       },
       "description": "Genres: Action, Historical, Samurai\nThe time is Sengoku.\n\nJapan is fractured into many independent nations entangled in ceaseless war. At the center lies Ashina, a land of sacred earth and ancient mystery. Two decades after Sword Saint Isshin Ashina reclaimed the region in a brutal coup, a new threat emerges from within: The Interior Ministry. Desperate to protect his homeland, Isshin's grandson Gen'ichirou turns to forbidden powers. The only hope lies in a kidnapped boy—the Divine Heir—and his silent protector: a loyal shinobi known only as Sekiro.\n\nThis is the story of a lord and his retainer—and their quest to restore balance to a nation on the edge.\n\n(Source: Crunchyroll)"
-    },
-    {
-      "id": "kitsu:50139",
-      "type": "series",
-      "name": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198409-EiWJXfYnvfu4.png",
-      "description": "Genres: Action, Adventure, Fantasy, Isekai, Reincarnation\nCorporate slave Arihito Atobe's death in a freak bus accident marks the beginning of his new life as a kind of adventurer called a Seeker. Reborn into a fantasy world, he settles into a previously unknown job class called \"rearguard,\" capable of providing his (all-female) party with critical attack, defense, and recovery support. And it comes with an added bonus: Simply being at the back of the party line increases his companions' fondness for him! Freed from the shackles of corporate life, Arihito is eager to start fresh as a newly minted Seeker!\n\n(Source: Yen Press)"
     },
     {
       "id": "kitsu:50766",
@@ -301,18 +301,18 @@
       "description": "Genres: Fantasy, Romance\nLady Carolina, the overlooked daughter of a powerful duke, has always believed herself to be the black sheep amid her illustrious kin. Her father is the distinguished prime minister; her elder sister, a prodigious mage destined to become their nation's next Saint. In comparison, Carolina resigns herself to a quiet existence in their shadows until a sudden and unexpected royal decree alters her destiny, thrusting her into a political marriage with the formidable \"Bloodthirsty Prince\" of the neighboring Empire of Malcosias. Determined to prove her worth, Carolina takes a bold step into a world fraught with both political and mortal peril. As royal obligations intertwine with hints of true love and the stirrings of her own latent power, Carolina moves ever closer to understanding what it truly means to be exceptional.\n\n(Source: J-Novel Club)"
     },
     {
-      "id": "kitsu:50701",
-      "type": "series",
-      "name": "Boku no Hero Academia: I am a hero too",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211711-Oy6R5cmGHLCL.jpg",
-      "description": "Genres: Action, School, Shounen, Super Power\nAdaptation of the one-shot manga from the 2025 fanbook Boku no Hero Academia: Ultra-Age following high schooler Eri visit to U.A. High School."
-    },
-    {
       "id": "kitsu:50805",
       "type": "series",
       "name": "Tefuda ga Oome no Victoria",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198709-3PFLvU6eqPvf.jpg",
       "description": "Genres: Childcare, Romance\nIn an age when spies act behind the scenes in every land, Chloe spends her days successfully carrying out even the most difficult missions due to her unparalleled disguise skills and martial arts abilities. However, after the betrayal of her boss, she suddenly disappears—as Chloe plans to redo her life as the ordinary citizen Victoria in the neighboring kingdom of Ashberry, striving for a \"normal\" life. However, Victoria's peaceful life is abruptly cut short as she begins to get involved with many people. In this new land, her experiences and abilities from her days as a spy come in far more useful than she ever expected!! On the other hand, the second prince and the pursuer of the organization amongst others take an interest in Victoria's strength, and many shadows close in on the one with all the cards in her hand...!\n\n(Source: Yen Press)"
+    },
+    {
+      "id": "kitsu:50701",
+      "type": "series",
+      "name": "Boku no Hero Academia: I am a hero too",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211711-Oy6R5cmGHLCL.jpg",
+      "description": "Genres: Action, School, Shounen, Super Power\nAdaptation of the one-shot manga from the 2025 fanbook Boku no Hero Academia: Ultra-Age following high schooler Eri visit to U.A. High School."
     },
     {
       "id": "kitsu:50751",
