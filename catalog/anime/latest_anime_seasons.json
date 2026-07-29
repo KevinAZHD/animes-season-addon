@@ -134,12 +134,12 @@
       "type": "series",
       "name": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202269-7KNj8s2fSsJJ.jpg",
-      "description": "Genres: Adult Cast, Drama, Romance\nOn an April night in Tokyo, as the cherry blossoms are in bloom, blind university student Koharu Fuyutsuki spends time with the man she loves, Kakeru Sorano. In the three years since they started dating, he’s shown just how much he cares about her, and even though Koharu can’t see him, she can tell what a wonderful person he is. After all, Kakeru is the man who gave her a future. But just because they were gifted a miracle once, there’s nothing to say it will continue forever. Pain and joy—and all the vibrant hues in between—color their lives like fireworks in the sky.\n\n(Source: Yen Press)"
+      "description": "Genres: Adult Cast, Drama, Romance\nOn an April night in Tokyo, as the cherry blossoms are in bloom, blind university student Koharu Fuyutsuki spends time with the man she loves, Kakeru Sorano. In the three years since they started dating, he's shown just how much he cares about her, and even though Koharu can't see him, she can tell what a wonderful person he is. After all, Kakeru is the man who gave her a future. But just because they were gifted a miracle once, there's nothing to say it will continue forever. Pain and joy—and all the vibrant hues in between—color their lives like fireworks in the sky.\n\n(Source: Yen Press)"
     },
     {
       "id": "kitsu:50411",
       "type": "series",
-      "name": "Otome Kaijuu Caramelise",
+      "name": "Otome Kaijuu Caraméliser",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204466-vXMvIs4VOoQd.png",
       "description": "Genres: Romance, School, Seinen, Supernatural\nKuroe Akaishi is an introverted, quiet, and seemingly normal high school girl. Though accustomed to being alone, her dreary days begin to change when she meets Arata Minami, a bright and handsome boy in her class. Despite his popular status, he is kind enough to reach out to an outcast like her; soon, Kuroe finds her heart begins to pound around him.\n\nIt keeps pounding and pounding and pounding until Kuroe transforms into a monstrous kaijuu! She has a certain affliction: as her embarrassment grows, so do the monstrous appendages from her body; and when it hits a peak, she unleashes the full extent of her transformation.\n\nAt the same time, beauty meets the kaijuu, and Japan faces off against the looming threat of the mysterious monster. Can Minami accept her feelings, or will he too be frightened off by her colossal form? Depending on his decision, the world may experience the full devastation of a girl's heart-pumping, youthful love.\n\n[Written by MAL Rewrite]"
     },
@@ -256,6 +256,13 @@
       "description": "Genres: Fantasy, Isekai, Reincarnation\n\"I will become the world's most wonderful maid!\" With her skirt fluttering in black and white, the girl shouted. Her name is Melody. A reincarnated former Japanese girl, she now pursues her dream in her new life, working as an all-purpose maid for a poor count's family in the kingdom of Théolas. When she makes it, even cheap tea turns into a luxury brew, and a dilapidated mansion is quickly restored to new! Cleaning, serving, hunting, DIY—leave it all to her and her powerful magic.\n\nUnbeknownst to Melody, this world is actually an otome game, and she is the most powerful and invincible heroine, the saint! Yet, she remains oblivious to this fact. Romance with handsome men? Attacks by the Demon Lord? Work comes first! A fantasy of misunderstood work that unknowingly shatters destiny!\n\n(Source: Seven Seas Entertainment)"
     },
     {
+      "id": "kitsu:50766",
+      "type": "series",
+      "name": "Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199408-ocRWG4pRWl8f.png",
+      "description": "Genres: Drama, Fantasy\nElizabeth Leiston, the daughter of Haldoria's powerful prime minister, is the picture of a refined noble lady and the perfect future queen. But when her fiancé publicly humiliates her, calls off their engagement, and starts spreading nasty rumors about her, Elizabeth reaches her breaking point. Why should her only friend be her loyal maid, and why should she continue to serve a country that doesn't respect her? Elizabeth concludes she won't stand it any longer and will bring down the kingdom, even if it's the last thing she does! As such, she uses her quick wit and, more importantly, her seven magic grimoires to embark on a quest for revenge. And let her tell you, there will be hell to pay!\n\n(Source: J-Novel Club)"
+    },
+    {
       "id": "kitsu:50104",
       "type": "movie",
       "name": "SEKIRO: NO DEFEAT",
@@ -264,13 +271,6 @@
         "defaultVideoId": "kitsu:50104"
       },
       "description": "Genres: Action, Historical, Samurai\nThe time is Sengoku.\n\nJapan is fractured into many independent nations entangled in ceaseless war. At the center lies Ashina, a land of sacred earth and ancient mystery. Two decades after Sword Saint Isshin Ashina reclaimed the region in a brutal coup, a new threat emerges from within: The Interior Ministry. Desperate to protect his homeland, Isshin's grandson Gen'ichirou turns to forbidden powers. The only hope lies in a kidnapped boy—the Divine Heir—and his silent protector: a loyal shinobi known only as Sekiro.\n\nThis is the story of a lord and his retainer—and their quest to restore balance to a nation on the edge.\n\n(Source: Crunchyroll)"
-    },
-    {
-      "id": "kitsu:50766",
-      "type": "series",
-      "name": "Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199408-ocRWG4pRWl8f.png",
-      "description": "Genres: Drama, Fantasy\nElizabeth Leiston, the daughter of Haldoria's powerful prime minister, is the picture of a refined noble lady and the perfect future queen. But when her fiancé publicly humiliates her, calls off their engagement, and starts spreading nasty rumors about her, Elizabeth reaches her breaking point. Why should her only friend be her loyal maid, and why should she continue to serve a country that doesn't respect her? Elizabeth concludes she won't stand it any longer and will bring down the kingdom, even if it's the last thing she does! As such, she uses her quick wit and, more importantly, her seven magic grimoires to embark on a quest for revenge. And let her tell you, there will be hell to pay!\n\n(Source: J-Novel Club)"
     },
     {
       "id": "kitsu:50179",
@@ -339,18 +339,18 @@
       "description": "Genres: Romance\nAn arranged marriage. Two complete strangers. One adorable romance! When cheerful noblewoman Elsa is suddenly wed to the reserved duke-to-be Julius, neither expects their political marriage to spark something more. As awkward misunderstandings, sweet gestures, and growing feelings pile up, these newlyweds discover that falling in love might be the easiest—and hardest—part of married life.\n\n(Source: Crunchyroll)"
     },
     {
-      "id": "kitsu:50562",
-      "type": "series",
-      "name": "Sora wa Akai Kawa no Hotori",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207809-cpS7CAyjN7iP.jpg",
-      "description": "Genres: Action, Adventure, Drama, Historical, Romance, Shoujo, Supernatural, Time Travel\nYuri, a pretty Japanese girl, is ecstatic after passing her college entrance exam and having her first kiss with her childhood friend-turned boyfriend. However, her luck soon changes. She starts to notice that water becomes agitated whenever she goes near it. One night, hands appear out of a puddle on the street and drag her into the water! Transported to an ancient village in the Middle East, she is then captured by armed troops and taken to the Queen's palace for a human sacrifice.\n\n(Source: VIZ Media)"
-    },
-    {
       "id": "kitsu:50768",
       "type": "series",
       "name": "Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209504-yRxHWxKuNGtg.jpg",
       "description": "Genres: Fantasy, Gourmet, Isekai, Romance\nRin Takanashi, a caregiver in her thirties, was unceremoniously discarded as \"trash\" despite being summoned as a saint.\n\nHowever, as a lover of the great outdoors and all things camping, she was blessed with a special skill, [Survival], as well as another unique skill! Thus, a riveting tale begins: one of sweat, tears, and insatiable hunger as Rin, together with companions she picked up along the way, leisurely explores this parallel world and savors gourmet cuisine to her heart's content...\n\nOr so the story should have gone, but it looks like their road is going in an unexpected direction...?\n\n(Source: MU)"
+    },
+    {
+      "id": "kitsu:50562",
+      "type": "series",
+      "name": "Sora wa Akai Kawa no Hotori",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207809-cpS7CAyjN7iP.jpg",
+      "description": "Genres: Action, Adventure, Drama, Historical, Romance, Shoujo, Supernatural, Time Travel\nYuri, a pretty Japanese girl, is ecstatic after passing her college entrance exam and having her first kiss with her childhood friend-turned boyfriend. However, her luck soon changes. She starts to notice that water becomes agitated whenever she goes near it. One night, hands appear out of a puddle on the street and drag her into the water! Transported to an ancient village in the Middle East, she is then captured by armed troops and taken to the Queen's palace for a human sacrifice.\n\n(Source: VIZ Media)"
     },
     {
       "id": "kitsu:50055",
