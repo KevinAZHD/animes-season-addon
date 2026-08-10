@@ -163,11 +163,11 @@
       "description": "Genres: CGDCT, Military, School\nThe fifth film in the six-part Girls & Panzer: Saishuushou film series. "
     },
     {
-      "id": "tt38939893",
+      "id": "kitsu:49877",
       "type": "series",
-      "name": "Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187402-qPbg4OZlQXxL.jpg",
-      "description": "Genres: Action, Adventure, Fantasy, Reincarnation\nFia always dreamed of becoming a knight. Born into a family of knights, she's the least talented among them, but she still clutches to her hope and trains with everything she has. When the day comes for her to slay a small demon and prove her worth, she ends up face to face with a dragon instead! A deadly injury makes her life flash before her eyes... and she suddenly remembers her former life, when she was a powerful Saint in a bygone era who defeated the Demon King. That life ended in pain because of who she was, making her fear ever becoming a Saint again. Now that the magic from her previous life has been rekindled, she may become a more powerful knight than she ever dreamed–if only she can survive long enough!\n\n(Source: Seven Seas Entertainment)"
+      "name": "Seitokai ni mo Ana wa Aru!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191656-xFHtxM8SUTdU.png",
+      "description": "Genres: Comedy, School, Shounen\nUme Mizunoe, a first-year student at the prestigious Fujinari Academy, excels in Japanese literature but struggles so badly in science that his chances of advancing are at risk. Hoping to boost his academic record, he joins the student council—only to find himself surrounded by a cast of quirky characters: a charismatic yet secretly shy president, a kind but intimidating treasurer, an adorably cheeky boy, and a tiny, stray-cat-like secretary.\n\nThrown into a whirlwind of chaotic daily life, Ume's school days are about to get a lot more unpredictable—and a lot more lively!\n\n(Source: MAL News)"
     },
     {
       "id": "kitsu:50404",
@@ -177,11 +177,11 @@
       "description": "Genres: Action, Adventure, Fantasy, Isekai\nSecond season of Yasei no Last Boss ga Arawareta!."
     },
     {
-      "id": "kitsu:49877",
+      "id": "tt38939893",
       "type": "series",
-      "name": "Seitokai ni mo Ana wa Aru!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191656-lICYnO8xvlYw.jpg",
-      "description": "Genres: Comedy, School, Shounen\nUme Mizunoe, a first-year student at the prestigious Fujinari Academy, excels in Japanese literature but struggles so badly in science that his chances of advancing are at risk. Hoping to boost his academic record, he joins the student council—only to find himself surrounded by a cast of quirky characters: a charismatic yet secretly shy president, a kind but intimidating treasurer, an adorably cheeky boy, and a tiny, stray-cat-like secretary.\n\nThrown into a whirlwind of chaotic daily life, Ume's school days are about to get a lot more unpredictable—and a lot more lively!\n\n(Source: MAL News)"
+      "name": "Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187402-qPbg4OZlQXxL.jpg",
+      "description": "Genres: Action, Adventure, Fantasy, Reincarnation\nFia always dreamed of becoming a knight. Born into a family of knights, she's the least talented among them, but she still clutches to her hope and trains with everything she has. When the day comes for her to slay a small demon and prove her worth, she ends up face to face with a dragon instead! A deadly injury makes her life flash before her eyes... and she suddenly remembers her former life, when she was a powerful Saint in a bygone era who defeated the Demon King. That life ended in pain because of who she was, making her fear ever becoming a Saint again. Now that the magic from her previous life has been rekindled, she may become a more powerful knight than she ever dreamed–if only she can survive long enough!\n\n(Source: Seven Seas Entertainment)"
     },
     {
       "id": "kitsu:49008",
@@ -355,6 +355,13 @@
       "description": "Genres: Action, Fantasy\nLent is part of the up-and-coming party known as the \"Skypiercers,\" and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious...until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!\n\n(Source: Seven Seas Entertainment)"
     },
     {
+      "id": "kitsu:49196",
+      "type": "series",
+      "name": "Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180894-FC9CSjwZPFMO.png",
+      "description": "Genres: Action, Fantasy, Military\nRising from the ashes, a fallen noblewoman stands to save humanity!\n\nAfter the Demon King's defeat, Countess Romelia's world is shattered when Prince Henri, her fiancé, publicly breaks off their engagement, dismissing her as \"useless\" alongside his new allies: Saint Elizabeth, the sage Ekaterina, and the swordswoman Lu Hime. What they don't realize is that Romelia possesses a secret power called \"Grace,\" which brings her extraordinary luck. Left abandoned and humiliated, Romelia refuses to give up. With her homeland still under siege by the remnants of the demon army and her people enslaved, she embarks on a desperate mission to save them.\n\nFacing overwhelming challenges—no army, no healers, no funds, and only inexperienced recruits—Romelia uses her wit and determination to turn the odds in her favor. She seizes fortresses from local lords to build her forces, negotiates with the church for healing, secures funds from merchants, and has her soldiers gain experience through monster hunting. Against all expectations, Romelia rises from the ashes, leading her loyal followers in a daring campaign to rescue her people and prove her worth.\n\n(Source: MAL News)"
+    },
+    {
       "id": "tt39335288",
       "type": "movie",
       "name": "BanG Dream! Ave Mujica: prima aurora",
@@ -363,13 +370,6 @@
         "defaultVideoId": "tt39335288"
       },
       "description": "Genres: Drama, Music\nMore than half a year has passed since Ave Mujica's comeback, and spring has arrived. The band's popularity continues to grow, while each member's individual activities are also gaining momentum. The next venue Sakiko proposes is a members-only masquerade ball.\n\nWhat lies behind the intentions of the girl who swore to become a god...?\n\n(Source: Official site, translated)"
-    },
-    {
-      "id": "kitsu:49196",
-      "type": "series",
-      "name": "Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180894-FC9CSjwZPFMO.png",
-      "description": "Genres: Action, Fantasy, Military\nRising from the ashes, a fallen noblewoman stands to save humanity!\n\nAfter the Demon King's defeat, Countess Romelia's world is shattered when Prince Henri, her fiancé, publicly breaks off their engagement, dismissing her as \"useless\" alongside his new allies: Saint Elizabeth, the sage Ekaterina, and the swordswoman Lu Hime. What they don't realize is that Romelia possesses a secret power called \"Grace,\" which brings her extraordinary luck. Left abandoned and humiliated, Romelia refuses to give up. With her homeland still under siege by the remnants of the demon army and her people enslaved, she embarks on a desperate mission to save them.\n\nFacing overwhelming challenges—no army, no healers, no funds, and only inexperienced recruits—Romelia uses her wit and determination to turn the odds in her favor. She seizes fortresses from local lords to build her forces, negotiates with the church for healing, secures funds from merchants, and has her soldiers gain experience through monster hunting. Against all expectations, Romelia rises from the ashes, leading her loyal followers in a daring campaign to rescue her people and prove her worth.\n\n(Source: MAL News)"
     }
   ]
 }
