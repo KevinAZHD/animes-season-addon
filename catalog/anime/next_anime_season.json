@@ -198,6 +198,16 @@
       "description": "Genres: Action, Comedy, Shounen\nPart two of Yozakura-san Chi no Daisakusen 2nd Season."
     },
     {
+      "id": "kitsu:50726",
+      "type": "movie",
+      "name": "Takopii no Genzai: Arigatou, Mata Ashita",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212539-mZ3VbIErKBOr.png",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:50726"
+      },
+      "description": "Genres: Drama, Psychological, Sci-Fi, Shounen, Time Travel\nTheatrical compilation of Takopii no Genzai."
+    },
+    {
       "id": "kitsu:50520",
       "type": "series",
       "name": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
@@ -348,13 +358,6 @@
       "description": "Genres: Action, Fantasy, Military\nRising from the ashes, a fallen noblewoman stands to save humanity!\n\nAfter the Demon King's defeat, Countess Romelia's world is shattered when Prince Henri, her fiancé, publicly breaks off their engagement, dismissing her as \"useless\" alongside his new allies: Saint Elizabeth, the sage Ekaterina, and the swordswoman Lu Hime. What they don't realize is that Romelia possesses a secret power called \"Grace,\" which brings her extraordinary luck. Left abandoned and humiliated, Romelia refuses to give up. With her homeland still under siege by the remnants of the demon army and her people enslaved, she embarks on a desperate mission to save them.\n\nFacing overwhelming challenges—no army, no healers, no funds, and only inexperienced recruits—Romelia uses her wit and determination to turn the odds in her favor. She seizes fortresses from local lords to build her forces, negotiates with the church for healing, secures funds from merchants, and has her soldiers gain experience through monster hunting. Against all expectations, Romelia rises from the ashes, leading her loyal followers in a daring campaign to rescue her people and prove her worth.\n\n(Source: MAL News)"
     },
     {
-      "id": "tt38626513",
-      "type": "series",
-      "name": "Gensou Suikoden",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187316-jucYCojVTjSY.jpg",
-      "description": "Genres: Action, Adventure, Fantasy\nOur story's hero and his friend Jowy are members of the Unicorn Youth Brigade, which participated in a drawn-out border dispute between the Highland Kingdom and the City- States of Jowstown. A few months earlier, a truth agreement was signed between the two forces, both of which were happy to see an end to the fighting. However, hidden under the momentary peace the fires of a new war continued to smolder...\n\n(Source: ANN)"
-    },
-    {
       "id": "tt43650419",
       "type": "series",
       "name": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
@@ -362,14 +365,11 @@
       "description": "Genres: Action, Fantasy\nLent is part of the up-and-coming party known as the \"Skypiercers,\" and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious...until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!\n\n(Source: Seven Seas Entertainment)"
     },
     {
-      "id": "tt39335288",
-      "type": "movie",
-      "name": "BanG Dream! Ave Mujica: prima aurora",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197543-UhIhht4Gku8z.png",
-      "behaviorHints": {
-        "defaultVideoId": "tt39335288"
-      },
-      "description": "Genres: Drama, Music\nMore than half a year has passed since Ave Mujica's comeback, and spring has arrived. The band's popularity continues to grow, while each member's individual activities are also gaining momentum. The next venue Sakiko proposes is a members-only masquerade ball.\n\nWhat lies behind the intentions of the girl who swore to become a god...?\n\n(Source: Official site, translated)"
+      "id": "tt38626513",
+      "type": "series",
+      "name": "Gensou Suikoden",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187316-jucYCojVTjSY.jpg",
+      "description": "Genres: Action, Adventure, Fantasy\nOur story's hero and his friend Jowy are members of the Unicorn Youth Brigade, which participated in a drawn-out border dispute between the Highland Kingdom and the City- States of Jowstown. A few months earlier, a truth agreement was signed between the two forces, both of which were happy to see an end to the fighting. However, hidden under the momentary peace the fires of a new war continued to smolder...\n\n(Source: ANN)"
     }
   ]
 }
