@@ -163,18 +163,18 @@
       "description": "Genres: CGDCT, Military, School\nThe fifth film in the six-part Girls & Panzer: Saishuushou film series. "
     },
     {
-      "id": "kitsu:50404",
-      "type": "series",
-      "name": "Yasei no Last Boss ga Arawareta! 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204389-FIncf04hfw3b.jpg",
-      "description": "Genres: Action, Adventure, Fantasy, Isekai\nSecond season of Yasei no Last Boss ga Arawareta!."
-    },
-    {
       "id": "kitsu:49877",
       "type": "series",
       "name": "Seitokai ni mo Ana wa Aru!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191656-xFHtxM8SUTdU.png",
       "description": "Genres: Comedy, School, Shounen\nUme Mizunoe, a first-year student at the prestigious Fujinari Academy, excels in Japanese literature but struggles so badly in science that his chances of advancing are at risk. Hoping to boost his academic record, he joins the student council—only to find himself surrounded by a cast of quirky characters: a charismatic yet secretly shy president, a kind but intimidating treasurer, an adorably cheeky boy, and a tiny, stray-cat-like secretary.\n\nThrown into a whirlwind of chaotic daily life, Ume's school days are about to get a lot more unpredictable—and a lot more lively!\n\n(Source: MAL News)"
+    },
+    {
+      "id": "kitsu:50404",
+      "type": "series",
+      "name": "Yasei no Last Boss ga Arawareta! 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204389-FIncf04hfw3b.jpg",
+      "description": "Genres: Action, Adventure, Fantasy, Isekai\nSecond season of Yasei no Last Boss ga Arawareta!."
     },
     {
       "id": "tt38939893",
@@ -198,6 +198,13 @@
       "description": "Genres: Action, Comedy, Shounen\nPart two of Yozakura-san Chi no Daisakusen 2nd Season."
     },
     {
+      "id": "kitsu:50520",
+      "type": "series",
+      "name": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207191-JVPvPlAJED4S.jpg",
+      "description": "Genres: Fantasy, Josei, Romance\nDeep within the forest, a cozy and rather cluttered cottage sits on the lakeshore, housing a mysterious, feared witch. In truth, she is a lovely young woman named Rose, who has learned the art of potion-making from her wise grandmother. Rose cherishes her tucked-away life, yet there is a longing in her heart—for a handsome knight she once saw, Sir Harij Azm.\n\nFor four years, Rose's feelings for Harij have lingered, but she can never act on them; witches live outside of human affairs and belong to no country or man. So, when Harij suddenly appears on her doorstep looking for a love potion, Rose is both surprised and heartbroken. Although another woman has captured the noble knight's heart, Rose decides to help him. But before crafting the potion, Rose sends Harij on a series of ridiculous quests for each ingredient, hoping to delay the inevitable and savor their fleeting time together.\n\n[Written by MAL Rewrite]"
+    },
+    {
       "id": "kitsu:50726",
       "type": "movie",
       "name": "Takopii no Genzai: Arigatou, Mata Ashita",
@@ -206,13 +213,6 @@
         "defaultVideoId": "kitsu:50726"
       },
       "description": "Genres: Drama, Psychological, Sci-Fi, Shounen, Time Travel\nTheatrical compilation of Takopii no Genzai."
-    },
-    {
-      "id": "kitsu:50520",
-      "type": "series",
-      "name": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207191-JVPvPlAJED4S.jpg",
-      "description": "Genres: Fantasy, Josei, Romance\nDeep within the forest, a cozy and rather cluttered cottage sits on the lakeshore, housing a mysterious, feared witch. In truth, she is a lovely young woman named Rose, who has learned the art of potion-making from her wise grandmother. Rose cherishes her tucked-away life, yet there is a longing in her heart—for a handsome knight she once saw, Sir Harij Azm.\n\nFor four years, Rose's feelings for Harij have lingered, but she can never act on them; witches live outside of human affairs and belong to no country or man. So, when Harij suddenly appears on her doorstep looking for a love potion, Rose is both surprised and heartbroken. Although another woman has captured the noble knight's heart, Rose decides to help him. But before crafting the potion, Rose sends Harij on a series of ridiculous quests for each ingredient, hoping to delay the inevitable and savor their fleeting time together.\n\n[Written by MAL Rewrite]"
     },
     {
       "id": "tt39181351",
@@ -344,18 +344,18 @@
       "description": "Genres: Adventure, Shounen, Survival\nSet in a world where 90% of humanity has contracted and died from a deadly, virulent disease, only to rise again as attacking zombies, thirteen years have passed since the \"Red Day\" of societal collapse. The surviving humans now live away from the big cities, still hoping to reclaim them one day. An entirely new generation, unaware of the pre-Red Day world, is coming into its own.\n\nThe story begins when Aki, who has no memories of the world before its fall, escapes her village with her close friends Haru and Natsuki to search for her missing father. As they venture into the outside world, they find themselves surrounded by zombies on all sides! Along the way, they rescue Yuu and Sakura and take refuge in a home improvement store. They regroup, and now the counterattack begins—!!\n\n(Source: Kadokawa, edited)"
     },
     {
-      "id": "tt43650265",
-      "type": "series",
-      "name": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205896-BW1GwqXSUyir.jpg",
-      "description": "Genres: Fantasy, Isekai, Romance\nHigh school student and video game-lover Makoto Takatsuki dies in an accident and awakens in another world beside his classmates. However, he gains no cheat-like abilities, so he decides to become a \"Magic Apprentice.\"\n\nThen Noa, a minor goddess, appears before him. After she pleads and begs him, he decides to become her first believer. The weakest boy in the class becomes the strongest alongside the minor goddess in this another world fantasy!\n\n(Source: Overlap, translated)"
-    },
-    {
       "id": "kitsu:49196",
       "type": "series",
       "name": "Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180894-FC9CSjwZPFMO.png",
       "description": "Genres: Action, Fantasy, Military\nRising from the ashes, a fallen noblewoman stands to save humanity!\n\nAfter the Demon King's defeat, Countess Romelia's world is shattered when Prince Henri, her fiancé, publicly breaks off their engagement, dismissing her as \"useless\" alongside his new allies: Saint Elizabeth, the sage Ekaterina, and the swordswoman Lu Hime. What they don't realize is that Romelia possesses a secret power called \"Grace,\" which brings her extraordinary luck. Left abandoned and humiliated, Romelia refuses to give up. With her homeland still under siege by the remnants of the demon army and her people enslaved, she embarks on a desperate mission to save them.\n\nFacing overwhelming challenges—no army, no healers, no funds, and only inexperienced recruits—Romelia uses her wit and determination to turn the odds in her favor. She seizes fortresses from local lords to build her forces, negotiates with the church for healing, secures funds from merchants, and has her soldiers gain experience through monster hunting. Against all expectations, Romelia rises from the ashes, leading her loyal followers in a daring campaign to rescue her people and prove her worth.\n\n(Source: MAL News)"
+    },
+    {
+      "id": "tt43650265",
+      "type": "series",
+      "name": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205896-BW1GwqXSUyir.jpg",
+      "description": "Genres: Fantasy, Isekai, Romance\nHigh school student and video game-lover Makoto Takatsuki dies in an accident and awakens in another world beside his classmates. However, he gains no cheat-like abilities, so he decides to become a \"Magic Apprentice.\"\n\nThen Noa, a minor goddess, appears before him. After she pleads and begs him, he decides to become her first believer. The weakest boy in the class becomes the strongest alongside the minor goddess in this another world fantasy!\n\n(Source: Overlap, translated)"
     },
     {
       "id": "tt43650419",
