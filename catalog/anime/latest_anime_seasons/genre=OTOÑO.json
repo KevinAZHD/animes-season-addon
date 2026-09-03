@@ -29,6 +29,13 @@
       "description": "Genres: Action, Adventure, Fantasy, Isekai, Reincarnation\nSecond season of Tensei shitara Ken deshita."
     },
     {
+      "id": "kitsu:49752",
+      "type": "series",
+      "name": "Ao no Hako Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189123-0secXELIhkIW.jpg",
+      "description": "Genres: Love Polygon, Romance, School, Shounen, Sports, Team Sports\nSecond season of Ao no Hako."
+    },
+    {
       "id": "kitsu:47017",
       "type": "movie",
       "name": "Made in Abyss: Mezameru Shinpi",
@@ -37,13 +44,6 @@
         "defaultVideoId": "kitsu:47017"
       },
       "description": "Genres: Adventure, Drama, Fantasy, Gore, Mystery, Sci-Fi\nSequel to Made in Abyss: Retsujitsu no Ougonkyou."
-    },
-    {
-      "id": "kitsu:49752",
-      "type": "series",
-      "name": "Ao no Hako Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189123-0secXELIhkIW.jpg",
-      "description": "Genres: Love Polygon, Romance, School, Shounen, Sports, Team Sports\nSecond season of Ao no Hako."
     },
     {
       "id": "tt39110207",
@@ -128,7 +128,7 @@
       "id": "kitsu:50497",
       "type": "series",
       "name": "Dragon Ball Super: Beerus",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-1NJiXCcdPatd.jpg",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-c32hVKHixDSi.png",
       "description": "Genres: Action, Adventure, Fantasy, Martial Arts, Shounen\nDragon Ball Super: Beerus, a project that was started a few years ago, is the newly ENHANCED edition of the anime Dragon Ball Super. ENHANCED by the latest visual expression, every scene, especially the battle scenes, is even more immersive, providing a more faithful and detailed reproduction of the original work by Akira Toriyama, and it will deliver a quality that is sure to fully satisfy audiences.\n\n(Source: Official website)"
     },
     {
