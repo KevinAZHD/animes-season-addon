@@ -39,7 +39,7 @@
       "id": "kitsu:47017",
       "type": "movie",
       "name": "Made in Abyss: Mezameru Shinpi",
-      "poster": "https://cdn.myanimelist.net/images/anime/1444/156382l.webp",
+      "poster": "https://cdn.myanimelist.net/images/anime/1444/156382l.jpg",
       "behaviorHints": {
         "defaultVideoId": "kitsu:47017"
       },
@@ -66,7 +66,7 @@
       "id": "kitsu:46275",
       "type": "series",
       "name": "Tantei wa Mou, Shindeiru. Season 2",
-      "poster": "https://cdn.myanimelist.net/images/anime/1164/156604l.webp",
+      "poster": "https://cdn.myanimelist.net/images/anime/1164/156604l.jpg",
       "description": "Genres: Comedy, Detective, Mystery, Romance\nSecond season of Tantei wa Mou, Shindeiru."
     },
     {
@@ -170,7 +170,7 @@
       "id": "kitsu:49877",
       "type": "series",
       "name": "Seitokai ni mo Ana wa Aru!",
-      "poster": "https://cdn.myanimelist.net/images/anime/1098/159407l.jpg",
+      "poster": "https://cdn.myanimelist.net/images/anime/1810/159933l.jpg",
       "description": "Genres: Comedy, School, Shounen\nUme Mizunoe, a first-year student at the prestigious Fujinari Academy, excels in Japanese literature but struggles so badly in science that his chances of advancing are at risk. Hoping to boost his academic record, he joins the student council—only to find himself surrounded by a cast of quirky characters: a charismatic yet secretly shy president, a kind but intimidating treasurer, an adorably cheeky boy, and a tiny, stray-cat-like secretary.\n\nThrown into a whirlwind of chaotic daily life, Ume's school days are about to get a lot more unpredictable—and a lot more lively!\n\n(Source: MAL News)"
     },
     {
@@ -264,6 +264,13 @@
       "description": "Genres: Action, Fantasy, Sci-Fi, Super Power, Urban Fantasy\nIn Academy City, where supernatural abilities are part of everyday science, the city's peace is upheld by an unseen force—the dark side. Among the covert operatives is ITEM, a four-member elite unit. With Rikou Takitsubo's tracking abilities, Frenda Seivelun's explosive expertise, Saiai Kinuhata's impenetrable defense, and Shizuri Mugino's overwhelming power as one of Academy City's seven Level 5 espers, they navigate the city's underbelly, taking on secret missions that never make the headlines.\n\nAs their latest assignment unfolds, the team moves with precision, unaware that their actions are setting the stage for a tragedy that will test their bonds of trust, friendship, and survival in the unforgiving darkness of Academy City.\n\n(Source: MAL News)"
     },
     {
+      "id": "tt43691365",
+      "type": "series",
+      "name": "Shiotaiou no Satou-san ga Ore ni dake Amai",
+      "poster": "https://cdn.myanimelist.net/images/anime/1598/158730l.jpg",
+      "description": "Genres: Comedy, Romance\nKoharu Satou is known to her classmates as the \"unattainable flower\" a cold and distant girl whose refusal to smile keeps everyone at arm's length.\n\nHowever, Souta Oshio accidentally stumbles upon Satou's secret at her family's cafe. It turns out the \"icy Satou-san\" is actually an incredibly shy and clumsy girl who struggles even with something as simple as taking photos of sweets for the cafe's social media.\n\nBonding over their shared love for cameras and desserts, the distance between the two gradually shrinks. This charming romantic comedy follows two socially awkward people as they navigate their feelings in a story that is as sweet as it is endearing.\n\n(Source: MAL News)"
+    },
+    {
       "id": "kitsu:48469",
       "type": "movie",
       "name": "Rakuen Tsuihou: Kokoro no Resonance",
@@ -272,13 +279,6 @@
         "defaultVideoId": "kitsu:48469"
       },
       "description": "Genres: Mecha, Sci-Fi\nSequel to Rakuen Tsuihou."
-    },
-    {
-      "id": "tt43691365",
-      "type": "series",
-      "name": "Shiotaiou no Satou-san ga Ore ni dake Amai",
-      "poster": "https://cdn.myanimelist.net/images/anime/1598/158730l.jpg",
-      "description": "Genres: Comedy, Romance\nKoharu Satou is known to her classmates as the \"unattainable flower\" a cold and distant girl whose refusal to smile keeps everyone at arm's length.\n\nHowever, Souta Oshio accidentally stumbles upon Satou's secret at her family's cafe. It turns out the \"icy Satou-san\" is actually an incredibly shy and clumsy girl who struggles even with something as simple as taking photos of sweets for the cafe's social media.\n\nBonding over their shared love for cameras and desserts, the distance between the two gradually shrinks. This charming romantic comedy follows two socially awkward people as they navigate their feelings in a story that is as sweet as it is endearing.\n\n(Source: MAL News)"
     },
     {
       "id": "tt43691353",
@@ -319,7 +319,7 @@
       "id": "kitsu:50822",
       "type": "series",
       "name": "Diamond no Ace: Act II Second Season Part 2",
-      "poster": "https://cdn.myanimelist.net/images/anime/1271/158770l.jpg",
+      "poster": "https://cdn.myanimelist.net/images/anime/1296/159929l.jpg",
       "description": "Genres: School, Shounen, Sports, Team Sports\nPart two of Diamond no Ace: Act II Second Season."
     },
     {
