@@ -11,7 +11,7 @@
       "id": "kitsu:44778",
       "type": "series",
       "name": "Youjo Senki II",
-      "poster": "https://cdn.myanimelist.net/images/anime/1917/158371l.webp",
+      "poster": "https://cdn.myanimelist.net/images/anime/1917/158371l.jpg",
       "description": "Genres: Action, Fantasy, Isekai, Military, Reincarnation\nSecond season of Youjo Senki."
     },
     {
@@ -78,10 +78,10 @@
       "description": "Genres: Action, Adventure, Fantasy, Isekai\nSecond season of Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu."
     },
     {
-      "id": "tt38939446",
+      "id": "kitsu:41923",
       "type": "series",
       "name": "Nijusseiki Denki Mokuroku: Eureka Evrika",
-      "poster": "https://cdn.myanimelist.net/images/anime/1068/158475l.jpg",
+      "poster": "https://cdn.myanimelist.net/images/anime/1068/158475l.webp",
       "description": "Genres: Drama, Historical\nIn an alternate version of the early 20th century where technological progress evolved along a different path shaped by steam power, Kyoto is blanketed in constant smoke.\n\nA boy, hardened by the loss of his brother, grows distrustful after their shared dream of an \"Age of Electricity\" is cut short. A deeply devout girl hides her dreams and regrets for her deceased mother deep within her heart. When the two cross paths, they set about exploring the secrets of the 20th Century Electrical Catalog, a glimpse into the future they long for.\n\nTogether, they must confront their pasts and carve a path toward the future they once believed in.\n\n(Source: Press Release)"
     },
     {
@@ -161,22 +161,15 @@
       "id": "kitsu:47988",
       "type": "series",
       "name": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
-      "poster": "https://cdn.myanimelist.net/images/anime/1352/158564l.jpg",
+      "poster": "https://cdn.myanimelist.net/images/anime/1352/158564l.webp",
       "description": "Genres: Comedy, Romance, School\nI met my childhood friend again, and she had become a beautiful and innocent girl.\n\n\"It's been a while, Hayato.\"\n\"Haruki, is it?\"\n\nIn the past, I used to play in the mud with my childhood friend in the countryside, and when I saw him again, there was no trace of the bratty young man I thought he was back then. Only in front of Hayato, she threw away the coat she was wearing and reacted in the same crass way she did back then. The distance between you and me has not changed.\n\n(Source: Shousetsuka ni Narou, translated)"
     },
     {
       "id": "kitsu:50761",
       "type": "series",
       "name": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
-      "poster": "https://cdn.myanimelist.net/images/anime/1116/157083l.webp",
+      "poster": "https://cdn.myanimelist.net/images/anime/1116/157083l.jpg",
       "description": "Genres: Comedy, Romance, School\nHinako Konohana is the perfect young lady—graceful, elegant, and flawless... or so everyone thinks. Behind closed doors, she's a total disaster who can't handle basic chores! When ordinary student Itsuki Tomonari becomes her caretaker, he's thrown into 24/7 damage control, maintaining her \"perfect\" image. It's awkward, nonstop chaos—but it starts softening into something that feels like love...\n\n(Source: Crunchyroll)"
-    },
-    {
-      "id": "kitsu:49265",
-      "type": "series",
-      "name": "Nige Jouzu no Wakagimi 2nd Season",
-      "poster": "https://cdn.myanimelist.net/images/anime/1289/156329l.jpg",
-      "description": "Genres: Adventure, Comedy, Historical, Samurai, Shounen\nSecond season of Nige Jouzu no Wakagimi."
     },
     {
       "id": "kitsu:50109",
@@ -184,6 +177,13 @@
       "name": "Lv999 no Murabito",
       "poster": "https://cdn.myanimelist.net/images/anime/1366/158400l.jpg",
       "description": "Genres: Fantasy\nIn this world, the concept of levels exist. Other than those who live off defeating monsters, most people are only around level 1 to 5. What's more, not just anyone can go out to hunt monsters; it's heavily influenced by one's role anointed by God. There are eight such eligible roles. Warrior. Fighter. Cleric. Magician. Rogue. Merchant. Hunter. Sorcerer. Those blessed with extraordinary power are divided into three types. Royalty. Heroes. Sages. But for the majority of the population, they have no such powers and live by farming or running shops. Towns are developed by those with the weakest role...villagers.\n\nFor the powerless villagers going out to hunt monsters is equivalent to committing suicide. But one day, a certain two-year-old child given the role of villager notices something.\n\nOnce you defeat a monster... you can earn great wealth."
+    },
+    {
+      "id": "kitsu:49265",
+      "type": "series",
+      "name": "Nige Jouzu no Wakagimi 2nd Season",
+      "poster": "https://cdn.myanimelist.net/images/anime/1289/156329l.jpg",
+      "description": "Genres: Adventure, Comedy, Historical, Samurai, Shounen\nSecond season of Nige Jouzu no Wakagimi."
     },
     {
       "id": "kitsu:50555",
@@ -203,7 +203,7 @@
       "id": "kitsu:50480",
       "type": "series",
       "name": "Dogulwang",
-      "poster": "https://cdn.myanimelist.net/images/anime/1910/158471l.jpg",
+      "poster": "https://cdn.myanimelist.net/images/anime/1910/158471l.webp",
       "description": "Genres: Action, Adventure, Fantasy, Time Travel\nUndercover behind enemy lines, Jooheon's newest plan to torment TKBM will involve taking them down from the inside! Stealing their relics and causing infighting is just the tip of the iceberg on what he'll do to make the group pay for their sins. But with the appearance of the Tower of Pride, Jooheon's skills in rage-baiting will truly be tested as he must pit the most fearsome warlords against each other! Will Jooheon Suh come out on top in the battle of the greatest conquerors of history?\n\n(Source: Yen Press)"
     },
     {
@@ -256,18 +256,18 @@
       "description": "Genres: Drama, Fantasy, Mythology, Romance, Urban Fantasy\n\"You're the bride I've been searching for all this time.\"\n\nA Japanese-style ayakashi Cinderella story! The ayakashi and humans coexist in harmony. The ayakashi, having superior abilities and beautiful appearances, sometimes find their partner among human women, making them their \"bride.\" The bride, in exchange for bringing prosperity, receives absolute love from the ayakashi.\n\nYuzu is constantly compared to her sister, a bride of a demon fox, and is resented by her family every day. One day, when Yuzu just couldn't take things anymore, a man appeared before her on a bridge. This man is the most beautiful man Yuzu has ever seen... and he's calling her his wife?!\n\n\"Just be quiet and let me hold you.\" The most powerful, \"cold-hearted\" ayakashi is pouring his heart out for Yuzu?!\n\n(Source: MangaPlaza, edited)"
     },
     {
-      "id": "tt41279522",
-      "type": "series",
-      "name": "World Is Dancing",
-      "poster": "https://cdn.myanimelist.net/images/anime/1165/158709l.jpg",
-      "description": "Genres: Drama, Historical, Performing Arts, Seinen\nOne does not need dance to live.\n\nIn 1374, during the turbulent age when the Northern and Southern Courts were locked in conflict, the Northern Court's shogun, Ashikaga Yoshimitsu, was becoming an increasingly dominant force.\n\nBorn the son of Kanami, head of the Kanze troupe of sarugaku performers, Oniyasha drifts through his days with a hazy question lodged in his heart: Why do people dance? His spirit remains clouded, until the day he encounters a dance that is truly \"good.\"\n\nCurious, sensitive, and strikingly beautiful, the boy meets people, laughs, cries, confronts his own weaknesses, and slowly begins to shape a new form of dance for a world steeped in impermanence.\n\n(Source: Shochiku)"
-    },
-    {
       "id": "kitsu:49913",
       "type": "series",
       "name": "Heroine? Seijo? Iie, All Works Maid desu (Hokori)!",
       "poster": "https://cdn.myanimelist.net/images/anime/1498/158290l.jpg",
       "description": "Genres: Fantasy, Isekai, Reincarnation\n\"I will become the world's most wonderful maid!\" With her skirt fluttering in black and white, the girl shouted. Her name is Melody. A reincarnated former Japanese girl, she now pursues her dream in her new life, working as an all-purpose maid for a poor count's family in the kingdom of Théolas. When she makes it, even cheap tea turns into a luxury brew, and a dilapidated mansion is quickly restored to new! Cleaning, serving, hunting, DIY—leave it all to her and her powerful magic.\n\nUnbeknownst to Melody, this world is actually an otome game, and she is the most powerful and invincible heroine, the saint! Yet, she remains oblivious to this fact. Romance with handsome men? Attacks by the Demon Lord? Work comes first! A fantasy of misunderstood work that unknowingly shatters destiny!\n\n(Source: Seven Seas Entertainment)"
+    },
+    {
+      "id": "kitsu:50690",
+      "type": "series",
+      "name": "World Is Dancing",
+      "poster": "https://cdn.myanimelist.net/images/anime/1165/158709l.jpg",
+      "description": "Genres: Drama, Historical, Performing Arts, Seinen\nOne does not need dance to live.\n\nIn 1374, during the turbulent age when the Northern and Southern Courts were locked in conflict, the Northern Court's shogun, Ashikaga Yoshimitsu, was becoming an increasingly dominant force.\n\nBorn the son of Kanami, head of the Kanze troupe of sarugaku performers, Oniyasha drifts through his days with a hazy question lodged in his heart: Why do people dance? His spirit remains clouded, until the day he encounters a dance that is truly \"good.\"\n\nCurious, sensitive, and strikingly beautiful, the boy meets people, laughs, cries, confronts his own weaknesses, and slowly begins to shape a new form of dance for a world steeped in impermanence.\n\n(Source: Shochiku)"
     },
     {
       "id": "kitsu:47989",
@@ -336,14 +336,14 @@
       "description": "Genres: Romance\nAn arranged marriage. Two complete strangers. One adorable romance! When cheerful noblewoman Elsa is suddenly wed to the reserved duke-to-be Julius, neither expects their political marriage to spark something more. As awkward misunderstandings, sweet gestures, and growing feelings pile up, these newlyweds discover that falling in love might be the easiest—and hardest—part of married life.\n\n(Source: Crunchyroll)"
     },
     {
-      "id": "tt39246964",
+      "id": "kitsu:50452",
       "type": "series",
       "name": "Kaijuu 8-gou: Narumi no Heijitsu",
       "poster": "https://cdn.myanimelist.net/images/anime/1009/159343l.jpg",
       "description": "Genres: Adult Cast, Sci-Fi, Shounen\nOriginal short anime about Gen Narumi. "
     },
     {
-      "id": "tt43401464",
+      "id": "kitsu:50765",
       "type": "series",
       "name": "The Ribbon Hero",
       "poster": "https://cdn.myanimelist.net/images/anime/1048/158218l.jpg",
