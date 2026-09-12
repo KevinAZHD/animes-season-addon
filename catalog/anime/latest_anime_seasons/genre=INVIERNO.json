@@ -36,13 +36,6 @@
       "description": "Genres: Action, Adventure, Fantasy, Shounen\nRemake of One Piece."
     },
     {
-      "id": "kitsu:49744",
-      "type": "series",
-      "name": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai Season 2",
-      "poster": "https://cdn.myanimelist.net/images/anime/1953/158845l.jpg",
-      "description": "Genres: Comedy, Love Status Quo, Romance, School, Shounen\nSecond season of Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai."
-    },
-    {
       "id": "kitsu:50825",
       "type": "series",
       "name": "Marriagetoxin 2nd Season",
@@ -50,17 +43,24 @@
       "description": "Genres: Action, Adult Cast, Comedy, Shounen\nSecond season of Marriagetoxin."
     },
     {
+      "id": "kitsu:49744",
+      "type": "series",
+      "name": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai Season 2",
+      "poster": "https://cdn.myanimelist.net/images/anime/1953/158845l.jpg",
+      "description": "Genres: Comedy, Love Status Quo, Romance, School, Shounen\nSecond season of Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai."
+    },
+    {
       "id": "kitsu:50599",
       "type": "series",
       "name": "Mairimashita! Iruma-kun: If Episode of Mafia",
-      "poster": "https://cdn.myanimelist.net/images/anime/1214/155284l.jpg",
+      "poster": "https://cdn.myanimelist.net/images/anime/1214/155284l.webp",
       "description": "Genres: Fantasy, Organized Crime, Shounen\nIn this brand-new spinoff of the runaway hit series, Iruma is a dirt-poor but unfailingly cheerful young boy who grows up in a ruthless city slum. One day, Iruma gives an injured old man his last loaf of bread and nurses the stranger back to health—only to find out that the elder gent is none other than Don Sullivan, head of the Babyl Mafia! Soon after, Don Sullivan comes back, whisks Iruma away, and begs the boy to become his grandson. And just like that, Iruma begins his new life as the next in line to lead a gigantic gang of—dare we say—demonic mafiosos!\n\n(Source: Kodansha USA)"
     },
     {
       "id": "kitsu:50482",
       "type": "movie",
       "name": "Medalist Movie",
-      "poster": "https://cdn.myanimelist.net/images/anime/1992/159780l.webp",
+      "poster": "https://cdn.myanimelist.net/images/anime/1992/159780l.jpg",
       "behaviorHints": {
         "defaultVideoId": "kitsu:50482"
       },
@@ -91,7 +91,7 @@
       "id": "kitsu:50449",
       "type": "series",
       "name": "Historie",
-      "poster": "https://cdn.myanimelist.net/images/anime/1234/158210l.jpg",
+      "poster": "https://cdn.myanimelist.net/images/anime/1234/158210l.webp",
       "description": "Genres: Action, Adventure, Historical, Seinen\nAlexander the Great is a name known around the world as belonging to one of the greatest military commanders in history. But due to the grandeur of his name and enormity of his achievements, his right-hand man Eumenes remains a lesser-known historical figure. Eumenes led a turbulent life, overcoming numerous struggles and traveling great distances to meet and befriend many of the most influential names of his time.\n\nOne does not become the right hand of Alexander the Great by mere birth. Eumenes fought for his position with fierce talent, intellect, and confidence. This is his story.\n\n[Written by MAL Rewrite]"
     },
     {
@@ -126,7 +126,7 @@
       "id": "kitsu:50644",
       "type": "series",
       "name": "Love Live! Hasunosora Jogakuin School Idol Club",
-      "poster": "https://cdn.myanimelist.net/images/anime/1368/156418l.jpg",
+      "poster": "https://cdn.myanimelist.net/images/anime/1368/156418l.webp",
       "description": "Genres: Idols (Female), Music, School\nA TV anime for Love Live! Hasunosora Jogakuin School Idol Club."
     },
     {
@@ -140,7 +140,7 @@
       "id": "tt42027051",
       "type": "series",
       "name": "Matsurika Kanriden",
-      "poster": "https://cdn.myanimelist.net/images/anime/1327/155810l.jpg",
+      "poster": "https://cdn.myanimelist.net/images/anime/1327/155810l.webp",
       "description": "Genres: Drama, Fantasy, Historical, Romance, Shoujo\nMatsurika, a lady-in-waiting in the imperial palace, has a special talent—an excellent memory. One day, she is asked to act as a practice partner for a nobleman's arranged meeting, only to discover that her partner is none other than Emperor Hakuyou himself, who wished to try a matchmaking meeting. Impressed by her skill, the emperor unexpectedly tells her to \"go pass the imperial examination first.\" Thus begins the tale of a girl singled out by the emperor in this Chinese-style Cinderella story.\n\n(Source: MAL News)"
     },
     {
@@ -175,7 +175,7 @@
       "id": "kitsu:50605",
       "type": "series",
       "name": "Isekai Tensei Soudouki",
-      "poster": "https://cdn.myanimelist.net/images/anime/1626/159366l.jpg",
+      "poster": "https://cdn.myanimelist.net/images/anime/1626/159366l.webp",
       "description": "Genres: Action, Fantasy, Isekai, Reincarnation\nBard Cornelius: the son of a nobleman of Mauricia, an empire located in a parallel universe. But Bard is no ordinary boy—he's got three souls packed into one body! Aside from his own consciousness, he's got Oka Sanai, a miserly samurai, and Masaharu Oka, a high school otaku who loves animal ears. With his extra knowledge of military tactics and business acumen, Bard's ready to cheat his way to the top! Get ready to enjoy the manga version of this hit isekai light novel series!\n\n(Source: One Peace Books)"
     },
     {
@@ -200,6 +200,13 @@
       "description": "Genres: Action, Fantasy, Isekai, Reincarnation\nAfter finding himself reincarnated as the protagonist of the god-tier game \"Dungeon Job Hunting Recommendation\", aka \"DanKatsu\", Zephyrus is far from intimidated. Instead, he's absolutely thrilled! As a seasoned gamer who knows every nook and cranny of this world, he now has the chance to live within a massive system featuring an unprecedented 1,021 playable classes and over 400 different endings.\n\nArmed with an encyclopedic knowledge of the game's mechanics, Zephyrus wastes no time enrolling in the Labyrinth Academy, the central stage where the real adventure begins. He has his sights set on a single goal: securing the fabled \"Hero\" class. Alongside his childhood friend, whom he guides toward the Alchemist path, Zephyrus is ready to sweep up rare loot and power-level at a breakneck pace!\n\n(Source: MAL News)"
     },
     {
+      "id": "tt41296506",
+      "type": "series",
+      "name": "Shishite Ikiru SSS-kyuu Hunter",
+      "poster": "https://cdn.myanimelist.net/images/anime/1593/159958l.jpg",
+      "description": "Genres: Action, Adventure, Fantasy, Time Travel\nAfter the Tower suddenly appeared, individuals who wished to pursue their personal values began to inhabit it, coming to be called \"hunters.\" Everyone had their own goals, but only a chosen few were acknowledged and given powerful skills by the mysterious structure. Kim Gong-Ja, a weak F-Class hunter without any skills, is envious of those who were blessed by the Tower. Letting his jealousy overcome him one day, Gong-Ja abruptly receives a S-Class skill that allows him to copy a skill from someone else—after they kill him.\n\nSooner than he likes, Gong-Ja gets to test his newly acquired ability on the legendary hunter known as the Flame Emperor. As he is dying, Gong-Ja learns the evil truth about the man he once admired the most. Receiving another potent skill that allows him to revive and go back in time by 24 hours, Gong-Ja devises a plan to travel 11 years into the past to eliminate the Flame Emperor and cement himself as the world's best hunter.\n\n[Written by MAL Rewrite]"
+    },
+    {
       "id": "tt43691483",
       "type": "series",
       "name": "Yuukyuu no Gusha Asley no, Kenja no Susume",
@@ -212,13 +219,6 @@
       "name": "Everyday Host (Zoku-hen)",
       "poster": "https://cdn.myanimelist.net/images/anime/1584/153912l.jpg",
       "description": "Genres: Adult Cast, Comedy, Gag Humor, Workplace\nSequel to Everyday Host."
-    },
-    {
-      "id": "tt41296506",
-      "type": "series",
-      "name": "Shishite Ikiru SSS-kyuu Hunter",
-      "poster": "https://cdn.myanimelist.net/images/anime/1593/159958l.jpg",
-      "description": "Genres: Action, Adventure, Fantasy, Time Travel\nAfter the Tower suddenly appeared, individuals who wished to pursue their personal values began to inhabit it, coming to be called \"hunters.\" Everyone had their own goals, but only a chosen few were acknowledged and given powerful skills by the mysterious structure. Kim Gong-Ja, a weak F-Class hunter without any skills, is envious of those who were blessed by the Tower. Letting his jealousy overcome him one day, Gong-Ja abruptly receives a S-Class skill that allows him to copy a skill from someone else—after they kill him.\n\nSooner than he likes, Gong-Ja gets to test his newly acquired ability on the legendary hunter known as the Flame Emperor. As he is dying, Gong-Ja learns the evil truth about the man he once admired the most. Receiving another potent skill that allows him to revive and go back in time by 24 hours, Gong-Ja devises a plan to travel 11 years into the past to eliminate the Flame Emperor and cement himself as the world's best hunter.\n\n[Written by MAL Rewrite]"
     }
   ]
 }
