@@ -184,7 +184,7 @@
       "id": "kitsu:50404",
       "type": "series",
       "name": "Yasei no Last Boss ga Arawareta! 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204389-D4xCoRpeZXoj.png",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204389-jCoFCeTthDMy.jpg",
       "description": "Genres: Action, Adventure, Fantasy, Isekai\nSecond season of Yasei no Last Boss ga Arawareta!."
     },
     {
@@ -292,16 +292,6 @@
       "description": "Genres: Isekai, Romance, Shoujo, Villainess\nI was reborn as a villainous daughter in a reverse harem otome game.\n\nAfter being sick with a high fever at the age of 10, Pia Rockwell suddenly remembered her past life as a university student in Japan. But far from going down the villainess route, all this super timid girl wants is to finally use her knowledge from when she was a grad student studying to get her doctorate in paleontology. Her ultimate goal is to become a commoner, excavate fossils, build a museum, and then become a curator.\n\nSo in order to escape the villainess route and avoid being deported by her fiancé during the graduation ball, Pia decides to avoid the upcoming hurt and heartache and asks to break off her engagement to Rufus, the Prime Minister's son.\n\nBut will her cunning fiancé let her go that easily?\n\n(Source: MU)"
     },
     {
-      "id": "kitsu:48469",
-      "type": "movie",
-      "name": "Rakuen Tsuihou: Kokoro no Resonance",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157330-Ow09pWu8lqCT.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "kitsu:48469"
-      },
-      "description": "Genres: Mecha, Sci-Fi\nSequel to Rakuen Tsuihou."
-    },
-    {
       "id": "tt43119470",
       "type": "series",
       "name": "FX Senshi Kurumi-chan",
@@ -314,6 +304,16 @@
       "name": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png",
       "description": "Genres: Action, Adventure, Fantasy\nRein, an enchanter who strengthens equipment with his magic, is suddenly expelled from his guild, simply because every piece of gear in the guild has already been enhanced enough. Outraged by the absurd treatment, Rein decides to take back the enormous amount of mana he had poured into their equipment. When he casually channels it into a random copper sword, it transforms into a cheat-level weapon with 10,000 enhancement points!\n\nWith zero combat experience but armed with magic that can turn anything into overpowered gear, this enchanter sets off to enjoy a new, carefree life as an adventurer!\n\n(Source: Shochiku)"
+    },
+    {
+      "id": "kitsu:48469",
+      "type": "movie",
+      "name": "Rakuen Tsuihou: Kokoro no Resonance",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157330-Ow09pWu8lqCT.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:48469"
+      },
+      "description": "Genres: Mecha, Sci-Fi\nSequel to Rakuen Tsuihou."
     },
     {
       "id": "kitsu:49196",
@@ -351,13 +351,6 @@
       "description": "Genres: Action, Fantasy\nLent is part of the up-and-coming party known as the \"Skypiercers,\" and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious...until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!\n\n(Source: Seven Seas Entertainment)"
     },
     {
-      "id": "kitsu:50822",
-      "type": "series",
-      "name": "Diamond no Ace act II: Second Season Part 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213658-D3BPJaqawLxS.png",
-      "description": "Genres: School, Shounen, Sports, Team Sports\nPart two of Diamond no Ace: Act II Second Season."
-    },
-    {
       "id": "kitsu:50640",
       "type": "series",
       "name": "TANK CHAIR: Sensha Isu",
@@ -365,11 +358,18 @@
       "description": "Genres: Action, Gore, Super Power\nShizuka takes on the most dangerous of assassin jobs, but she's not the one doing the killing. Rather, it's her brother, Nagi, a strong assassin who took a bullet to protect his sister, leaving him in a comatose state and having to use a wheelchair. However, Shizuka has figured out the key to waking her brother up: he must be faced with killing intent! Thus begins a violent journey of recovery, battling the most dangerous foes!\n\n(Source: Kodansha USA)"
     },
     {
-      "id": "tt39375564",
+      "id": "kitsu:50822",
       "type": "series",
-      "name": "Da Wang Rao Ming 3",
-      "poster": "https://cdn.myanimelist.net/images/anime/1298/158623l.jpg",
-      "description": "Genres: Action, Adventure, Comedy, Fantasy\nThe Great Demon King Lü Shu returns from the ruins of Qingzhou and goes to the capital to report on his duties. A new overseas adventure awaits him. Together with the Tian Luo Di Wang organization, Lü Shu travels to Thailand and Japan to begin a new cultivation journey.\n\n(Source: Tencent, translated)"
+      "name": "Diamond no Ace act II: Second Season Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213658-D3BPJaqawLxS.png",
+      "description": "Genres: School, Shounen, Sports, Team Sports\nPart two of Diamond no Ace: Act II Second Season."
+    },
+    {
+      "id": "kitsu:50607",
+      "type": "series",
+      "name": "Tensei Goblin Dakedo Shitsumon Aru?",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209219-3yhKlRx0LX3p.jpg",
+      "description": "Genres: Fantasy, Isekai, Reincarnation, Seinen\nOffice worker Akira Yagami's altruistic nature usually gets him the short end of the stick. When he dies after saving a kid from oncoming traffic...he reincarnates in another world as a goblin?! Normally, goblins only live for seven days, but Akira's newfound powers let him defy the species' normal life span... and are the key to his path to becoming the strongest goblin ever!\n\n(Source: Yen Press)"
     }
   ]
 }
