@@ -18,7 +18,7 @@
       "id": "kitsu:50024",
       "type": "series",
       "name": "Black Clover 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-8xUI10lVVhPY.jpg",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-tSZcfKbVqSEG.jpg",
       "description": "Genres: Action, Fantasy, Shounen\nSecond season of Black Clover."
     },
     {
@@ -132,13 +132,6 @@
       "description": "Genres: Action, Adventure, Fantasy, Martial Arts, Shounen\nDragon Ball Super: Beerus, a project that was started a few years ago, is the newly ENHANCED edition of the anime Dragon Ball Super. ENHANCED by the latest visual expression, every scene, especially the battle scenes, is even more immersive, providing a more faithful and detailed reproduction of the original work by Akira Toriyama, and it will deliver a quality that is sure to fully satisfy audiences.\n\n(Source: Official website)"
     },
     {
-      "id": "kitsu:48651",
-      "type": "series",
-      "name": "Sasaki to Pii-chan Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176314-lpvca6vjmkeO.jpg",
-      "description": "Genres: Adventure, Comedy, Fantasy, Isekai\nSecond season of Sasaki to Pii-chan."
-    },
-    {
       "id": "kitsu:49877",
       "type": "series",
       "name": "Seitokai ni mo Ana wa Aru!",
@@ -146,11 +139,11 @@
       "description": "Genres: Comedy, School, Shounen\nUme Mizunoe, a first-year student at the prestigious Fujinari Academy, excels in Japanese literature but struggles so badly in science that his chances of advancing are at risk. Hoping to boost his academic record, he joins the student council—only to find himself surrounded by a cast of quirky characters: a charismatic yet secretly shy president, a kind but intimidating treasurer, an adorably cheeky boy, and a tiny, stray-cat-like secretary.\n\nThrown into a whirlwind of chaotic daily life, Ume's school days are about to get a lot more unpredictable—and a lot more lively!\n\n(Source: MAL News)"
     },
     {
-      "id": "tt32344704",
+      "id": "kitsu:48651",
       "type": "series",
-      "name": "Tougen Anki: Nikko・Kegon no Taki-hen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204650-nvK5CuG60WGY.jpg",
-      "description": "Genres: Action, Fantasy, Mythology, Shounen\nSequel of Tougen Anki."
+      "name": "Sasaki to Pii-chan Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176314-lpvca6vjmkeO.jpg",
+      "description": "Genres: Adventure, Comedy, Fantasy, Isekai\nSecond season of Sasaki to Pii-chan."
     },
     {
       "id": "kitsu:50404",
@@ -160,11 +153,11 @@
       "description": "Genres: Action, Adventure, Fantasy, Isekai\nSecond season of Yasei no Last Boss ga Arawareta!."
     },
     {
-      "id": "tt35769369",
+      "id": "tt32344704",
       "type": "series",
-      "name": "Chitose-kun wa Ramune Bin no Naka Part 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198727-BL0JTpg0G8tq.jpg",
-      "description": "Genres: Comedy, Harem, Romance, School\nSecond part of Chitose-kun wa Ramune Bin no Naka."
+      "name": "Tougen Anki: Nikko・Kegon no Taki-hen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204650-nvK5CuG60WGY.jpg",
+      "description": "Genres: Action, Fantasy, Mythology, Shounen\nSequel of Tougen Anki."
     },
     {
       "id": "kitsu:50520",
@@ -172,6 +165,13 @@
       "name": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207191-MV0uJNxN7LNY.jpg",
       "description": "Genres: Fantasy, Josei, Romance\nDeep within the forest, a cozy and rather cluttered cottage sits on the lakeshore, housing a mysterious, feared witch. In truth, she is a lovely young woman named Rose, who has learned the art of potion-making from her wise grandmother. Rose cherishes her tucked-away life, yet there is a longing in her heart—for a handsome knight she once saw, Sir Harij Azm.\n\nFor four years, Rose's feelings for Harij have lingered, but she can never act on them; witches live outside of human affairs and belong to no country or man. So, when Harij suddenly appears on her doorstep looking for a love potion, Rose is both surprised and heartbroken. Although another woman has captured the noble knight's heart, Rose decides to help him. But before crafting the potion, Rose sends Harij on a series of ridiculous quests for each ingredient, hoping to delay the inevitable and savor their fleeting time together.\n\n[Written by MAL Rewrite]"
+    },
+    {
+      "id": "tt35769369",
+      "type": "series",
+      "name": "Chitose-kun wa Ramune Bin no Naka Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198727-BL0JTpg0G8tq.jpg",
+      "description": "Genres: Comedy, Harem, Romance, School\nSecond part of Chitose-kun wa Ramune Bin no Naka."
     },
     {
       "id": "kitsu:50723",
@@ -186,6 +186,13 @@
       "name": "Watashi no Shiawase na Kekkon Tokubetsu-hen",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190054-8h0AuqQjwcCL.png",
       "description": "Genres: Adult Cast, Drama, Fantasy, Historical, Romance\nNew anime project of Watashi no Shiawase na Kekkon."
+    },
+    {
+      "id": "kitsu:50743",
+      "type": "series",
+      "name": "Temppal: Item no Chikara",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212888-NhyvqPt5aIuJ.jpg",
+      "description": "Genres: Action, Fantasy, Video Game\nShin Youngwoo (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game \"Satisfy,\" finds a powerful item that earns him a rare legendary class title: \"Pagma's Successor.\" He's now a skilled blacksmith who can forge unique weapons and equip the game's most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for...\n\n(Source: Tapas Media)"
     },
     {
       "id": "kitsu:50392",
@@ -233,11 +240,11 @@
       "description": "Genres: Adventure, Fantasy, Isekai, Shoujo\nThree high school girls—hot-blooded Hikaru Shidou, haughty Umi Ryuuzaki, and gentle Fuu Hououji—have just met at Tokyo Tower when they hear a call for help that pulls them into another world. They are soon greeted by Guru Clef, a youthful-looking man who informs them that they are the legendary Magic Knights summoned by Princess Emeraude to save this magical land known as Cephiro.\n\nWhile Hikaru finds the prospect exciting, Umi and Fuu simply want to return to their own world. Unfortunately for them, Clef explains that they cannot go home until they have saved Cephiro and banished the monsters plaguing it. In order to do so, they have to rescue Princess Emeraude from the clutches of the powerful Lord Zagato. To stand a chance against him, they must revive mysterious beings called Rune Gods.\n\nAs Clef grants the trio armor and magic, one of Zagato's servants attacks, forcing the guru to send the girls away to the weaponsmith Presea and the rabbit-like guide Mokona, who can further equip them for their journey. Though they have a long way to go, Hikaru, Umi, and Fuu will show that they have what it takes to live up to their titles as Magic Knights and bring salvation to Cephiro.\n\n[Written by MAL Rewrite]"
     },
     {
-      "id": "kitsu:50743",
+      "id": "tt43691365",
       "type": "series",
-      "name": "Temppal: Item no Chikara",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212888-NhyvqPt5aIuJ.jpg",
-      "description": "Genres: Action, Fantasy, Video Game\nShin Youngwoo (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game \"Satisfy,\" finds a powerful item that earns him a rare legendary class title: \"Pagma's Successor.\" He's now a skilled blacksmith who can forge unique weapons and equip the game's most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for...\n\n(Source: Tapas Media)"
+      "name": "Shiotaiou no Satou-san ga Ore ni dake Amai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209502-C81oN8M4Smlo.jpg",
+      "description": "Genres: Comedy, Romance\nKoharu Satou is known to her classmates as the \"unattainable flower\" a cold and distant girl whose refusal to smile keeps everyone at arm's length.\n\nHowever, Souta Oshio accidentally stumbles upon Satou's secret at her family's cafe. It turns out the \"icy Satou-san\" is actually an incredibly shy and clumsy girl who struggles even with something as simple as taking photos of sweets for the cafe's social media.\n\nBonding over their shared love for cameras and desserts, the distance between the two gradually shrinks. This charming romantic comedy follows two socially awkward people as they navigate their feelings in a story that is as sweet as it is endearing.\n\n(Source: MAL News)"
     },
     {
       "id": "tt41298100",
@@ -245,13 +252,6 @@
       "name": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-caYpLsLmbCh7.jpg",
       "description": "Genres: Action, Isekai, Sci-Fi, Space\nSato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!\n\n(Source: Seven Seas Entertainment)"
-    },
-    {
-      "id": "tt43691365",
-      "type": "series",
-      "name": "Shiotaiou no Satou-san ga Ore ni dake Amai",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209502-C81oN8M4Smlo.jpg",
-      "description": "Genres: Comedy, Romance\nKoharu Satou is known to her classmates as the \"unattainable flower\" a cold and distant girl whose refusal to smile keeps everyone at arm's length.\n\nHowever, Souta Oshio accidentally stumbles upon Satou's secret at her family's cafe. It turns out the \"icy Satou-san\" is actually an incredibly shy and clumsy girl who struggles even with something as simple as taking photos of sweets for the cafe's social media.\n\nBonding over their shared love for cameras and desserts, the distance between the two gradually shrinks. This charming romantic comedy follows two socially awkward people as they navigate their feelings in a story that is as sweet as it is endearing.\n\n(Source: MAL News)"
     },
     {
       "id": "kitsu:49564",
@@ -306,16 +306,6 @@
       "description": "Genres: Adult Cast, Psychological, Seinen\nWhen middle school student, Fukuga Kurumi's mother commits suicide after losing 20 million yen in FX trading (Foreign Exchange trading), she vows to recoup the money her mother lost \"I'll easily get that much back!\"\n\nNow, when she is a university student she makes her long-awaited debut in FX trading, unaware that the world she just entered could turn from heaven to hell in the blink of an eye.\n\nThis is a cute and slightly dangerous story as it explains technical terms by thrilling market fluctuations as the chart drives up and down, which becomes more heated with the entry of quirky FX warriors: Yasuko Takane, Mochiko Kogane, and Mebuki Yamashi. Can Kurumi and her friends survive this world with unstoppable heartbeat moments and unrealized losses!?\n\n(Source: MAL News)"
     },
     {
-      "id": "kitsu:48469",
-      "type": "movie",
-      "name": "Rakuen Tsuihou: Kokoro no Resonance",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157330-Ow09pWu8lqCT.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "kitsu:48469"
-      },
-      "description": "Genres: Mecha, Sci-Fi\nSequel to Rakuen Tsuihou."
-    },
-    {
       "id": "kitsu:49196",
       "type": "series",
       "name": "Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita",
@@ -328,6 +318,16 @@
       "name": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205896-ElrV8oVAsuax.jpg",
       "description": "Genres: Fantasy, Isekai, Romance\nHigh school student and video game-lover Makoto Takatsuki dies in an accident and awakens in another world beside his classmates. However, he gains no cheat-like abilities, so he decides to become a \"Magic Apprentice.\"\n\nThen Noa, a minor goddess, appears before him. After she pleads and begs him, he decides to become her first believer. The weakest boy in the class becomes the strongest alongside the minor goddess in this another world fantasy!\n\n(Source: Overlap, translated)"
+    },
+    {
+      "id": "kitsu:48469",
+      "type": "movie",
+      "name": "Rakuen Tsuihou: Kokoro no Resonance",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157330-Ow09pWu8lqCT.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:48469"
+      },
+      "description": "Genres: Mecha, Sci-Fi\nSequel to Rakuen Tsuihou."
     },
     {
       "id": "kitsu:50170",
