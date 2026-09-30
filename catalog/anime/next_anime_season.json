@@ -87,6 +87,13 @@
       "description": "Genres: Action, Fantasy, School, Time Travel\nSecond season of Kikansha no Mahou wa Tokubetsu desu.\n"
     },
     {
+      "id": "kitsu:49437",
+      "type": "series",
+      "name": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185756-xPCl0RyQ7fXD.jpg",
+      "description": "Genres: Adventure, Fantasy, Isekai, Reincarnation\nThird season of Tensei Kizoku, Kantei Skill de Nariagaru."
+    },
+    {
       "id": "kitsu:45666",
       "type": "movie",
       "name": "Mahoutsukai no Yoru",
@@ -95,13 +102,6 @@
         "defaultVideoId": "kitsu:45666"
       },
       "description": "Genres: Mystery, Supernatural\nSet near the end of the Showa period in the late 1980s, an old mansion in Misaki Town is rumored to be the home of a witch.\n\nAoko abruptly enters the world of magi after her grandfather suddenly decides to have Aoko become the Aozaki family's successor. Since then, Aoko moves into the Kuonji Mansion and begins to learn magecraft from the young magus Alice Kuonji, the rumored witch of the mansion. After witnessing the two using magecraft, Soujuurou Shizuki is also forced to live with them until a rune to remove his memories is discovered. \n\n(Source: Type-Moon Fandom Wiki)"
-    },
-    {
-      "id": "kitsu:49437",
-      "type": "series",
-      "name": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185756-xPCl0RyQ7fXD.jpg",
-      "description": "Genres: Adventure, Fantasy, Isekai, Reincarnation\nThird season of Tensei Kizoku, Kantei Skill de Nariagaru."
     },
     {
       "id": "kitsu:50827",
@@ -160,6 +160,13 @@
       "description": "Genres: Action, Fantasy, Mythology, Shounen\nSequel of Tougen Anki."
     },
     {
+      "id": "kitsu:50743",
+      "type": "series",
+      "name": "Temppal: Item no Chikara",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212888-NhyvqPt5aIuJ.jpg",
+      "description": "Genres: Action, Fantasy, Video Game\nShin Youngwoo (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game \"Satisfy,\" finds a powerful item that earns him a rare legendary class title: \"Pagma's Successor.\" He's now a skilled blacksmith who can forge unique weapons and equip the game's most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for...\n\n(Source: Tapas Media)"
+    },
+    {
       "id": "kitsu:50520",
       "type": "series",
       "name": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
@@ -172,13 +179,6 @@
       "name": "Chitose-kun wa Ramune Bin no Naka Part 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198727-BL0JTpg0G8tq.jpg",
       "description": "Genres: Comedy, Harem, Romance, School\nSecond part of Chitose-kun wa Ramune Bin no Naka."
-    },
-    {
-      "id": "kitsu:50743",
-      "type": "series",
-      "name": "Temppal: Item no Chikara",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212888-NhyvqPt5aIuJ.jpg",
-      "description": "Genres: Action, Fantasy, Video Game\nShin Youngwoo (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game \"Satisfy,\" finds a powerful item that earns him a rare legendary class title: \"Pagma's Successor.\" He's now a skilled blacksmith who can forge unique weapons and equip the game's most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for...\n\n(Source: Tapas Media)"
     },
     {
       "id": "kitsu:50723",
@@ -223,18 +223,18 @@
       "description": "Genres: Action, Comedy, Shounen\nPart two of Yozakura-san Chi no Daisakusen 2nd Season."
     },
     {
-      "id": "kitsu:49008",
-      "type": "series",
-      "name": "Magic Knight Rayearth (2026)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178868-mfp0HIHNJNAm.jpg",
-      "description": "Genres: Adventure, Fantasy, Isekai, Shoujo\nThree high school girls—hot-blooded Hikaru Shidou, haughty Umi Ryuuzaki, and gentle Fuu Hououji—have just met at Tokyo Tower when they hear a call for help that pulls them into another world. They are soon greeted by Guru Clef, a youthful-looking man who informs them that they are the legendary Magic Knights summoned by Princess Emeraude to save this magical land known as Cephiro.\n\nWhile Hikaru finds the prospect exciting, Umi and Fuu simply want to return to their own world. Unfortunately for them, Clef explains that they cannot go home until they have saved Cephiro and banished the monsters plaguing it. In order to do so, they have to rescue Princess Emeraude from the clutches of the powerful Lord Zagato. To stand a chance against him, they must revive mysterious beings called Rune Gods.\n\nAs Clef grants the trio armor and magic, one of Zagato's servants attacks, forcing the guru to send the girls away to the weaponsmith Presea and the rabbit-like guide Mokona, who can further equip them for their journey. Though they have a long way to go, Hikaru, Umi, and Fuu will show that they have what it takes to live up to their titles as Magic Knights and bring salvation to Cephiro.\n\n[Written by MAL Rewrite]"
-    },
-    {
       "id": "tt43691365",
       "type": "series",
       "name": "Shiotaiou no Satou-san ga Ore ni dake Amai",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209502-C81oN8M4Smlo.jpg",
       "description": "Genres: Comedy, Romance\nKoharu Satou is known to her classmates as the \"unattainable flower\" a cold and distant girl whose refusal to smile keeps everyone at arm's length.\n\nHowever, Souta Oshio accidentally stumbles upon Satou's secret at her family's cafe. It turns out the \"icy Satou-san\" is actually an incredibly shy and clumsy girl who struggles even with something as simple as taking photos of sweets for the cafe's social media.\n\nBonding over their shared love for cameras and desserts, the distance between the two gradually shrinks. This charming romantic comedy follows two socially awkward people as they navigate their feelings in a story that is as sweet as it is endearing.\n\n(Source: MAL News)"
+    },
+    {
+      "id": "kitsu:49008",
+      "type": "series",
+      "name": "Magic Knight Rayearth (2026)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178868-mfp0HIHNJNAm.jpg",
+      "description": "Genres: Adventure, Fantasy, Isekai, Shoujo\nThree high school girls—hot-blooded Hikaru Shidou, haughty Umi Ryuuzaki, and gentle Fuu Hououji—have just met at Tokyo Tower when they hear a call for help that pulls them into another world. They are soon greeted by Guru Clef, a youthful-looking man who informs them that they are the legendary Magic Knights summoned by Princess Emeraude to save this magical land known as Cephiro.\n\nWhile Hikaru finds the prospect exciting, Umi and Fuu simply want to return to their own world. Unfortunately for them, Clef explains that they cannot go home until they have saved Cephiro and banished the monsters plaguing it. In order to do so, they have to rescue Princess Emeraude from the clutches of the powerful Lord Zagato. To stand a chance against him, they must revive mysterious beings called Rune Gods.\n\nAs Clef grants the trio armor and magic, one of Zagato's servants attacks, forcing the guru to send the girls away to the weaponsmith Presea and the rabbit-like guide Mokona, who can further equip them for their journey. Though they have a long way to go, Hikaru, Umi, and Fuu will show that they have what it takes to live up to their titles as Magic Knights and bring salvation to Cephiro.\n\n[Written by MAL Rewrite]"
     },
     {
       "id": "tt41298100",
@@ -320,6 +320,13 @@
       "description": "Genres: Fantasy, Isekai, Romance\nHigh school student and video game-lover Makoto Takatsuki dies in an accident and awakens in another world beside his classmates. However, he gains no cheat-like abilities, so he decides to become a \"Magic Apprentice.\"\n\nThen Noa, a minor goddess, appears before him. After she pleads and begs him, he decides to become her first believer. The weakest boy in the class becomes the strongest alongside the minor goddess in this another world fantasy!\n\n(Source: Overlap, translated)"
     },
     {
+      "id": "kitsu:50170",
+      "type": "series",
+      "name": "#Zombie Sagashitemasu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199007-qxUDe3KA6AGI.jpg",
+      "description": "Genres: Adventure, Shounen, Survival\nSet in a world where 90% of humanity has contracted and died from a deadly, virulent disease, only to rise again as attacking zombies, thirteen years have passed since the \"Red Day\" of societal collapse. The surviving humans now live away from the big cities, still hoping to reclaim them one day. An entirely new generation, unaware of the pre-Red Day world, is coming into its own.\n\nThe story begins when Aki, who has no memories of the world before its fall, escapes her village with her close friends Haru and Natsuki to search for her missing father. As they venture into the outside world, they find themselves surrounded by zombies on all sides! Along the way, they rescue Yuu and Sakura and take refuge in a home improvement store. They regroup, and now the counterattack begins—!!\n\n(Source: Kadokawa, edited)"
+    },
+    {
       "id": "kitsu:48469",
       "type": "movie",
       "name": "Rakuen Tsuihou: Kokoro no Resonance",
@@ -330,11 +337,11 @@
       "description": "Genres: Mecha, Sci-Fi\nSequel to Rakuen Tsuihou."
     },
     {
-      "id": "kitsu:50170",
+      "id": "tt43650419",
       "type": "series",
-      "name": "#Zombie Sagashitemasu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199007-qxUDe3KA6AGI.jpg",
-      "description": "Genres: Adventure, Shounen, Survival\nSet in a world where 90% of humanity has contracted and died from a deadly, virulent disease, only to rise again as attacking zombies, thirteen years have passed since the \"Red Day\" of societal collapse. The surviving humans now live away from the big cities, still hoping to reclaim them one day. An entirely new generation, unaware of the pre-Red Day world, is coming into its own.\n\nThe story begins when Aki, who has no memories of the world before its fall, escapes her village with her close friends Haru and Natsuki to search for her missing father. As they venture into the outside world, they find themselves surrounded by zombies on all sides! Along the way, they rescue Yuu and Sakura and take refuge in a home improvement store. They regroup, and now the counterattack begins—!!\n\n(Source: Kadokawa, edited)"
+      "name": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-duq4XpZP8TU3.jpg",
+      "description": "Genres: Action, Fantasy\nLent is part of the up-and-coming party known as the \"Skypiercers,\" and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious...until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!\n\n(Source: Seven Seas Entertainment)"
     },
     {
       "id": "kitsu:50697",
@@ -344,13 +351,6 @@
       "description": "Genres: Adventure, Comedy, Fantasy\nWhen Lorna manifests a completely useless ability, she's labeled an embarrassment to her family and kicked out of the house. With no money or food, she's about to hit rock bottom. But then, she figures out how to use her supposedly worthless SSS-Rank skill, \"Internet.\" This cheat-level talent gives her the know-how to gather an unlimited amount of valuable items and easily acquire rare equipment. Armed with godlike knowledge, Lorna's free to do anything she wants! If only she could figure out what \"lmfao\" means...\n\n(Source: Yen Press)"
     },
     {
-      "id": "tt43650419",
-      "type": "series",
-      "name": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-duq4XpZP8TU3.jpg",
-      "description": "Genres: Action, Fantasy\nLent is part of the up-and-coming party known as the \"Skypiercers,\" and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious...until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!\n\n(Source: Seven Seas Entertainment)"
-    },
-    {
       "id": "kitsu:50640",
       "type": "series",
       "name": "TANK CHAIR: Sensha Isu",
@@ -358,18 +358,18 @@
       "description": "Genres: Action, Gore, Super Power\nShizuka takes on the most dangerous of assassin jobs, but she's not the one doing the killing. Rather, it's her brother, Nagi, a strong assassin who took a bullet to protect his sister, leaving him in a comatose state and having to use a wheelchair. However, Shizuka has figured out the key to waking her brother up: he must be faced with killing intent! Thus begins a violent journey of recovery, battling the most dangerous foes!\n\n(Source: Kodansha USA)"
     },
     {
-      "id": "kitsu:50822",
-      "type": "series",
-      "name": "Diamond no Ace act II: Second Season Part 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213658-D3BPJaqawLxS.png",
-      "description": "Genres: School, Shounen, Sports, Team Sports\nPart two of Diamond no Ace: Act II Second Season."
-    },
-    {
       "id": "kitsu:50607",
       "type": "series",
       "name": "Tensei Goblin Dakedo Shitsumon Aru?",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209219-3yhKlRx0LX3p.jpg",
       "description": "Genres: Fantasy, Isekai, Reincarnation, Seinen\nOffice worker Akira Yagami's altruistic nature usually gets him the short end of the stick. When he dies after saving a kid from oncoming traffic...he reincarnates in another world as a goblin?! Normally, goblins only live for seven days, but Akira's newfound powers let him defy the species' normal life span... and are the key to his path to becoming the strongest goblin ever!\n\n(Source: Yen Press)"
+    },
+    {
+      "id": "kitsu:50822",
+      "type": "series",
+      "name": "Diamond no Ace act II: Second Season Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213658-D3BPJaqawLxS.png",
+      "description": "Genres: School, Shounen, Sports, Team Sports\nPart two of Diamond no Ace: Act II Second Season."
     }
   ]
 }
