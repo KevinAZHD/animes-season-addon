@@ -94,6 +94,13 @@
       "description": "Genres: Adventure, Fantasy, Isekai, Reincarnation\nThird season of Tensei Kizoku, Kantei Skill de Nariagaru."
     },
     {
+      "id": "kitsu:50827",
+      "type": "series",
+      "name": "Koori no Jouheki 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png",
+      "description": "Genres: Drama, Romance, School\nSecond season of Koori no Jouheki."
+    },
+    {
       "id": "kitsu:45666",
       "type": "movie",
       "name": "Mahoutsukai no Yoru",
@@ -102,13 +109,6 @@
         "defaultVideoId": "kitsu:45666"
       },
       "description": "Genres: Mystery, Supernatural\nSet near the end of the Showa period in the late 1980s, an old mansion in Misaki Town is rumored to be the home of a witch.\n\nAoko abruptly enters the world of magi after her grandfather suddenly decides to have Aoko become the Aozaki family's successor. Since then, Aoko moves into the Kuonji Mansion and begins to learn magecraft from the young magus Alice Kuonji, the rumored witch of the mansion. After witnessing the two using magecraft, Soujuurou Shizuki is also forced to live with them until a rune to remove his memories is discovered. \n\n(Source: Type-Moon Fandom Wiki)"
-    },
-    {
-      "id": "kitsu:50827",
-      "type": "series",
-      "name": "Koori no Jouheki 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png",
-      "description": "Genres: Drama, Romance, School\nSecond season of Koori no Jouheki."
     },
     {
       "id": "kitsu:50471",
@@ -146,13 +146,6 @@
       "description": "Genres: Comedy, School, Shounen\nUme Mizunoe, a first-year student at the prestigious Fujinari Academy, excels in Japanese literature but struggles so badly in science that his chances of advancing are at risk. Hoping to boost his academic record, he joins the student council—only to find himself surrounded by a cast of quirky characters: a charismatic yet secretly shy president, a kind but intimidating treasurer, an adorably cheeky boy, and a tiny, stray-cat-like secretary.\n\nThrown into a whirlwind of chaotic daily life, Ume's school days are about to get a lot more unpredictable—and a lot more lively!\n\n(Source: MAL News)"
     },
     {
-      "id": "kitsu:48651",
-      "type": "series",
-      "name": "Sasaki to Pii-chan Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176314-lpvca6vjmkeO.jpg",
-      "description": "Genres: Adventure, Comedy, Fantasy, Isekai\nSecond season of Sasaki to Pii-chan."
-    },
-    {
       "id": "kitsu:50743",
       "type": "series",
       "name": "Temppal: Item no Chikara",
@@ -160,11 +153,11 @@
       "description": "Genres: Action, Fantasy, Video Game\nShin Youngwoo (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game \"Satisfy,\" finds a powerful item that earns him a rare legendary class title: \"Pagma's Successor.\" He's now a skilled blacksmith who can forge unique weapons and equip the game's most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for...\n\n(Source: Tapas Media)"
     },
     {
-      "id": "tt32344704",
+      "id": "kitsu:48651",
       "type": "series",
-      "name": "Tougen Anki: Nikko・Kegon no Taki-hen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204650-nvK5CuG60WGY.jpg",
-      "description": "Genres: Action, Fantasy, Mythology, Shounen\nSequel of Tougen Anki."
+      "name": "Sasaki to Pii-chan Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176314-lpvca6vjmkeO.jpg",
+      "description": "Genres: Adventure, Comedy, Fantasy, Isekai\nSecond season of Sasaki to Pii-chan."
     },
     {
       "id": "kitsu:50520",
@@ -172,6 +165,13 @@
       "name": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207191-MV0uJNxN7LNY.jpg",
       "description": "Genres: Fantasy, Josei, Romance\nDeep within the forest, a cozy and rather cluttered cottage sits on the lakeshore, housing a mysterious, feared witch. In truth, she is a lovely young woman named Rose, who has learned the art of potion-making from her wise grandmother. Rose cherishes her tucked-away life, yet there is a longing in her heart—for a handsome knight she once saw, Sir Harij Azm.\n\nFor four years, Rose's feelings for Harij have lingered, but she can never act on them; witches live outside of human affairs and belong to no country or man. So, when Harij suddenly appears on her doorstep looking for a love potion, Rose is both surprised and heartbroken. Although another woman has captured the noble knight's heart, Rose decides to help him. But before crafting the potion, Rose sends Harij on a series of ridiculous quests for each ingredient, hoping to delay the inevitable and savor their fleeting time together.\n\n[Written by MAL Rewrite]"
+    },
+    {
+      "id": "tt32344704",
+      "type": "series",
+      "name": "Tougen Anki: Nikko・Kegon no Taki-hen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204650-nvK5CuG60WGY.jpg",
+      "description": "Genres: Action, Fantasy, Mythology, Shounen\nSequel of Tougen Anki."
     },
     {
       "id": "kitsu:50966",
@@ -261,6 +261,13 @@
       "description": "Genres: CGDCT, Military, School\nThe fifth film in the six-part Girls & Panzer: Saishuushou film series. "
     },
     {
+      "id": "tt43119470",
+      "type": "series",
+      "name": "FX Senshi Kurumi-chan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206401-8cAebkI0i8BA.png",
+      "description": "Genres: Adult Cast, Psychological, Seinen\nWhen middle school student, Fukuga Kurumi's mother commits suicide after losing 20 million yen in FX trading (Foreign Exchange trading), she vows to recoup the money her mother lost \"I'll easily get that much back!\"\n\nNow, when she is a university student she makes her long-awaited debut in FX trading, unaware that the world she just entered could turn from heaven to hell in the blink of an eye.\n\nThis is a cute and slightly dangerous story as it explains technical terms by thrilling market fluctuations as the chart drives up and down, which becomes more heated with the entry of quirky FX warriors: Yasuko Takane, Mochiko Kogane, and Mebuki Yamashi. Can Kurumi and her friends survive this world with unstoppable heartbeat moments and unrealized losses!?\n\n(Source: MAL News)"
+    },
+    {
       "id": "kitsu:50336",
       "type": "series",
       "name": "Shuiro no Kamen",
@@ -285,13 +292,6 @@
       "description": "Genres: Drama, Psychological, Sci-Fi, Shounen, Time Travel\nTheatrical compilation of Takopii no Genzai."
     },
     {
-      "id": "kitsu:50338",
-      "type": "series",
-      "name": "Mahou Shoujo Ikusei Keikaku: restart",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160803-Rcr3IvhE7q9c.png",
-      "description": "Genres: Action, Gore, High Stakes Game, Mahou Shoujo, Survival, Suspense\nThe deadly game is back!\n\nOnce again, sixteen Magical Girls have been assembled for a high-stakes challenge. Every three days, their Magical Phone pulls them into an RPG-like simulation where they have to work together to fight enemies, solve puzzles, and earn Magical Candy to advance. A staggering ten billion yen reward awaits them at the end—but only for the players who land the finishing blow. With such a tantalizing prize on the line, it's only a matter of time before the girls turn on each other—and if their hit points drop to zero, a game over will be the least of their worries... \n\n(Source: Mahou Shoujo Ikusei Keikaku Wiki, edited)"
-    },
-    {
       "id": "kitsu:51014",
       "type": "series",
       "name": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
@@ -299,11 +299,11 @@
       "description": "Genres: Action, Adventure, Fantasy\nRein, an enchanter who strengthens equipment with his magic, is suddenly expelled from his guild, simply because every piece of gear in the guild has already been enhanced enough. Outraged by the absurd treatment, Rein decides to take back the enormous amount of mana he had poured into their equipment. When he casually channels it into a random copper sword, it transforms into a cheat-level weapon with 10,000 enhancement points!\n\nWith zero combat experience but armed with magic that can turn anything into overpowered gear, this enchanter sets off to enjoy a new, carefree life as an adventurer!\n\n(Source: Shochiku)"
     },
     {
-      "id": "tt43119470",
+      "id": "kitsu:50338",
       "type": "series",
-      "name": "FX Senshi Kurumi-chan",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206401-8cAebkI0i8BA.png",
-      "description": "Genres: Adult Cast, Psychological, Seinen\nWhen middle school student, Fukuga Kurumi's mother commits suicide after losing 20 million yen in FX trading (Foreign Exchange trading), she vows to recoup the money her mother lost \"I'll easily get that much back!\"\n\nNow, when she is a university student she makes her long-awaited debut in FX trading, unaware that the world she just entered could turn from heaven to hell in the blink of an eye.\n\nThis is a cute and slightly dangerous story as it explains technical terms by thrilling market fluctuations as the chart drives up and down, which becomes more heated with the entry of quirky FX warriors: Yasuko Takane, Mochiko Kogane, and Mebuki Yamashi. Can Kurumi and her friends survive this world with unstoppable heartbeat moments and unrealized losses!?\n\n(Source: MAL News)"
+      "name": "Mahou Shoujo Ikusei Keikaku: restart",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160803-Rcr3IvhE7q9c.png",
+      "description": "Genres: Action, Gore, High Stakes Game, Mahou Shoujo, Survival, Suspense\nThe deadly game is back!\n\nOnce again, sixteen Magical Girls have been assembled for a high-stakes challenge. Every three days, their Magical Phone pulls them into an RPG-like simulation where they have to work together to fight enemies, solve puzzles, and earn Magical Candy to advance. A staggering ten billion yen reward awaits them at the end—but only for the players who land the finishing blow. With such a tantalizing prize on the line, it's only a matter of time before the girls turn on each other—and if their hit points drop to zero, a game over will be the least of their worries... \n\n(Source: Mahou Shoujo Ikusei Keikaku Wiki, edited)"
     },
     {
       "id": "kitsu:49196",
@@ -327,16 +327,6 @@
       "description": "Genres: Adventure, Shounen, Survival\nSet in a world where 90% of humanity has contracted and died from a deadly, virulent disease, only to rise again as attacking zombies, thirteen years have passed since the \"Red Day\" of societal collapse. The surviving humans now live away from the big cities, still hoping to reclaim them one day. An entirely new generation, unaware of the pre-Red Day world, is coming into its own.\n\nThe story begins when Aki, who has no memories of the world before its fall, escapes her village with her close friends Haru and Natsuki to search for her missing father. As they venture into the outside world, they find themselves surrounded by zombies on all sides! Along the way, they rescue Yuu and Sakura and take refuge in a home improvement store. They regroup, and now the counterattack begins—!!\n\n(Source: Kadokawa, edited)"
     },
     {
-      "id": "kitsu:48469",
-      "type": "movie",
-      "name": "Rakuen Tsuihou: Kokoro no Resonance",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157330-Ow09pWu8lqCT.jpg",
-      "behaviorHints": {
-        "defaultVideoId": "kitsu:48469"
-      },
-      "description": "Genres: Mecha, Sci-Fi\nSequel to Rakuen Tsuihou."
-    },
-    {
       "id": "kitsu:50993",
       "type": "series",
       "name": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
@@ -349,6 +339,16 @@
       "name": "Sekai Saikyou no Majo, Hajimemashita",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211778-0MXK5HqVFBYH.jpg",
       "description": "Genres: Adventure, Comedy, Fantasy\nWhen Lorna manifests a completely useless ability, she's labeled an embarrassment to her family and kicked out of the house. With no money or food, she's about to hit rock bottom. But then, she figures out how to use her supposedly worthless SSS-Rank skill, \"Internet.\" This cheat-level talent gives her the know-how to gather an unlimited amount of valuable items and easily acquire rare equipment. Armed with godlike knowledge, Lorna's free to do anything she wants! If only she could figure out what \"lmfao\" means...\n\n(Source: Yen Press)"
+    },
+    {
+      "id": "kitsu:48469",
+      "type": "movie",
+      "name": "Rakuen Tsuihou: Kokoro no Resonance",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157330-Ow09pWu8lqCT.jpg",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:48469"
+      },
+      "description": "Genres: Mecha, Sci-Fi\nSequel to Rakuen Tsuihou."
     },
     {
       "id": "kitsu:50640",
