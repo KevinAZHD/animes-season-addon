@@ -70,6 +70,13 @@
       "description": "Genres: Comedy, Detective, Mystery, Romance\nSecond season of Tantei wa Mou, Shindeiru."
     },
     {
+      "id": "kitsu:50827",
+      "type": "series",
+      "name": "Koori no Jouheki 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png",
+      "description": "Genres: Drama, Romance, School\nSecond season of Koori no Jouheki."
+    },
+    {
       "id": "kitsu:50192",
       "type": "movie",
       "name": "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
@@ -80,11 +87,11 @@
       "description": "Genres: Drama, Romance, School, Supernatural\nSequel to Seishun Buta Yarou wa Santa Claus no Yume wo Minai."
     },
     {
-      "id": "kitsu:50827",
+      "id": "kitsu:49437",
       "type": "series",
-      "name": "Koori no Jouheki 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png",
-      "description": "Genres: Drama, Romance, School\nSecond season of Koori no Jouheki."
+      "name": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185756-xPCl0RyQ7fXD.jpg",
+      "description": "Genres: Adventure, Fantasy, Isekai, Reincarnation\nThird season of Tensei Kizoku, Kantei Skill de Nariagaru."
     },
     {
       "id": "kitsu:48397",
@@ -92,13 +99,6 @@
       "name": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-L4pRzycNZOOF.jpg",
       "description": "Genres: Action, Fantasy, School, Time Travel\nSecond season of Kikansha no Mahou wa Tokubetsu desu.\n"
-    },
-    {
-      "id": "kitsu:49437",
-      "type": "series",
-      "name": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185756-xPCl0RyQ7fXD.jpg",
-      "description": "Genres: Adventure, Fantasy, Isekai, Reincarnation\nThird season of Tensei Kizoku, Kantei Skill de Nariagaru."
     },
     {
       "id": "kitsu:45666",
@@ -129,7 +129,7 @@
       "type": "series",
       "name": "Seitokai ni mo Ana wa Aru!",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191656-xFHtxM8SUTdU.png",
-      "description": "Genres: Comedy, School, Shounen\nUme Mizunoe, a first-year student at the prestigious Fujinari Academy, excels in Japanese literature but struggles so badly in science that his chances of advancing are at risk. Hoping to boost his academic record, he joins the student council—only to find himself surrounded by a cast of quirky characters: a charismatic yet secretly shy president, a kind but intimidating treasurer, an adorably cheeky boy, and a tiny, stray-cat-like secretary.\n\nThrown into a whirlwind of chaotic daily life, Ume's school days are about to get a lot more unpredictable—and a lot more lively!\n\n(Source: MAL News)"
+      "description": "Genres: Comedy, Ecchi, School, Shounen\nUme Mizunoe, a first-year student at the prestigious Fujinari Academy, excels in Japanese literature but struggles so badly in science that his chances of advancing are at risk. Hoping to boost his academic record, he joins the student council—only to find himself surrounded by a cast of quirky characters: a charismatic yet secretly shy president, a kind but intimidating treasurer, an adorably cheeky boy, and a tiny, stray-cat-like secretary.\n\nThrown into a whirlwind of chaotic daily life, Ume's school days are about to get a lot more unpredictable—and a lot more lively!\n\n(Source: MAL News)"
     },
     {
       "id": "kitsu:50497",
@@ -139,18 +139,18 @@
       "description": "Genres: Action, Adventure, Fantasy, Martial Arts, Shounen\nDragon Ball Super: Beerus, a project that was started a few years ago, is the newly ENHANCED edition of the anime Dragon Ball Super. ENHANCED by the latest visual expression, every scene, especially the battle scenes, is even more immersive, providing a more faithful and detailed reproduction of the original work by Akira Toriyama, and it will deliver a quality that is sure to fully satisfy audiences.\n\n(Source: Official website)"
     },
     {
-      "id": "kitsu:50404",
-      "type": "series",
-      "name": "Yasei no Last Boss ga Arawareta! 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204389-jCoFCeTthDMy.jpg",
-      "description": "Genres: Action, Adventure, Fantasy, Isekai\nSecond season of Yasei no Last Boss ga Arawareta!."
-    },
-    {
       "id": "kitsu:50743",
       "type": "series",
       "name": "Tempal: Item no Chikara",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212888-NhyvqPt5aIuJ.jpg",
       "description": "Genres: Action, Fantasy, Video Game\nShin Youngwoo (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game \"Satisfy,\" finds a powerful item that earns him a rare legendary class title: \"Pagma's Successor.\" He's now a skilled blacksmith who can forge unique weapons and equip the game's most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for...\n\n(Source: Tapas Media)"
+    },
+    {
+      "id": "kitsu:50404",
+      "type": "series",
+      "name": "Yasei no Last Boss ga Arawareta! 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204389-jCoFCeTthDMy.jpg",
+      "description": "Genres: Action, Adventure, Fantasy, Isekai\nSecond season of Yasei no Last Boss ga Arawareta!."
     },
     {
       "id": "tt32344704",
@@ -160,18 +160,18 @@
       "description": "Genres: Action, Fantasy, Mythology, Shounen\nSequel of Tougen Anki."
     },
     {
-      "id": "kitsu:48651",
-      "type": "series",
-      "name": "Sasaki to Pii-chan Season 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176314-lpvca6vjmkeO.jpg",
-      "description": "Genres: Adventure, Comedy, Fantasy, Isekai\nSecond season of Sasaki to Pii-chan."
-    },
-    {
       "id": "kitsu:50520",
       "type": "series",
       "name": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207191-MV0uJNxN7LNY.jpg",
       "description": "Genres: Fantasy, Josei, Romance\nDeep within the forest, a cozy and rather cluttered cottage sits on the lakeshore, housing a mysterious, feared witch. In truth, she is a lovely young woman named Rose, who has learned the art of potion-making from her wise grandmother. Rose cherishes her tucked-away life, yet there is a longing in her heart—for a handsome knight she once saw, Sir Harij Azm.\n\nFor four years, Rose's feelings for Harij have lingered, but she can never act on them; witches live outside of human affairs and belong to no country or man. So, when Harij suddenly appears on her doorstep looking for a love potion, Rose is both surprised and heartbroken. Although another woman has captured the noble knight's heart, Rose decides to help him. But before crafting the potion, Rose sends Harij on a series of ridiculous quests for each ingredient, hoping to delay the inevitable and savor their fleeting time together.\n\n[Written by MAL Rewrite]"
+    },
+    {
+      "id": "kitsu:48651",
+      "type": "series",
+      "name": "Sasaki to Pii-chan Season 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176314-lpvca6vjmkeO.jpg",
+      "description": "Genres: Adventure, Comedy, Fantasy, Isekai\nSecond season of Sasaki to Pii-chan."
     },
     {
       "id": "kitsu:50966",
@@ -195,6 +195,13 @@
       "description": "Genres: Action, Adventure, Fantasy, Reincarnation\nFia always dreamed of becoming a knight. Born into a family of knights, she's the least talented among them, but she still clutches to her hope and trains with everything she has. When the day comes for her to slay a small demon and prove her worth, she ends up face to face with a dragon instead! A deadly injury makes her life flash before her eyes... and she suddenly remembers her former life, when she was a powerful Saint in a bygone era who defeated the Demon King. That life ended in pain because of who she was, making her fear ever becoming a Saint again. Now that the magic from her previous life has been rekindled, she may become a more powerful knight than she ever dreamed–if only she can survive long enough!\n\n(Source: Seven Seas Entertainment)"
     },
     {
+      "id": "tt43119470",
+      "type": "series",
+      "name": "FX Senshi Kurumi-chan",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206401-8cAebkI0i8BA.png",
+      "description": "Genres: Adult Cast, Psychological, Seinen\nWhen middle school student, Fukuga Kurumi's mother commits suicide after losing 20 million yen in FX trading (Foreign Exchange trading), she vows to recoup the money her mother lost \"I'll easily get that much back!\"\n\nNow, when she is a university student she makes her long-awaited debut in FX trading, unaware that the world she just entered could turn from heaven to hell in the blink of an eye.\n\nThis is a cute and slightly dangerous story as it explains technical terms by thrilling market fluctuations as the chart drives up and down, which becomes more heated with the entry of quirky FX warriors: Yasuko Takane, Mochiko Kogane, and Mebuki Yamashi. Can Kurumi and her friends survive this world with unstoppable heartbeat moments and unrealized losses!?\n\n(Source: MAL News)"
+    },
+    {
       "id": "kitsu:49838",
       "type": "series",
       "name": "Watashi no Shiawase na Kekkon Tokubetsu-hen",
@@ -202,18 +209,18 @@
       "description": "Genres: Adult Cast, Drama, Fantasy, Historical, Romance\nNew anime project of Watashi no Shiawase na Kekkon."
     },
     {
+      "id": "tt41298100",
+      "type": "series",
+      "name": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-caYpLsLmbCh7.jpg",
+      "description": "Genres: Action, Isekai, Sci-Fi, Space\nSato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!\n\n(Source: Seven Seas Entertainment)"
+    },
+    {
       "id": "kitsu:50392",
       "type": "series",
       "name": "PSYЯEN",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204011-j45RZoqYbdZK.jpg",
       "description": "Genres: Action, High Stakes Game, Psychological, Romance, Sci-Fi, Shounen, Strategy Game, Super Power, Supernatural, Suspense\nAgeha Yoshina is a self-confident high school student who helps others for a fee. On his way back from a job, he finds a strange calling card with the word \"Psyren\" imprinted left behind in a phone booth and decides to keep it, unaware of its purpose. The very next day, Ageha discovers that his classmate Sakurako Amamiya has the exact same calling card in her possession. When he questions her, Sakurako asks him to save her, signaling the day his troubles begin.\n\nConfused by the circumstances of this encounter, Ageha realizes something is wrong when Sakurako goes missing. In an attempt to figure out what is happening, he decides to call the number provided on the calling card and is asked a series of questions by a mysterious voice, ending with a final, cryptic question: \"Would you like to go to Psyren?\" Thus begins two teenagers' participation in a game of life or death within a strange world inhabited by monsters called Taboo. Granted the ability to use psychic powers known as PSI, the duo fight to return to the place they call home.\n\n[Written by MAL Rewrite]"
-    },
-    {
-      "id": "tt43119470",
-      "type": "series",
-      "name": "FX Senshi Kurumi-chan",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206401-8cAebkI0i8BA.png",
-      "description": "Genres: Adult Cast, Psychological, Seinen\nWhen middle school student, Fukuga Kurumi's mother commits suicide after losing 20 million yen in FX trading (Foreign Exchange trading), she vows to recoup the money her mother lost \"I'll easily get that much back!\"\n\nNow, when she is a university student she makes her long-awaited debut in FX trading, unaware that the world she just entered could turn from heaven to hell in the blink of an eye.\n\nThis is a cute and slightly dangerous story as it explains technical terms by thrilling market fluctuations as the chart drives up and down, which becomes more heated with the entry of quirky FX warriors: Yasuko Takane, Mochiko Kogane, and Mebuki Yamashi. Can Kurumi and her friends survive this world with unstoppable heartbeat moments and unrealized losses!?\n\n(Source: MAL News)"
     },
     {
       "id": "kitsu:50764",
@@ -230,18 +237,18 @@
       "description": "Genres: Comedy, Romance\nKoharu Satou is known to her classmates as the \"unattainable flower\" a cold and distant girl whose refusal to smile keeps everyone at arm's length.\n\nHowever, Souta Oshio accidentally stumbles upon Satou's secret at her family's cafe. It turns out the \"icy Satou-san\" is actually an incredibly shy and clumsy girl who struggles even with something as simple as taking photos of sweets for the cafe's social media.\n\nBonding over their shared love for cameras and desserts, the distance between the two gradually shrinks. This charming romantic comedy follows two socially awkward people as they navigate their feelings in a story that is as sweet as it is endearing.\n\n(Source: MAL News)"
     },
     {
+      "id": "kitsu:49196",
+      "type": "series",
+      "name": "Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180894-o3pz4DWFm3je.png",
+      "description": "Genres: Action, Fantasy, Military\nRising from the ashes, a fallen noblewoman stands to save humanity!\n\nAfter the Demon King's defeat, Countess Romelia's world is shattered when Prince Henri, her fiancé, publicly breaks off their engagement, dismissing her as \"useless\" alongside his new allies: Saint Elizabeth, the sage Ekaterina, and the swordswoman Lu Hime. What they don't realize is that Romelia possesses a secret power called \"Grace,\" which brings her extraordinary luck. Left abandoned and humiliated, Romelia refuses to give up. With her homeland still under siege by the remnants of the demon army and her people enslaved, she embarks on a desperate mission to save them.\n\nFacing overwhelming challenges—no army, no healers, no funds, and only inexperienced recruits—Romelia uses her wit and determination to turn the odds in her favor. She seizes fortresses from local lords to build her forces, negotiates with the church for healing, secures funds from merchants, and has her soldiers gain experience through monster hunting. Against all expectations, Romelia rises from the ashes, leading her loyal followers in a daring campaign to rescue her people and prove her worth.\n\n(Source: MAL News)"
+    },
+    {
       "id": "kitsu:50823",
       "type": "series",
       "name": "Yozakura-san Chi no Daisakusen 2nd Season Part 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213657-ORNXVEBCjXaz.jpg",
       "description": "Genres: Action, Comedy, Shounen\nPart two of Yozakura-san Chi no Daisakusen 2nd Season."
-    },
-    {
-      "id": "tt41298100",
-      "type": "series",
-      "name": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-caYpLsLmbCh7.jpg",
-      "description": "Genres: Action, Isekai, Sci-Fi, Space\nSato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!\n\n(Source: Seven Seas Entertainment)"
     },
     {
       "id": "kitsu:49564",
@@ -258,6 +265,20 @@
       "description": "Genres: Adventure, Fantasy, Isekai, Shoujo\nThree high school girls—hot-blooded Hikaru Shidou, haughty Umi Ryuuzaki, and gentle Fuu Hououji—have just met at Tokyo Tower when they hear a call for help that pulls them into another world. They are soon greeted by Guru Clef, a youthful-looking man who informs them that they are the legendary Magic Knights summoned by Princess Emeraude to save this magical land known as Cephiro.\n\nWhile Hikaru finds the prospect exciting, Umi and Fuu simply want to return to their own world. Unfortunately for them, Clef explains that they cannot go home until they have saved Cephiro and banished the monsters plaguing it. In order to do so, they have to rescue Princess Emeraude from the clutches of the powerful Lord Zagato. To stand a chance against him, they must revive mysterious beings called Rune Gods.\n\nAs Clef grants the trio armor and magic, one of Zagato's servants attacks, forcing the guru to send the girls away to the weaponsmith Presea and the rabbit-like guide Mokona, who can further equip them for their journey. Though they have a long way to go, Hikaru, Umi, and Fuu will show that they have what it takes to live up to their titles as Magic Knights and bring salvation to Cephiro.\n\n[Written by MAL Rewrite]"
     },
     {
+      "id": "kitsu:50993",
+      "type": "series",
+      "name": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-duq4XpZP8TU3.jpg",
+      "description": "Genres: Action, Fantasy\nLent is part of the up-and-coming party known as the \"Skypiercers,\" and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious...until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!\n\n(Source: Seven Seas Entertainment)"
+    },
+    {
+      "id": "tt43691418",
+      "type": "series",
+      "name": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200455-P3XStRQMJ7Di.png",
+      "description": "Genres: Isekai, Romance, Shoujo, Villainess\nI was reborn as a villainous daughter in a reverse harem otome game.\n\nAfter being sick with a high fever at the age of 10, Pia Rockwell suddenly remembered her past life as a university student in Japan. But far from going down the villainess route, all this super timid girl wants is to finally use her knowledge from when she was a grad student studying to get her doctorate in paleontology. Her ultimate goal is to become a commoner, excavate fossils, build a museum, and then become a curator.\n\nSo in order to escape the villainess route and avoid being deported by her fiancé during the graduation ball, Pia decides to avoid the upcoming hurt and heartache and asks to break off her engagement to Rufus, the Prime Minister's son.\n\nBut will her cunning fiancé let her go that easily?\n\n(Source: MU)"
+    },
+    {
       "id": "kitsu:50989",
       "type": "movie",
       "name": "Girls und Panzer: Saishuushou 5",
@@ -268,13 +289,6 @@
       "description": "Genres: CGDCT, Military, School\nThe fifth film in the six-part Girls & Panzer: Saishuushou film series. "
     },
     {
-      "id": "kitsu:49196",
-      "type": "series",
-      "name": "Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180894-o3pz4DWFm3je.png",
-      "description": "Genres: Action, Fantasy, Military\nRising from the ashes, a fallen noblewoman stands to save humanity!\n\nAfter the Demon King's defeat, Countess Romelia's world is shattered when Prince Henri, her fiancé, publicly breaks off their engagement, dismissing her as \"useless\" alongside his new allies: Saint Elizabeth, the sage Ekaterina, and the swordswoman Lu Hime. What they don't realize is that Romelia possesses a secret power called \"Grace,\" which brings her extraordinary luck. Left abandoned and humiliated, Romelia refuses to give up. With her homeland still under siege by the remnants of the demon army and her people enslaved, she embarks on a desperate mission to save them.\n\nFacing overwhelming challenges—no army, no healers, no funds, and only inexperienced recruits—Romelia uses her wit and determination to turn the odds in her favor. She seizes fortresses from local lords to build her forces, negotiates with the church for healing, secures funds from merchants, and has her soldiers gain experience through monster hunting. Against all expectations, Romelia rises from the ashes, leading her loyal followers in a daring campaign to rescue her people and prove her worth.\n\n(Source: MAL News)"
-    },
-    {
       "id": "kitsu:50336",
       "type": "series",
       "name": "Shuiro no Kamen",
@@ -282,18 +296,11 @@
       "description": "Genres: Action, Fantasy, Seinen\nThe mask brings calamity. The mask revels in slaughter. The mask has a will of its own... Peru, a traveling mask merchant, possesses the ability to craft mysterious masks that give its wearers unique powers. In a city shrouded in an eerie atmosphere, he encounters Sonah, a mysterious young girl. As revelations unfold and inner conflicts arise, a young boy takes his first steps forward! Immerse yourself in a thrilling mask battle fantasy!\n\n(Source: Orange Inc.)"
     },
     {
-      "id": "tt43691418",
+      "id": "kitsu:50170",
       "type": "series",
-      "name": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200455-P3XStRQMJ7Di.png",
-      "description": "Genres: Isekai, Romance, Shoujo, Villainess\nI was reborn as a villainous daughter in a reverse harem otome game.\n\nAfter being sick with a high fever at the age of 10, Pia Rockwell suddenly remembered her past life as a university student in Japan. But far from going down the villainess route, all this super timid girl wants is to finally use her knowledge from when she was a grad student studying to get her doctorate in paleontology. Her ultimate goal is to become a commoner, excavate fossils, build a museum, and then become a curator.\n\nSo in order to escape the villainess route and avoid being deported by her fiancé during the graduation ball, Pia decides to avoid the upcoming hurt and heartache and asks to break off her engagement to Rufus, the Prime Minister's son.\n\nBut will her cunning fiancé let her go that easily?\n\n(Source: MU)"
-    },
-    {
-      "id": "kitsu:50993",
-      "type": "series",
-      "name": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-duq4XpZP8TU3.jpg",
-      "description": "Genres: Action, Fantasy\nLent is part of the up-and-coming party known as the \"Skypiercers,\" and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious...until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!\n\n(Source: Seven Seas Entertainment)"
+      "name": "#Zombie Sagashitemasu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199007-qxUDe3KA6AGI.jpg",
+      "description": "Genres: Adventure, Shounen, Survival\nSet in a world where 90% of humanity has contracted and died from a deadly, virulent disease, only to rise again as attacking zombies, thirteen years have passed since the \"Red Day\" of societal collapse. The surviving humans now live away from the big cities, still hoping to reclaim them one day. An entirely new generation, unaware of the pre-Red Day world, is coming into its own.\n\nThe story begins when Aki, who has no memories of the world before its fall, escapes her village with her close friends Haru and Natsuki to search for her missing father. As they venture into the outside world, they find themselves surrounded by zombies on all sides! Along the way, they rescue Yuu and Sakura and take refuge in a home improvement store. They regroup, and now the counterattack begins—!!\n\n(Source: Kadokawa, edited)"
     },
     {
       "id": "kitsu:51014",
@@ -301,13 +308,6 @@
       "name": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png",
       "description": "Genres: Action, Adventure, Fantasy\nRein, an enchanter who strengthens equipment with his magic, is suddenly expelled from his guild, simply because every piece of gear in the guild has already been enhanced enough. Outraged by the absurd treatment, Rein decides to take back the enormous amount of mana he had poured into their equipment. When he casually channels it into a random copper sword, it transforms into a cheat-level weapon with 10,000 enhancement points!\n\nWith zero combat experience but armed with magic that can turn anything into overpowered gear, this enchanter sets off to enjoy a new, carefree life as an adventurer!\n\n(Source: Shochiku)"
-    },
-    {
-      "id": "kitsu:50170",
-      "type": "series",
-      "name": "#Zombie Sagashitemasu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199007-qxUDe3KA6AGI.jpg",
-      "description": "Genres: Adventure, Shounen, Survival\nSet in a world where 90% of humanity has contracted and died from a deadly, virulent disease, only to rise again as attacking zombies, thirteen years have passed since the \"Red Day\" of societal collapse. The surviving humans now live away from the big cities, still hoping to reclaim them one day. An entirely new generation, unaware of the pre-Red Day world, is coming into its own.\n\nThe story begins when Aki, who has no memories of the world before its fall, escapes her village with her close friends Haru and Natsuki to search for her missing father. As they venture into the outside world, they find themselves surrounded by zombies on all sides! Along the way, they rescue Yuu and Sakura and take refuge in a home improvement store. They regroup, and now the counterattack begins—!!\n\n(Source: Kadokawa, edited)"
     },
     {
       "id": "kitsu:50338",
@@ -341,6 +341,13 @@
       "description": "Genres: Adventure, Comedy, Fantasy\nWhen Lorna manifests a completely useless ability, she's labeled an embarrassment to her family and kicked out of the house. With no money or food, she's about to hit rock bottom. But then, she figures out how to use her supposedly worthless SSS-Rank skill, \"Internet.\" This cheat-level talent gives her the know-how to gather an unlimited amount of valuable items and easily acquire rare equipment. Armed with godlike knowledge, Lorna's free to do anything she wants! If only she could figure out what \"lmfao\" means...\n\n(Source: Yen Press)"
     },
     {
+      "id": "kitsu:50640",
+      "type": "series",
+      "name": "TANK CHAIR: Sensha Isu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209499-S0sWFrCpft85.jpg",
+      "description": "Genres: Action, Gore, Super Power\nShizuka takes on the most dangerous of assassin jobs, but she's not the one doing the killing. Rather, it's her brother, Nagi, a strong assassin who took a bullet to protect his sister, leaving him in a comatose state and having to use a wheelchair. However, Shizuka has figured out the key to waking her brother up: he must be faced with killing intent! Thus begins a violent journey of recovery, battling the most dangerous foes!\n\n(Source: Kodansha USA)"
+    },
+    {
       "id": "kitsu:48469",
       "type": "movie",
       "name": "Rakuen Tsuihou: Kokoro no Resonance",
@@ -349,13 +356,6 @@
         "defaultVideoId": "kitsu:48469"
       },
       "description": "Genres: Mecha, Sci-Fi\nSequel to Rakuen Tsuihou."
-    },
-    {
-      "id": "kitsu:50640",
-      "type": "series",
-      "name": "TANK CHAIR: Sensha Isu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209499-S0sWFrCpft85.jpg",
-      "description": "Genres: Action, Gore, Super Power\nShizuka takes on the most dangerous of assassin jobs, but she's not the one doing the killing. Rather, it's her brother, Nagi, a strong assassin who took a bullet to protect his sister, leaving him in a comatose state and having to use a wheelchair. However, Shizuka has figured out the key to waking her brother up: he must be faced with killing intent! Thus begins a violent journey of recovery, battling the most dangerous foes!\n\n(Source: Kodansha USA)"
     },
     {
       "id": "kitsu:50988",
