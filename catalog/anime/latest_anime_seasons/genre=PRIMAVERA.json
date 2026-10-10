@@ -92,13 +92,6 @@
       "description": "Genres: Action, Kids, Sci-Fi, Time Travel\nA secret organization known as the Spacetime Police Special Task Force, nicknamed the \"Rewinders,\" exists to save those who have died tragic, untimely death. Their weapon, the \"Retry Eye,\" is a time machine implanted in their right eye. To solve each case, they'll rewind time dozens, hundreds, even thousands of times, until the future is changed.\n\n(Source: MAL News)"
     },
     {
-      "id": "tt32368808",
-      "type": "series",
-      "name": "Free Fire Daybreak",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187361-dVnt8gXOZJPw.jpg",
-      "description": "Genres: Action\nIn the near-future city of New Dawn, ruled by the powerful Horizon Corporation, 16-year-old Kelly becomes entangled in the experimental \"Project Bloom\" and awakens \"Limit Break\", an extraordinary ability capable of unlocking anything that has been sealed away.\n\nAs fragments of her past begin to resurface, Kelly joins newfound allies to uncover the conspiracy surrounding Horizon Corporation and confront the forces threatening the future of New Dawn.\n\nWhat fate lies ahead?\n\n(Source: Garena)"
-    },
-    {
       "id": "tt48285345",
       "type": "series",
       "name": "Houkago no Idol ni wa Himitsu ga Aru",
@@ -106,10 +99,17 @@
       "description": "Genres: Romance, School\nHiruno Hizashi, a freshman at a super-elite high school, has just finished his first academic proficiency test of the year. He anxiously awaits the results, which will set the tone for his next three years at school. But due to a mistake on his answer sheet, he receives an abysmal score and gets sent to remedial lessons! If there's one silver lining, he's not the only one—and his comrade could be the girl of his dreams?!\n\n(Source: Yen Press)"
     },
     {
+      "id": "tt32368808",
+      "type": "series",
+      "name": "Free Fire Daybreak",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187361-dVnt8gXOZJPw.jpg",
+      "description": "Genres: Action\nIn the near-future city of New Dawn, ruled by the powerful Horizon Corporation, 16-year-old Kelly becomes entangled in the experimental \"Project Bloom\" and awakens \"Limit Break\", an extraordinary ability capable of unlocking anything that has been sealed away.\n\nAs fragments of her past begin to resurface, Kelly joins newfound allies to uncover the conspiracy surrounding Horizon Corporation and confront the forces threatening the future of New Dawn.\n\nWhat fate lies ahead?\n\n(Source: Garena)"
+    },
+    {
       "id": "tt37968925",
       "type": "series",
       "name": "Shuiro no Kamen Part 2",
-      "poster": "https://cdn.myanimelist.net/images/anime/1360/156303l.webp",
+      "poster": "https://cdn.myanimelist.net/images/anime/1360/156303l.jpg",
       "description": "Genres: Action, Fantasy, Seinen\nPart two of Shuiro no Kamen."
     }
   ]
