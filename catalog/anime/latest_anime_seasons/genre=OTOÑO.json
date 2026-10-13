@@ -70,18 +70,18 @@
       "description": "Genres: Comedy, Detective, Mystery, Romance\nSecond season of Tantei wa Mou, Shindeiru."
     },
     {
-      "id": "kitsu:50827",
-      "type": "series",
-      "name": "Koori no Jouheki 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png",
-      "description": "Genres: Drama, Romance, School\nSecond season of Koori no Jouheki."
-    },
-    {
       "id": "kitsu:50471",
       "type": "series",
       "name": "Hotaru no Yomeiri",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg",
       "description": "Genres: Historical, Romance\nSatoko, the eldest daughter of the honorable Kirigaya family, has received many marriage proposals from men captivated by her beauty and grace. However, she has turned them all down due to her secret heart defect. Despite her condition, Satoko is still willing to find a husband to ease her beloved father's concerns.\n\nWhile on a stroll, Satoko is kidnapped by a group of mercenaries, one of them being Shinpei Gotou—a legendary assassin tasked with executing her. Satoko tries to bribe Gotou into freeing her, but it proves unsuccessful. Out of options, Satoko makes a desperate gamble: under the pretense of love at first sight, she asks him to marry her.\n\nUnexpectedly, Gotou takes the bait and vows to protect her. As the couple escapes to freedom, Satoko struggles to keep up the ruse and make sense of the mysterious man she has eloped with.\n\n[Written by MAL Rewrite]"
+    },
+    {
+      "id": "kitsu:50827",
+      "type": "series",
+      "name": "Koori no Jouheki 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png",
+      "description": "Genres: Drama, Romance, School\nSecond season of Koori no Jouheki."
     },
     {
       "id": "kitsu:49877",
@@ -139,18 +139,18 @@
       "description": "Genres: Action, Fantasy, Video Game\nShin Youngwoo (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game \"Satisfy,\" finds a powerful item that earns him a rare legendary class title: \"Pagma's Successor.\" He's now a skilled blacksmith who can forge unique weapons and equip the game's most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for...\n\n(Source: Tapas Media)"
     },
     {
-      "id": "kitsu:50520",
-      "type": "series",
-      "name": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207191-VgkIzfH92WoZ.jpg",
-      "description": "Genres: Fantasy, Josei, Romance\nDeep within the forest, a cozy and rather cluttered cottage sits on the lakeshore, housing a mysterious, feared witch. In truth, she is a lovely young woman named Rose, who has learned the art of potion-making from her wise grandmother. Rose cherishes her tucked-away life, yet there is a longing in her heart—for a handsome knight she once saw, Sir Harij Azm.\n\nFor four years, Rose's feelings for Harij have lingered, but she can never act on them; witches live outside of human affairs and belong to no country or man. So, when Harij suddenly appears on her doorstep looking for a love potion, Rose is both surprised and heartbroken. Although another woman has captured the noble knight's heart, Rose decides to help him. But before crafting the potion, Rose sends Harij on a series of ridiculous quests for each ingredient, hoping to delay the inevitable and savor their fleeting time together.\n\n[Written by MAL Rewrite]"
-    },
-    {
       "id": "kitsu:50497",
       "type": "series",
       "name": "Dragon Ball Super: Beerus",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-PVVzRbf1IQpe.jpg",
       "description": "Genres: Action, Adventure, Fantasy, Martial Arts, Shounen\nDragon Ball Super: Beerus, a project that was started a few years ago, is the newly ENHANCED edition of the anime Dragon Ball Super. ENHANCED by the latest visual expression, every scene, especially the battle scenes, is even more immersive, providing a more faithful and detailed reproduction of the original work by Akira Toriyama, and it will deliver a quality that is sure to fully satisfy audiences.\n\n(Source: Official website)"
+    },
+    {
+      "id": "kitsu:50520",
+      "type": "series",
+      "name": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207191-VgkIzfH92WoZ.jpg",
+      "description": "Genres: Fantasy, Josei, Romance\nDeep within the forest, a cozy and rather cluttered cottage sits on the lakeshore, housing a mysterious, feared witch. In truth, she is a lovely young woman named Rose, who has learned the art of potion-making from her wise grandmother. Rose cherishes her tucked-away life, yet there is a longing in her heart—for a handsome knight she once saw, Sir Harij Azm.\n\nFor four years, Rose's feelings for Harij have lingered, but she can never act on them; witches live outside of human affairs and belong to no country or man. So, when Harij suddenly appears on her doorstep looking for a love potion, Rose is both surprised and heartbroken. Although another woman has captured the noble knight's heart, Rose decides to help him. But before crafting the potion, Rose sends Harij on a series of ridiculous quests for each ingredient, hoping to delay the inevitable and savor their fleeting time together.\n\n[Written by MAL Rewrite]"
     },
     {
       "id": "kitsu:50404",
@@ -258,11 +258,11 @@
       "description": "Genres: Action, Fantasy, Sci-Fi, Super Power, Urban Fantasy\nIn Academy City, where supernatural abilities are part of everyday science, the city's peace is upheld by an unseen force—the dark side. Among the covert operatives is ITEM, a four-member elite unit. With Rikou Takitsubo's tracking abilities, Frenda Seivelun's explosive expertise, Saiai Kinuhata's impenetrable defense, and Shizuri Mugino's overwhelming power as one of Academy City's seven Level 5 espers, they navigate the city's underbelly, taking on secret missions that never make the headlines.\n\nAs their latest assignment unfolds, the team moves with precision, unaware that their actions are setting the stage for a tragedy that will test their bonds of trust, friendship, and survival in the unforgiving darkness of Academy City.\n\n(Source: MAL News)"
     },
     {
-      "id": "kitsu:49838",
+      "id": "kitsu:50607",
       "type": "series",
-      "name": "Watashi no Shiawase na Kekkon Tokubetsu-hen",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190054-8h0AuqQjwcCL.png",
-      "description": "Genres: Adult Cast, Drama, Fantasy, Historical, Romance\nNew anime project of Watashi no Shiawase na Kekkon."
+      "name": "Tensei Goblin Dakedo Shitsumon Aru?",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209219-3yhKlRx0LX3p.jpg",
+      "description": "Genres: Fantasy, Isekai, Reincarnation, Seinen\nOffice worker Akira Yagami's altruistic nature usually gets him the short end of the stick. When he dies after saving a kid from oncoming traffic...he reincarnates in another world as a goblin?! Normally, goblins only live for seven days, but Akira's newfound powers let him defy the species' normal life span... and are the key to his path to becoming the strongest goblin ever!\n\n(Source: Yen Press)"
     },
     {
       "id": "kitsu:51020",
@@ -272,18 +272,11 @@
       "description": "Genres: Isekai, Romance, Shoujo, Villainess\nI was reborn as a villainous daughter in a reverse harem otome game.\n\nAfter being sick with a high fever at the age of 10, Pia Rockwell suddenly remembered her past life as a university student in Japan. But far from going down the villainess route, all this super timid girl wants is to finally use her knowledge from when she was a grad student studying to get her doctorate in paleontology. Her ultimate goal is to become a commoner, excavate fossils, build a museum, and then become a curator.\n\nSo in order to escape the villainess route and avoid being deported by her fiancé during the graduation ball, Pia decides to avoid the upcoming hurt and heartache and asks to break off her engagement to Rufus, the Prime Minister's son.\n\nBut will her cunning fiancé let her go that easily?\n\n(Source: MU)"
     },
     {
-      "id": "kitsu:50607",
+      "id": "kitsu:49838",
       "type": "series",
-      "name": "Tensei Goblin Dakedo Shitsumon Aru?",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209219-3yhKlRx0LX3p.jpg",
-      "description": "Genres: Fantasy, Isekai, Reincarnation, Seinen\nOffice worker Akira Yagami's altruistic nature usually gets him the short end of the stick. When he dies after saving a kid from oncoming traffic...he reincarnates in another world as a goblin?! Normally, goblins only live for seven days, but Akira's newfound powers let him defy the species' normal life span... and are the key to his path to becoming the strongest goblin ever!\n\n(Source: Yen Press)"
-    },
-    {
-      "id": "kitsu:49008",
-      "type": "series",
-      "name": "Magic Knight Rayearth (2026)",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178868-mfp0HIHNJNAm.jpg",
-      "description": "Genres: Adventure, Fantasy, Isekai, Shoujo\nThree high school girls—hot-blooded Hikaru Shidou, haughty Umi Ryuuzaki, and gentle Fuu Hououji—have just met at Tokyo Tower when they hear a call for help that pulls them into another world. They are soon greeted by Guru Clef, a youthful-looking man who informs them that they are the legendary Magic Knights summoned by Princess Emeraude to save this magical land known as Cephiro.\n\nWhile Hikaru finds the prospect exciting, Umi and Fuu simply want to return to their own world. Unfortunately for them, Clef explains that they cannot go home until they have saved Cephiro and banished the monsters plaguing it. In order to do so, they have to rescue Princess Emeraude from the clutches of the powerful Lord Zagato. To stand a chance against him, they must revive mysterious beings called Rune Gods.\n\nAs Clef grants the trio armor and magic, one of Zagato's servants attacks, forcing the guru to send the girls away to the weaponsmith Presea and the rabbit-like guide Mokona, who can further equip them for their journey. Though they have a long way to go, Hikaru, Umi, and Fuu will show that they have what it takes to live up to their titles as Magic Knights and bring salvation to Cephiro.\n\n[Written by MAL Rewrite]"
+      "name": "Watashi no Shiawase na Kekkon Tokubetsu-hen",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190054-8h0AuqQjwcCL.png",
+      "description": "Genres: Adult Cast, Drama, Fantasy, Historical, Romance\nNew anime project of Watashi no Shiawase na Kekkon."
     },
     {
       "id": "kitsu:50336",
@@ -291,6 +284,13 @@
       "name": "Shuiro no Kamen",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195571-fvj7u5GI7BRT.jpg",
       "description": "Genres: Action, Fantasy, Seinen\nThe mask brings calamity. The mask revels in slaughter. The mask has a will of its own... Peru, a traveling mask merchant, possesses the ability to craft mysterious masks that give its wearers unique powers. In a city shrouded in an eerie atmosphere, he encounters Sonah, a mysterious young girl. As revelations unfold and inner conflicts arise, a young boy takes his first steps forward! Immerse yourself in a thrilling mask battle fantasy!\n\n(Source: Orange Inc.)"
+    },
+    {
+      "id": "kitsu:49008",
+      "type": "series",
+      "name": "Magic Knight Rayearth (2026)",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178868-mfp0HIHNJNAm.jpg",
+      "description": "Genres: Adventure, Fantasy, Isekai, Shoujo\nThree high school girls—hot-blooded Hikaru Shidou, haughty Umi Ryuuzaki, and gentle Fuu Hououji—have just met at Tokyo Tower when they hear a call for help that pulls them into another world. They are soon greeted by Guru Clef, a youthful-looking man who informs them that they are the legendary Magic Knights summoned by Princess Emeraude to save this magical land known as Cephiro.\n\nWhile Hikaru finds the prospect exciting, Umi and Fuu simply want to return to their own world. Unfortunately for them, Clef explains that they cannot go home until they have saved Cephiro and banished the monsters plaguing it. In order to do so, they have to rescue Princess Emeraude from the clutches of the powerful Lord Zagato. To stand a chance against him, they must revive mysterious beings called Rune Gods.\n\nAs Clef grants the trio armor and magic, one of Zagato's servants attacks, forcing the guru to send the girls away to the weaponsmith Presea and the rabbit-like guide Mokona, who can further equip them for their journey. Though they have a long way to go, Hikaru, Umi, and Fuu will show that they have what it takes to live up to their titles as Magic Knights and bring salvation to Cephiro.\n\n[Written by MAL Rewrite]"
     },
     {
       "id": "kitsu:50823",
@@ -307,18 +307,18 @@
       "description": "Genres: Adventure, Comedy, Fantasy\nWhen Lorna manifests a completely useless ability, she's labeled an embarrassment to her family and kicked out of the house. With no money or food, she's about to hit rock bottom. But then, she figures out how to use her supposedly worthless SSS-Rank skill, \"Internet.\" This cheat-level talent gives her the know-how to gather an unlimited amount of valuable items and easily acquire rare equipment. Armed with godlike knowledge, Lorna's free to do anything she wants! If only she could figure out what \"lmfao\" means...\n\n(Source: Yen Press)"
     },
     {
-      "id": "kitsu:50170",
-      "type": "series",
-      "name": "#Zombie Sagashitemasu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199007-8R1HsnflnHJE.jpg",
-      "description": "Genres: Adventure, Shounen, Survival\nSet in a world where 90% of humanity has contracted and died from a deadly, virulent disease, only to rise again as attacking zombies, thirteen years have passed since the \"Red Day\" of societal collapse. The surviving humans now live away from the big cities, still hoping to reclaim them one day. An entirely new generation, unaware of the pre-Red Day world, is coming into its own.\n\nThe story begins when Aki, who has no memories of the world before its fall, escapes her village with her close friends Haru and Natsuki to search for her missing father. As they venture into the outside world, they find themselves surrounded by zombies on all sides! Along the way, they rescue Yuu and Sakura and take refuge in a home improvement store. They regroup, and now the counterattack begins—!!\n\n(Source: Kadokawa, edited)"
-    },
-    {
       "id": "kitsu:51011",
       "type": "series",
       "name": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205896-ElrV8oVAsuax.jpg",
       "description": "Genres: Fantasy, Isekai, Romance\nHigh school student and video game-lover Makoto Takatsuki dies in an accident and awakens in another world beside his classmates. However, he gains no cheat-like abilities, so he decides to become a \"Magic Apprentice.\"\n\nThen Noa, a minor goddess, appears before him. After she pleads and begs him, he decides to become her first believer. The weakest boy in the class becomes the strongest alongside the minor goddess in this another world fantasy!\n\n(Source: Overlap, translated)"
+    },
+    {
+      "id": "kitsu:50170",
+      "type": "series",
+      "name": "#Zombie Sagashitemasu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199007-8R1HsnflnHJE.jpg",
+      "description": "Genres: Adventure, Shounen, Survival\nSet in a world where 90% of humanity has contracted and died from a deadly, virulent disease, only to rise again as attacking zombies, thirteen years have passed since the \"Red Day\" of societal collapse. The surviving humans now live away from the big cities, still hoping to reclaim them one day. An entirely new generation, unaware of the pre-Red Day world, is coming into its own.\n\nThe story begins when Aki, who has no memories of the world before its fall, escapes her village with her close friends Haru and Natsuki to search for her missing father. As they venture into the outside world, they find themselves surrounded by zombies on all sides! Along the way, they rescue Yuu and Sakura and take refuge in a home improvement store. They regroup, and now the counterattack begins—!!\n\n(Source: Kadokawa, edited)"
     },
     {
       "id": "kitsu:50989",
