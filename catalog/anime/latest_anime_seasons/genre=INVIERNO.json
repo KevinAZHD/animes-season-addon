@@ -238,7 +238,7 @@
       "id": "kitsu:50644",
       "type": "series",
       "name": "Love Live! Hasunosora Jogakuin School Idol Club",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210157-TsOt9K0ADCmK.jpg",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210157-imNeWrCSUsez.jpg",
       "description": "Genres: Idols (Female), Music, School\nA TV anime for Love Live! Hasunosora Jogakuin School Idol Club."
     },
     {
@@ -266,18 +266,18 @@
       "description": "Genres: Drama, Mecha, Military, Sci-Fi, Space\nPrequel project for Kidou Senshi Gundam SEED Freedom."
     },
     {
-      "id": "tt48268779",
-      "type": "series",
-      "name": "Pen to Wappa to Jijitsukon",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211070-ECOdD6WOC6gF.jpg",
-      "description": "Genres: Comedy, Detective, Mystery, Seinen\nForty-year-old detective Eiji Kirisame has found maybe the strangest witness of his life: a silent high school girl named Tsugumi Kuchinashi who was at the scene of the crime. Her statements mostly consist of shoddy doodles on a drawing pad, but Eiji is no stranger to piecing together the truth from limited evidence. He'll take every page seriously if it might help solve the case. But why does the last page say... \"Will you marry me?!\"\n\n(Source: Yen Press)"
-    },
-    {
       "id": "tt49320202",
       "type": "series",
       "name": "Boukensha License wo Hakudatsu Sareta Ossan Dakedo, Manamusume ga Dekita no de Nonbiri Jinsei wo Ouka Suru",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205430-u0DOkPrpzBOI.jpg",
       "description": "Genres: Action, Adventure, Fantasy\nDouglas, once known as a legendary enhancement spellcaster, is now little more than your average, weak old man. On top of that, he was kicked out of the hero party, and eventually had his adventurer's license revoked... And that's how he ended up a vagabond, wandering aimlessly. After an encounter with Rabi, a cursed little girl, a new adventure begins...\n\n(Source: Square Enix)"
+    },
+    {
+      "id": "tt48268779",
+      "type": "series",
+      "name": "Pen to Wappa to Jijitsukon",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211070-ECOdD6WOC6gF.jpg",
+      "description": "Genres: Comedy, Detective, Mystery, Seinen\nForty-year-old detective Eiji Kirisame has found maybe the strangest witness of his life: a silent high school girl named Tsugumi Kuchinashi who was at the scene of the crime. Her statements mostly consist of shoddy doodles on a drawing pad, but Eiji is no stranger to piecing together the truth from limited evidence. He'll take every page seriously if it might help solve the case. But why does the last page say... \"Will you marry me?!\"\n\n(Source: Yen Press)"
     },
     {
       "id": "kitsu:49509",
@@ -346,14 +346,14 @@
       "description": "Genres: Adult Cast, Comedy, Gag Humor, Workplace\nSequel to Everyday Host."
     },
     {
-      "id": "tt48283560",
+      "id": "tt43649260",
       "type": "movie",
-      "name": "Doraemon: Nobita no Jouki Jikansha",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx216623-dG0USIomjJhf.png",
+      "name": "Aikatsu Stars!: Hoshiboshi no Progress",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213814-x9VFB4jU2TQJ.png",
       "behaviorHints": {
-        "defaultVideoId": "tt48283560"
+        "defaultVideoId": "tt43649260"
       },
-      "description": "Genres: Anthropomorphic, Comedy, Kids, Sci-Fi, Shounen\nForty-sixth Doraemon movie."
+      "description": "Genres: Idols (Female), Music\nA special film celebrating the 10th anniversary of Aikatsu Stars! anime series."
     }
   ]
 }
