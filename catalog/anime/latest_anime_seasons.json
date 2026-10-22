@@ -136,6 +136,13 @@
       "description": "Genres: Seinen, Sports, Team Sports\nSecond season of Ao Ashi."
     },
     {
+      "id": "kitsu:50497",
+      "type": "series",
+      "name": "Dragon Ball Super: Beerus",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-PVVzRbf1IQpe.jpg",
+      "description": "Genres: Action, Adventure, Fantasy, Martial Arts, Shounen\nDragon Ball Super: Beerus, a project that was started a few years ago, is the newly ENHANCED edition of the anime Dragon Ball Super. ENHANCED by the latest visual expression, every scene, especially the battle scenes, is even more immersive, providing a more faithful and detailed reproduction of the original work by Akira Toriyama, and it will deliver a quality that is sure to fully satisfy audiences.\n\n(Source: Official website)"
+    },
+    {
       "id": "kitsu:45666",
       "type": "movie",
       "name": "Mahoutsukai no Yoru",
@@ -144,13 +151,6 @@
         "defaultVideoId": "kitsu:45666"
       },
       "description": "Genres: Mystery, Supernatural\nSet near the end of the Showa period in the late 1980s, an old mansion in Misaki Town is rumored to be the home of a witch.\n\nAoko abruptly enters the world of magi after her grandfather suddenly decides to have Aoko become the Aozaki family's successor. Since then, Aoko moves into the Kuonji Mansion and begins to learn magecraft from the young magus Alice Kuonji, the rumored witch of the mansion. After witnessing the two using magecraft, Soujuurou Shizuki is also forced to live with them until a rune to remove his memories is discovered. \n\n(Source: Type-Moon Fandom Wiki)"
-    },
-    {
-      "id": "kitsu:50497",
-      "type": "series",
-      "name": "Dragon Ball Super: Beerus",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-PVVzRbf1IQpe.jpg",
-      "description": "Genres: Action, Adventure, Fantasy, Martial Arts, Shounen\nDragon Ball Super: Beerus, a project that was started a few years ago, is the newly ENHANCED edition of the anime Dragon Ball Super. ENHANCED by the latest visual expression, every scene, especially the battle scenes, is even more immersive, providing a more faithful and detailed reproduction of the original work by Akira Toriyama, and it will deliver a quality that is sure to fully satisfy audiences.\n\n(Source: Official website)"
     },
     {
       "id": "kitsu:51014",
@@ -195,18 +195,18 @@
       "description": "Genres: Action, Isekai, Sci-Fi, Space\nSato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!\n\n(Source: Seven Seas Entertainment)"
     },
     {
-      "id": "kitsu:50723",
-      "type": "series",
-      "name": "Hyouken no Majutsushi ga Sekai wo Suberu II",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212503-sXBpRZr96c4e.jpg",
-      "description": "Genres: Action, Fantasy, School\nSecond season of Hyouken no Majutsushi ga Sekai wo Suberu."
-    },
-    {
       "id": "kitsu:50392",
       "type": "series",
       "name": "PSYЯEN",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204011-j45RZoqYbdZK.jpg",
       "description": "Genres: Action, High Stakes Game, Psychological, Romance, Sci-Fi, Shounen, Strategy Game, Super Power, Supernatural, Suspense\nAgeha Yoshina is a self-confident high school student who helps others for a fee. On his way back from a job, he finds a strange calling card with the word \"Psyren\" imprinted left behind in a phone booth and decides to keep it, unaware of its purpose. The very next day, Ageha discovers that his classmate Sakurako Amamiya has the exact same calling card in her possession. When he questions her, Sakurako asks him to save her, signaling the day his troubles begin.\n\nConfused by the circumstances of this encounter, Ageha realizes something is wrong when Sakurako goes missing. In an attempt to figure out what is happening, he decides to call the number provided on the calling card and is asked a series of questions by a mysterious voice, ending with a final, cryptic question: \"Would you like to go to Psyren?\" Thus begins two teenagers' participation in a game of life or death within a strange world inhabited by monsters called Taboo. Granted the ability to use psychic powers known as PSI, the duo fight to return to the place they call home.\n\n[Written by MAL Rewrite]"
+    },
+    {
+      "id": "kitsu:50723",
+      "type": "series",
+      "name": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212503-sXBpRZr96c4e.jpg",
+      "description": "Genres: Action, Fantasy, School\nSecond season of Hyouken no Majutsushi ga Sekai wo Suberu."
     },
     {
       "id": "kitsu:50850",
