@@ -60,6 +60,13 @@
       "description": "Genres: Adventure, Drama, Fantasy, Gore, Mystery, Sci-Fi\nSequel to Made in Abyss: Retsujitsu no Ougonkyou."
     },
     {
+      "id": "kitsu:49877",
+      "type": "series",
+      "name": "Seitokai ni mo Ana wa Aru!",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191656-xFHtxM8SUTdU.png",
+      "description": "Genres: Comedy, Ecchi, School, Shounen\nUme Mizunoe, a first-year student at the prestigious Fujinari Academy, excels in Japanese literature but struggles so badly in science that his chances of advancing are at risk. Hoping to boost his academic record, he joins the student council—only to find himself surrounded by a cast of quirky characters: a charismatic yet secretly shy president, a kind but intimidating treasurer, an adorably cheeky boy, and a tiny, stray-cat-like secretary.\n\nThrown into a whirlwind of chaotic daily life, Ume's school days are about to get a lot more unpredictable—and a lot more lively!\n\n(Source: MAL News)"
+    },
+    {
       "id": "kitsu:50842",
       "type": "movie",
       "name": "Kusuriya no Hitorigoto: Bouhi no Hihou",
@@ -68,13 +75,6 @@
         "defaultVideoId": "kitsu:50842"
       },
       "description": "Genres: Drama, Historical, Medical, Mystery\nOriginal Kusuriya no Hitorigoto movie."
-    },
-    {
-      "id": "kitsu:49877",
-      "type": "series",
-      "name": "Seitokai ni mo Ana wa Aru!",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191656-xFHtxM8SUTdU.png",
-      "description": "Genres: Comedy, Ecchi, School, Shounen\nUme Mizunoe, a first-year student at the prestigious Fujinari Academy, excels in Japanese literature but struggles so badly in science that his chances of advancing are at risk. Hoping to boost his academic record, he joins the student council—only to find himself surrounded by a cast of quirky characters: a charismatic yet secretly shy president, a kind but intimidating treasurer, an adorably cheeky boy, and a tiny, stray-cat-like secretary.\n\nThrown into a whirlwind of chaotic daily life, Ume's school days are about to get a lot more unpredictable—and a lot more lively!\n\n(Source: MAL News)"
     },
     {
       "id": "kitsu:50827",
@@ -143,6 +143,13 @@
       "description": "Genres: Seinen, Sports, Team Sports\nSecond season of Ao Ashi."
     },
     {
+      "id": "kitsu:51014",
+      "type": "series",
+      "name": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png",
+      "description": "Genres: Action, Comedy, Fantasy\nRein, an enchanter who strengthens equipment with his magic, is suddenly expelled from his guild, simply because every piece of gear in the guild has already been enhanced enough. Outraged by the absurd treatment, Rein decides to take back the enormous amount of mana he had poured into their equipment. When he casually channels it into a random copper sword, it transforms into a cheat-level weapon with 10,000 enhancement points!\n\nWith zero combat experience but armed with magic that can turn anything into overpowered gear, this enchanter sets off to enjoy a new, carefree life as an adventurer!\n\n(Source: Shochiku)"
+    },
+    {
       "id": "kitsu:45666",
       "type": "movie",
       "name": "Mahoutsukai no Yoru",
@@ -151,13 +158,6 @@
         "defaultVideoId": "kitsu:45666"
       },
       "description": "Genres: Mystery, Supernatural\nSet near the end of the Showa period in the late 1980s, an old mansion in Misaki Town is rumored to be the home of a witch.\n\nAoko abruptly enters the world of magi after her grandfather suddenly decides to have Aoko become the Aozaki family's successor. Since then, Aoko moves into the Kuonji Mansion and begins to learn magecraft from the young magus Alice Kuonji, the rumored witch of the mansion. After witnessing the two using magecraft, Soujuurou Shizuki is also forced to live with them until a rune to remove his memories is discovered. \n\n(Source: Type-Moon Fandom Wiki)"
-    },
-    {
-      "id": "kitsu:51014",
-      "type": "series",
-      "name": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png",
-      "description": "Genres: Action, Comedy, Fantasy\nRein, an enchanter who strengthens equipment with his magic, is suddenly expelled from his guild, simply because every piece of gear in the guild has already been enhanced enough. Outraged by the absurd treatment, Rein decides to take back the enormous amount of mana he had poured into their equipment. When he casually channels it into a random copper sword, it transforms into a cheat-level weapon with 10,000 enhancement points!\n\nWith zero combat experience but armed with magic that can turn anything into overpowered gear, this enchanter sets off to enjoy a new, carefree life as an adventurer!\n\n(Source: Shochiku)"
     },
     {
       "id": "kitsu:50404",
@@ -223,18 +223,18 @@
       "description": "Genres: Action, Adventure, Fantasy, Reincarnation\nFia always dreamed of becoming a knight. Born into a family of knights, she's the least talented among them, but she still clutches to her hope and trains with everything she has. When the day comes for her to slay a small demon and prove her worth, she ends up face to face with a dragon instead! A deadly injury makes her life flash before her eyes... and she suddenly remembers her former life, when she was a powerful Saint in a bygone era who defeated the Demon King. That life ended in pain because of who she was, making her fear ever becoming a Saint again. Now that the magic from her previous life has been rekindled, she may become a more powerful knight than she ever dreamed–if only she can survive long enough!\n\n(Source: Seven Seas Entertainment)"
     },
     {
-      "id": "kitsu:50966",
-      "type": "series",
-      "name": "Chitose-kun wa Ramune Bin no Naka Part 2",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198727-BL0JTpg0G8tq.jpg",
-      "description": "Genres: Comedy, Harem, Romance, School\nSecond part of Chitose-kun wa Ramune Bin no Naka."
-    },
-    {
       "id": "kitsu:50987",
       "type": "series",
       "name": "FX Senshi Kurumi-chan",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206401-8cAebkI0i8BA.png",
       "description": "Genres: Adult Cast, Psychological, Seinen\nWhen middle school student, Fukuga Kurumi's mother commits suicide after losing 20 million yen in FX trading (Foreign Exchange trading), she vows to recoup the money her mother lost \"I'll easily get that much back!\"\n\nNow, when she is a university student she makes her long-awaited debut in FX trading, unaware that the world she just entered could turn from heaven to hell in the blink of an eye.\n\nThis is a cute and slightly dangerous story as it explains technical terms by thrilling market fluctuations as the chart drives up and down, which becomes more heated with the entry of quirky FX warriors: Yasuko Takane, Mochiko Kogane, and Mebuki Yamashi. Can Kurumi and her friends survive this world with unstoppable heartbeat moments and unrealized losses!?\n\n(Source: MAL News)"
+    },
+    {
+      "id": "kitsu:50966",
+      "type": "series",
+      "name": "Chitose-kun wa Ramune Bin no Naka Part 2",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198727-BL0JTpg0G8tq.jpg",
+      "description": "Genres: Comedy, Harem, Romance, School\nSecond part of Chitose-kun wa Ramune Bin no Naka."
     },
     {
       "id": "kitsu:49196",
@@ -272,18 +272,18 @@
       "description": "Genres: Action, Fantasy, Seinen\nThe mask brings calamity. The mask revels in slaughter. The mask has a will of its own... Peru, a traveling mask merchant, possesses the ability to craft mysterious masks that give its wearers unique powers. In a city shrouded in an eerie atmosphere, he encounters Sonah, a mysterious young girl. As revelations unfold and inner conflicts arise, a young boy takes his first steps forward! Immerse yourself in a thrilling mask battle fantasy!\n\n(Source: Orange Inc.)"
     },
     {
-      "id": "kitsu:51020",
-      "type": "series",
-      "name": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200455-P3XStRQMJ7Di.png",
-      "description": "Genres: Isekai, Romance, Shoujo, Villainess\nI was reborn as a villainous daughter in a reverse harem otome game.\n\nAfter being sick with a high fever at the age of 10, Pia Rockwell suddenly remembered her past life as a university student in Japan. But far from going down the villainess route, all this super timid girl wants is to finally use her knowledge from when she was a grad student studying to get her doctorate in paleontology. Her ultimate goal is to become a commoner, excavate fossils, build a museum, and then become a curator.\n\nSo in order to escape the villainess route and avoid being deported by her fiancé during the graduation ball, Pia decides to avoid the upcoming hurt and heartache and asks to break off her engagement to Rufus, the Prime Minister's son.\n\nBut will her cunning fiancé let her go that easily?\n\n(Source: MU)"
-    },
-    {
       "id": "kitsu:50697",
       "type": "series",
       "name": "Sekai Saikyou no Majo, Hajimemashita",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211778-0MXK5HqVFBYH.jpg",
       "description": "Genres: Adventure, Comedy, Fantasy\nWhen Lorna manifests a completely useless ability, she's labeled an embarrassment to her family and kicked out of the house. With no money or food, she's about to hit rock bottom. But then, she figures out how to use her supposedly worthless SSS-Rank skill, \"Internet.\" This cheat-level talent gives her the know-how to gather an unlimited amount of valuable items and easily acquire rare equipment. Armed with godlike knowledge, Lorna's free to do anything she wants! If only she could figure out what \"lmfao\" means...\n\n(Source: Yen Press)"
+    },
+    {
+      "id": "kitsu:51020",
+      "type": "series",
+      "name": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200455-P3XStRQMJ7Di.png",
+      "description": "Genres: Isekai, Romance, Shoujo, Villainess\nI was reborn as a villainous daughter in a reverse harem otome game.\n\nAfter being sick with a high fever at the age of 10, Pia Rockwell suddenly remembered her past life as a university student in Japan. But far from going down the villainess route, all this super timid girl wants is to finally use her knowledge from when she was a grad student studying to get her doctorate in paleontology. Her ultimate goal is to become a commoner, excavate fossils, build a museum, and then become a curator.\n\nSo in order to escape the villainess route and avoid being deported by her fiancé during the graduation ball, Pia decides to avoid the upcoming hurt and heartache and asks to break off her engagement to Rufus, the Prime Minister's son.\n\nBut will her cunning fiancé let her go that easily?\n\n(Source: MU)"
     },
     {
       "id": "kitsu:51011",
