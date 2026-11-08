@@ -116,6 +116,13 @@
       "description": "Genres: Action, Fantasy, Military\nSecond part of Romelia Senki."
     },
     {
+      "id": "kitsu:49023",
+      "type": "series",
+      "name": "Minami-ke: Korekara",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179088-Lh6Xh2PmW0LC.jpg",
+      "description": "Genres: CGDCT, Comedy, School, Seinen\nFifth season of Minami-ke."
+    },
+    {
       "id": "kitsu:49849",
       "type": "series",
       "name": "Tenkaichi: Nihon Saikyou Bugeisha Ketteisen",
@@ -144,18 +151,18 @@
       "description": "Genres: Romance, School\nHiruno Hizashi, a freshman at a super-elite high school, has just finished his first academic proficiency test of the year. He anxiously awaits the results, which will set the tone for his next three years at school. But due to a mistake on his answer sheet, he receives an abysmal score and gets sent to remedial lessons! If there's one silver lining, he's not the only one—and his comrade could be the girl of his dreams?!\n\n(Source: Yen Press)"
     },
     {
-      "id": "tt49562591",
-      "type": "series",
-      "name": "Shiawase Kanako no Koroshiya Seikatsu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx218439-deyWUlrU5uk4.jpg",
-      "description": "Genres: Adult Cast, Comedy\nDue to the constant mistreatment she received while working for an advertising agency, Kanako Nishino—an emotional girl with a penchant for animal-based puns—decided to quit her job and search for a better one. To her surprise, Kanako finds out that the new company she has applied for is actually an assassins' organization, and she passes the entrance exam with flying colors! Kanako begins her new and exciting life as a professional assassin.\n\n[Written by MAL Rewrite]"
-    },
-    {
       "id": "tt49605615",
       "type": "series",
       "name": "Shuiro no Kamen Part 2",
       "poster": "https://cdn.myanimelist.net/images/anime/1360/156303l.jpg",
       "description": "Genres: Action, Fantasy, Seinen\nPart two of Shuiro no Kamen."
+    },
+    {
+      "id": "tt49562591",
+      "type": "series",
+      "name": "Shiawase Kanako no Koroshiya Seikatsu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx218439-deyWUlrU5uk4.jpg",
+      "description": "Genres: Adult Cast, Comedy\nDue to the constant mistreatment she received while working for an advertising agency, Kanako Nishino—an emotional girl with a penchant for animal-based puns—decided to quit her job and search for a better one. To her surprise, Kanako finds out that the new company she has applied for is actually an assassins' organization, and she passes the entrance exam with flying colors! Kanako begins her new and exciting life as a professional assassin.\n\n[Written by MAL Rewrite]"
     },
     {
       "id": "tt32368808",
