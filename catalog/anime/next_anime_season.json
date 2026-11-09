@@ -140,13 +140,6 @@
       "description": "Genres: Adult Cast, Seinen, Slice of Life\nLiving in Asagaya, 29-year-old Hiroto Ikuta spends his days working at his part-time job and chatting with the locals. He likes visiting Hanae Wada most, a grumpy yet kind elderly woman whom Hiroto calls \"Granny.\" Hiroto's time with Granny is sadly cut short when she passes away from a heart attack. To his surprise, Hiroto inherits Granny's house as she never married or had children.\n\nThree months later, 18-year-old Natsumi Kobayashi moves from her hometown to attend art school. With nowhere else to go, she stays with her cousin Hiroto, whom she has not seen in years. Despite their opposing personalities, the pair begin living under the same roof as they struggle through their seemingly mundane lives.\n\n[Written by MAL Rewrite]"
     },
     {
-      "id": "kitsu:50725",
-      "type": "series",
-      "name": "Isshiki-san wa Koi wo Shiritai.",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200578-F1U6GNXA0p3l.png",
-      "description": "Genres: Adult Cast, Comedy, Romance, Shounen\nA maiden who doesn't know what love is tries her hand at dating as a pseudo-couple!\n\nInspector Rinna, who is respected by everyone as a hard-working and serious policewoman, seems to be having trouble with her work lately. The reason for this is because she loses focus. It only happens when Meishi, the detective she works with, is around... So, she makes a choice...?\n\n(Source: Kadokawa, translated)"
-    },
-    {
       "id": "kitsu:50103",
       "type": "series",
       "name": "Kekkaishi no Ichirinka",
@@ -159,6 +152,13 @@
       "name": "Bless",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208766-FIvJRb63ztBJ.jpg",
       "description": "Genres: Drama, Shounen, Visual Arts\nIn a boisterous classroom, 15-year-old Aia Udagawa's thoughts are far from the topic at hand. While his classmates select him as a model for the Aoi Festival Artist Contest due to his past modeling experience, Udagawa watches Jun Sumisaki, a tall and awkward girl who seems embarrassed about her unique freckles and impressive height. They are paired as model and stylist—but Udagawa defeatedly mourns his abandoned dream of becoming a makeup artist.\n\nUdagawa has long convinced himself he has no talent, and Sumisaki lacks the confidence to hold her head high and flaunt her stunning features. Even so, Sumisaki proposes that they switch: Udagawa will have all creative freedom, and she will boldly strut the runway like her mother once taught her. Notable figures from the glamor industry will be watching, but it may prove to be the push Udagawa needs to return to the fashion and beauty scene and conquer it alongside his favorite model.\n\n[Written by MAL Rewrite]"
+    },
+    {
+      "id": "kitsu:50725",
+      "type": "series",
+      "name": "Isshiki-san wa Koi wo Shiritai.",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200578-F1U6GNXA0p3l.png",
+      "description": "Genres: Adult Cast, Comedy, Romance, Shounen\nA maiden who doesn't know what love is tries her hand at dating as a pseudo-couple!\n\nInspector Rinna, who is respected by everyone as a hard-working and serious policewoman, seems to be having trouble with her work lately. The reason for this is because she loses focus. It only happens when Meishi, the detective she works with, is around... So, she makes a choice...?\n\n(Source: Kadokawa, translated)"
     },
     {
       "id": "kitsu:50754",
@@ -252,13 +252,6 @@
       "description": "Genres: Idols (Female), Music, School, Slice of Life\nA TV anime for Love Live! Hasunosora Jogakuin School Idol Club."
     },
     {
-      "id": "kitsu:50605",
-      "type": "series",
-      "name": "Isekai Tensei Soudouki",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209221-QBpwh553rVNr.png",
-      "description": "Genres: Action, Fantasy, Isekai, Reincarnation\nBard Cornelius: the son of a nobleman of Mauricia, an empire located in a parallel universe. But Bard is no ordinary boy—he's got three souls packed into one body! Aside from his own consciousness, he's got Oka Sanai, a miserly samurai, and Masaharu Oka, a high school otaku who loves animal ears. With his extra knowledge of military tactics and business acumen, Bard's ready to cheat his way to the top!\n\n(Source: One Peace Books)"
-    },
-    {
       "id": "tt50591156",
       "type": "series",
       "name": "Spirit Circle",
@@ -266,11 +259,25 @@
       "description": "Genres: Action, Adventure, Comedy, Drama, Reincarnation, Romance, Seinen, Supernatural\nFuuta Okeya, a 14-year-old student, can see ghosts and wears a bandage on his left cheek to hide his striking birthmark. One day, a girl with a scar on her forehead named Kouko Ishigami, accompanied by a ghost of a tall and friendly man, transfers into his class.\n\nFuuta quickly takes a liking to Kouko, wondering if it might be love at first sight. After waking up crying from a strange dream involving her, he feels a nostalgic connection to Kouko and becomes determined to befriend her. However, a chain of events forces Fuuta to reveal his birthmark to Kouko, to which she declares him to be the enemy of her life. A furious Kouko explains that the two are bound by reincarnation, and that Fuuta's birthmark is a curse she engraved on him in one of their past lives to recognize and eventually defeat him.\n\nKouko brings out a circular object made of flames known as the \"spirit circle\" and attacks Fuuta, pushing him off a flight of stairs. As he falls, Fuuta is thrown back into the insight of one of his previous lives.\n\n[Written by MAL Rewrite]"
     },
     {
+      "id": "kitsu:50605",
+      "type": "series",
+      "name": "Isekai Tensei Soudouki",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209221-QBpwh553rVNr.png",
+      "description": "Genres: Action, Fantasy, Isekai, Reincarnation\nBard Cornelius: the son of a nobleman of Mauricia, an empire located in a parallel universe. But Bard is no ordinary boy—he's got three souls packed into one body! Aside from his own consciousness, he's got Oka Sanai, a miserly samurai, and Masaharu Oka, a high school otaku who loves animal ears. With his extra knowledge of military tactics and business acumen, Bard's ready to cheat his way to the top!\n\n(Source: One Peace Books)"
+    },
+    {
       "id": "tt49560901",
       "type": "series",
       "name": "Kizuguchi to Houtai",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214049-8lsk5vf0XIdu.jpg",
       "description": "Genres: Comedy, Organized Crime, Romance\nKiritani, the vice-leader of the Kurotorikai yakuza group, is assigned to be the caretaker for Riyo Washizu, the daughter of the Washizugumi organization's grand chairman.\n\nAlthough Kiritani initially thinks this task will be easy because Riyo appears obedient, Kiritani later discovers that Riyo has a specific fetish called 'Yowaraa.' This fetish makes Riyo feel aroused whenever she sees someone strong or tough become weak and helpless. The story focuses on the romantic comedy relationship between the young yakuza lady and her caretaker.\n\n(Source: MAL News)"
+    },
+    {
+      "id": "tt49320202",
+      "type": "series",
+      "name": "Boukensha License wo Hakudatsu Sareta Ossan Dakedo, Manamusume ga Dekita no de Nonbiri Jinsei wo Ouka Suru",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205430-u0DOkPrpzBOI.jpg",
+      "description": "Genres: Action, Adventure, Fantasy\nDouglas, once known as a legendary enhancement spellcaster, is now little more than your average, weak old man. On top of that, he was kicked out of the hero party, and eventually had his adventurer's license revoked... And that's how he ended up a vagabond, wandering aimlessly. After an encounter with Rabi, a cursed little girl, a new adventure begins...\n\n(Source: Square Enix)"
     },
     {
       "id": "tt34424243",
@@ -281,13 +288,6 @@
         "defaultVideoId": "tt34424243"
       },
       "description": "Genres: Drama, Mecha, Military, Sci-Fi, Space\nPrequel project for Kidou Senshi Gundam SEED Freedom."
-    },
-    {
-      "id": "tt49320202",
-      "type": "series",
-      "name": "Boukensha License wo Hakudatsu Sareta Ossan Dakedo, Manamusume ga Dekita no de Nonbiri Jinsei wo Ouka Suru",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205430-u0DOkPrpzBOI.jpg",
-      "description": "Genres: Action, Adventure, Fantasy\nDouglas, once known as a legendary enhancement spellcaster, is now little more than your average, weak old man. On top of that, he was kicked out of the hero party, and eventually had his adventurer's license revoked... And that's how he ended up a vagabond, wandering aimlessly. After an encounter with Rabi, a cursed little girl, a new adventure begins...\n\n(Source: Square Enix)"
     },
     {
       "id": "tt48268779",
