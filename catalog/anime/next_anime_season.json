@@ -36,6 +36,13 @@
       "description": "Genres: Action, Adult Cast, Comedy, Parody, Seinen, Super Power\nPart two of One Punch Man 3."
     },
     {
+      "id": "kitsu:49221",
+      "type": "series",
+      "name": "Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181951-jTcWy5CUkS7L.jpg",
+      "description": "Genres: Adult Cast, Adventure, Drama, Romance, Supernatural\nSecond season of Ookami to Koushinryou: Merchant Meets the Wise Wolf."
+    },
+    {
       "id": "kitsu:48322",
       "type": "series",
       "name": "THE ONE PIECE",
@@ -98,7 +105,7 @@
       "id": "kitsu:49923",
       "type": "series",
       "name": "Isekai Munchkin: HP 1 no Mama de Saikyou Saisoku Dungeon Kouryaku",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183960-qvkHfCrO6cAq.jpg",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183960-Hgd9AMxsOyPa.jpg",
       "description": "Genres: Action, Adventure, Fantasy, Isekai, Reincarnation\nSixteen-year-old Yukito Kirihara lives with his 14-year-old sister Sana, who he treasures more than anyone else. But when an ogre shows up outside of his window looking for Sana (a shocking event in its own right), Yukito leaps to save her—and is killed. He's offered the promise of reincarnation by a mysterious woman, who gives him a character sheet in a mysterious book. But when Yukito sees Sana in there, too, he sets off to find her, and save them both—even if he only has 1 hp with which to do it!\n\n(Source: Kodansha USA)"
     },
     {
@@ -354,13 +361,6 @@
       "name": "Toratsugumi: Tsugumi Project",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214055-TiRmRTuElSJb.jpg",
       "description": "Genres: Action\nIn the distant future, the region once known as Japan has transformed into a deadly wasteland teeming with high radiation and bizarre monsters. This forbidden zone has long been uninhabitable for humans.\n\nThe story centers on Leon, a man framed for a crime he didn't commit, torn away from his wife and child, and sent to death row. To survive, he is forced to take on a highly classified, perilous mission with only two outcomes: success or death.\n\nIn the heart of this lethal territory, Leon encounters a variety of strange creatures—from a mysterious young girl to colossal beasts—that will forever change his fate.\n\n(Source: MAL News)"
-    },
-    {
-      "id": "tt45469910",
-      "type": "series",
-      "name": "Akazukin, Tabi no Tochuu de Shitai to Deau.",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214969-1bRdzmZnYFbq.png",
-      "description": "Genres: Comedy, Fantasy, Mystery\nThe fairytale of Little Red Riding Hood is as classic as they come, a familiar delivery of cookies and wine. But on this particular journey, Little Red Riding Hood... encounters a dead body?! As the mystery begins to unfold, familiar faces from other fairytales such as \"Cinderella,\" \"Hansel and Gretel,\" and \"Sleeping Beauty\" bring their own countless twists and tricks. Will she be able to solve the larger puzzle at the center of it all? A new detective is born!\n\n(Source: MAL News)"
     }
   ]
 }
