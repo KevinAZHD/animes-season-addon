@@ -137,6 +137,13 @@
       "description": "Genres: Adult Cast, Seinen, Slice of Life\nLiving in Asagaya, 29-year-old Hiroto Ikuta spends his days working at his part-time job and chatting with the locals. He likes visiting Hanae Wada most, a grumpy yet kind elderly woman whom Hiroto calls \"Granny.\" Hiroto's time with Granny is sadly cut short when she passes away from a heart attack. To his surprise, Hiroto inherits Granny's house as she never married or had children.\n\nThree months later, 18-year-old Natsumi Kobayashi moves from her hometown to attend art school. With nowhere else to go, she stays with her cousin Hiroto, whom she has not seen in years. Despite their opposing personalities, the pair begin living under the same roof as they struggle through their seemingly mundane lives.\n\n[Written by MAL Rewrite]"
     },
     {
+      "id": "kitsu:50449",
+      "type": "series",
+      "name": "Historié",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205130-dC5WuIvGMMgr.png",
+      "description": "Genres: Action, Adventure, Historical, Seinen\nAlexander the Great is a name known around the world as belonging to one of the greatest military commanders in history. But due to the grandeur of his name and enormity of his achievements, his right-hand man Eumenes remains a lesser-known historical figure. Eumenes led a turbulent life, overcoming numerous struggles and traveling great distances to meet and befriend many of the most influential names of his time.\n\nOne does not become the right hand of Alexander the Great by mere birth. Eumenes fought for his position with fierce talent, intellect, and confidence. This is his story.\n\n[Written by MAL Rewrite]"
+    },
+    {
       "id": "kitsu:50482",
       "type": "movie",
       "name": "Medalist Movie",
@@ -145,13 +152,6 @@
         "defaultVideoId": "kitsu:50482"
       },
       "description": "Genres: Drama, Performing Arts, Seinen, Sports\nSequel to Medalist 2nd Season."
-    },
-    {
-      "id": "kitsu:50449",
-      "type": "series",
-      "name": "Historié",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205130-dC5WuIvGMMgr.png",
-      "description": "Genres: Action, Adventure, Historical, Seinen\nAlexander the Great is a name known around the world as belonging to one of the greatest military commanders in history. But due to the grandeur of his name and enormity of his achievements, his right-hand man Eumenes remains a lesser-known historical figure. Eumenes led a turbulent life, overcoming numerous struggles and traveling great distances to meet and befriend many of the most influential names of his time.\n\nOne does not become the right hand of Alexander the Great by mere birth. Eumenes fought for his position with fierce talent, intellect, and confidence. This is his story.\n\n[Written by MAL Rewrite]"
     },
     {
       "id": "kitsu:50103",
@@ -217,18 +217,18 @@
       "description": "Genres: Action, Adventure, Fantasy, Time Travel\nAfter the Tower suddenly appeared, individuals who wished to pursue their personal values began to inhabit it, coming to be called \"hunters.\" Everyone had their own goals, but only a chosen few were acknowledged and given powerful skills by the mysterious structure. Kim Gong-Ja, a weak F-Class hunter without any skills, is envious of those who were blessed by the Tower. Letting his jealousy overcome him one day, Gong-Ja abruptly receives a S-Class skill that allows him to copy a skill from someone else—after they kill him.\n\nSooner than he likes, Gong-Ja gets to test his newly acquired ability on the legendary hunter known as the Flame Emperor. As he is dying, Gong-Ja learns the evil truth about the man he once admired the most. Receiving another potent skill that allows him to revive and go back in time by 24 hours, Gong-Ja devises a plan to travel 11 years into the past to eliminate the Flame Emperor and cement himself as the world's best hunter.\n\n[Written by MAL Rewrite]"
     },
     {
-      "id": "tt42027051",
-      "type": "series",
-      "name": "Matsurika Kanriden",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199590-gMBbisGLCZxa.png",
-      "description": "Genres: Drama, Fantasy, Historical, Romance, Shoujo\nMatsurika, a lady-in-waiting in the imperial palace, has a special talent—an excellent memory. One day, she is asked to act as a practice partner for a nobleman's arranged meeting, only to discover that her partner is none other than Emperor Hakuyou himself, who wished to try a matchmaking meeting. Impressed by her skill, the emperor unexpectedly tells her to \"go pass the imperial examination first.\" Thus begins the tale of a girl singled out by the emperor in this Chinese-style Cinderella story.\n\n(Source: MAL News)"
-    },
-    {
       "id": "kitsu:51168",
       "type": "series",
       "name": "Spirit Circle",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx219548-TJDkwN6I2ahO.png",
       "description": "Genres: Action, Adventure, Comedy, Drama, Reincarnation, Romance, Seinen, Supernatural\nFuuta Okeya, a 14-year-old student, can see ghosts and wears a bandage on his left cheek to hide his striking birthmark. One day, a girl with a scar on her forehead named Kouko Ishigami, accompanied by a ghost of a tall and friendly man, transfers into his class.\n\nFuuta quickly takes a liking to Kouko, wondering if it might be love at first sight. After waking up crying from a strange dream involving her, he feels a nostalgic connection to Kouko and becomes determined to befriend her. However, a chain of events forces Fuuta to reveal his birthmark to Kouko, to which she declares him to be the enemy of her life. A furious Kouko explains that the two are bound by reincarnation, and that Fuuta's birthmark is a curse she engraved on him in one of their past lives to recognize and eventually defeat him.\n\nKouko brings out a circular object made of flames known as the \"spirit circle\" and attacks Fuuta, pushing him off a flight of stairs. As he falls, Fuuta is thrown back into the insight of one of his previous lives.\n\n[Written by MAL Rewrite]"
+    },
+    {
+      "id": "tt42027051",
+      "type": "series",
+      "name": "Matsurika Kanriden",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199590-gMBbisGLCZxa.png",
+      "description": "Genres: Drama, Fantasy, Historical, Romance, Shoujo\nMatsurika, a lady-in-waiting in the imperial palace, has a special talent—an excellent memory. One day, she is asked to act as a practice partner for a nobleman's arranged meeting, only to discover that her partner is none other than Emperor Hakuyou himself, who wished to try a matchmaking meeting. Impressed by her skill, the emperor unexpectedly tells her to \"go pass the imperial examination first.\" Thus begins the tale of a girl singled out by the emperor in this Chinese-style Cinderella story.\n\n(Source: MAL News)"
     },
     {
       "id": "kitsu:50355",
@@ -314,7 +314,7 @@
       "id": "kitsu:50682",
       "type": "series",
       "name": "Around 40 Kenja no Isekai Seikatsu Nikki",
-      "poster": "https://cdn.myanimelist.net/images/anime/1111/160120l.jpg",
+      "poster": "https://cdn.myanimelist.net/images/anime/1111/160120l.webp",
       "description": "Genres: Action, Adventure, Fantasy, Isekai, Reincarnation\nForty-year-old Satoshi Osako is a farmer in the Japanese countryside—and a hardcore player of Swords & Sorceries, an online VRRPG. The day he finally manages to defeat the game's final boss, it curses him with its dying breath and kills him in real life! With a little help from a carefree goddess, Satoshi finds himself reincarnated into a mysterious new world as his in-game character, the incredibly powerful Great Sage known as Zelos Merlin. He accordingly decides to use his newfound powers to...continue living a quiet life on another farm! But first, he'll have to fight his way out of the vast, dangerous forest he woke up in—thanks a lot, goddess—and it won't be long before he's running into bandits, getting roped into teaching a young noble girl magic, and more. Will the almighty Great Sage be able to conquer the toughest quest of all: getting some peace and quiet?\n\n(Source: J-Novel Club)"
     },
     {
