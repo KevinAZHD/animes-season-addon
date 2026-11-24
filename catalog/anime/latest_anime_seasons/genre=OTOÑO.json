@@ -100,16 +100,9 @@
     {
       "id": "kitsu:46275",
       "type": "series",
-      "name": "Tantei wa mou, Shindeiru. Season 2",
+      "name": "Tantei wa Mou, Shindeiru. Season 2",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152677-gtJbgjE94lCN.png",
       "description": "Genres: Comedy, Detective, Mystery, Romance\nSecond season of Tantei wa Mou, Shindeiru."
-    },
-    {
-      "id": "kitsu:48397",
-      "type": "series",
-      "name": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-W7P5xEUaxF3y.jpg",
-      "description": "Genres: Action, Fantasy, School, Time Travel\nSecond season of Kikansha no Mahou wa Tokubetsu desu.\n"
     },
     {
       "id": "kitsu:50520",
@@ -117,6 +110,13 @@
       "name": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207191-VgkIzfH92WoZ.jpg",
       "description": "Genres: Fantasy, Josei, Romance\nDeep within the forest, a cozy and rather cluttered cottage sits on the lakeshore, housing a mysterious, feared witch. In truth, she is a lovely young woman named Rose, who has learned the art of potion-making from her wise grandmother. Rose cherishes her tucked-away life, yet there is a longing in her heart—for a handsome knight she once saw, Sir Harij Azm.\n\nFor four years, Rose's feelings for Harij have lingered, but she can never act on them; witches live outside of human affairs and belong to no country or man. So, when Harij suddenly appears on her doorstep looking for a love potion, Rose is both surprised and heartbroken. Although another woman has captured the noble knight's heart, Rose decides to help him. But before crafting the potion, Rose sends Harij on a series of ridiculous quests for each ingredient, hoping to delay the inevitable and savor their fleeting time together.\n\n[Written by MAL Rewrite]"
+    },
+    {
+      "id": "kitsu:48397",
+      "type": "series",
+      "name": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172192-W7P5xEUaxF3y.jpg",
+      "description": "Genres: Action, Fantasy, School, Time Travel\nSecond season of Kikansha no Mahou wa Tokubetsu desu.\n"
     },
     {
       "id": "kitsu:49437",
@@ -202,6 +202,13 @@
       "description": "Genres: Action, Fantasy, School\nSecond season of Hyouken no Majutsushi ga Sekai wo Suberu."
     },
     {
+      "id": "kitsu:50993",
+      "type": "series",
+      "name": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-mpm2cvr92Au2.jpg",
+      "description": "Genres: Action, Fantasy\nLent is part of the up-and-coming party known as the \"Skypiercers,\" and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious...until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!\n\n(Source: Seven Seas Entertainment)"
+    },
+    {
       "id": "kitsu:51012",
       "type": "series",
       "name": "Shiotaiou no Satou-san ga Ore ni dake Amai",
@@ -214,13 +221,6 @@
       "name": "PSYЯEN",
       "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204011-j45RZoqYbdZK.jpg",
       "description": "Genres: Action, High Stakes Game, Psychological, Romance, Sci-Fi, Shounen, Strategy Game, Supernatural, Suspense\nAgeha Yoshina is a self-confident high school student who helps others for a fee. On his way back from a job, he finds a strange calling card with the word \"Psyren\" imprinted left behind in a phone booth and decides to keep it, unaware of its purpose. The very next day, Ageha discovers that his classmate Sakurako Amamiya has the exact same calling card in her possession. When he questions her, Sakurako asks him to save her, signaling the day his troubles begin.\n\nConfused by the circumstances of this encounter, Ageha realizes something is wrong when Sakurako goes missing. In an attempt to figure out what is happening, he decides to call the number provided on the calling card and is asked a series of questions by a mysterious voice, ending with a final, cryptic question: \"Would you like to go to Psyren?\" Thus begins two teenagers' participation in a game of life or death within a strange world inhabited by monsters called Taboo. Granted the ability to use psychic powers known as PSI, the duo fight to return to the place they call home.\n\n[Written by MAL Rewrite]"
-    },
-    {
-      "id": "kitsu:50993",
-      "type": "series",
-      "name": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-mpm2cvr92Au2.jpg",
-      "description": "Genres: Action, Fantasy\nLent is part of the up-and-coming party known as the \"Skypiercers,\" and thanks to his unique Gift, he can loan massive amounts of magic to others. No MP? No problem with Lent around! Except, now that his companions have become formidable heroes (thanks to his skill), his usefulness is questioned. Kicked out of the group, Lent is furious...until he discovers a hidden power to his Gift. Now, with his adorably devious fairy partner, he's going to claw back every last scrap of magic from his former party—with interest!\n\n(Source: Seven Seas Entertainment)"
     },
     {
       "id": "kitsu:48651",
