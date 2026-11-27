@@ -314,6 +314,13 @@
       "description": "Genres: Action, Comedy, Shounen\nPart two of Yozakura-san Chi no Daisakusen 2nd Season."
     },
     {
+      "id": "kitsu:50013",
+      "type": "series",
+      "name": "MONOGATARI Series: OFF & MONSTER Season Wazamonogatari: Karen Ogre",
+      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195448-tdRfXlBhpWF0.jpg",
+      "description": "Genres: Comedy, Mystery, Supernatural, Vampire\nContinuation of Monogatari Series: Off & Monster Season."
+    },
+    {
       "id": "kitsu:50170",
       "type": "series",
       "name": "#Zombie Sagashitemasu",
@@ -360,13 +367,6 @@
         "defaultVideoId": "kitsu:50652"
       },
       "description": "Genres: Mystery, Romance, School\nKazuki Tsukigase is a high school boy who carries a certain secret. In search of a place where no one knows him, he enrolls at Sakijima High School on a remote island.\n\nOn Sakijima, there is a place known as the \"Cove of Spiriting Away.\" One early summer day, Kazuki finds a girl lying unconscious in the cove. The girl—Nanao, 16 years old—later regains consciousness in the hospital, but her identity remains unknown. What is the meaning behind the word \"1974\" that she murmured?\n\nA touching boy-meets-girl story.\n\n(Source: MAL News)"
-    },
-    {
-      "id": "kitsu:51021",
-      "type": "series",
-      "name": "Oji-san wa Kawaii Mono ga Osuki.",
-      "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202079-nwBpDUms0Bab.png",
-      "description": "Genres: Adult Cast, Comedy\nMitsutaka Oji is a 40-year-old, handsome office worker that is admired by his colleagues. Of course, he has a secret he is trying to hide from everyone: he loves cute things. But with his nephew going to his apartment, Mitsutaka's secret is now in danger!\n\n(Source: MU)"
     }
   ]
 }
